@@ -1,0 +1,21 @@
+Dataset,Field,Plain-language description,Sensitivity,Expected / canonical guidance
+All datasets,Record identifier,Unique event or record key,Internal,Should be unique and nonblank
+All datasets,Date/time fields,Recorded event timestamps,Internal,One consistent timezone and format
+All datasets,Comment / Description,Human-entered context,Potentially sensitive,"Review for identifiers, allegations and unsupported claims"
+Equipment_Events,Equipment_Name,Asset identifier or alias,Internal,"Canonical examples: TRK001, EXC001"
+Equipment_Events,Meter_Reading / Meter_Unit,Equipment meter value and unit,Internal,Units must be normalised before comparison
+Delays_Downtime,Duration / Duration_Unit,Recorded delay magnitude,Internal,Must align with start and end timestamps
+Delays_Downtime,Delay_Category,Reason grouping,Internal,Use controlled categories
+Operator_Activities,"Operator_Name, Email, Mobile_Number",Direct identifiers,Personal,Use only if necessary for stated purpose
+Operator_Activities,"Home_Zone, Contractor_Group",Indirect or proxy attributes,Potentially sensitive,May identify or disadvantage groups
+Operator_Activities,Quantity / Quantity_Unit,Recorded output quantity,Internal,Do not combine mixed units
+Shift_Performance,"Availability_Pct, Utilisation_Pct",Operational rates,Internal,Expected range 0% to 100%
+Shift_Performance,Fuel_Used / Fuel_Unit,Shift fuel usage,Internal,Normalise units
+Safety_Observations,Observed_Person_ID,Person associated with observation,Personal,Observation is not proof of fault
+Safety_Observations,Description,Free-text safety narrative,Potentially sensitive,May contain identifiers or allegations
+Training_Records,Medical_Fitness_Code,Restricted fitness code,Sensitive personal,Do not use without appropriate purpose and authority
+Training_Records,Home_Zone,Geographic proxy,Potentially sensitive,May indirectly identify individuals
+Maintenance_Notifications,Downtime_Hours,Recorded outage duration,Internal,Should reconcile with actual timestamps
+Environmental_Readings,Value / Unit,Environmental measurement,Internal,Interpret only with matching unit and quality flag
+Access_Control,"Badge_ID, Employee_ID, Employee_Name",Access and identity data,Personal,Purpose-limit access and avoid unnecessary exposure
+Access_Control,"Home_Zone, Contractor_Group",Proxy attributes,Potentially sensitive,Do not treat as performance drivers without justification
