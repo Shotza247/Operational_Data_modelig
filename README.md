@@ -13,7 +13,7 @@ PHASE 4 - EXCEPTION REGISTER
 PHASE 5 - VALIDATION & TRUST ASSESSMENT
 ```
 
-The project is currently at the end of Phase 1, with Phase 1.5 started through the initial rule catalogue notes.
+The project has completed Phase 1 inventory/profiling and now has an initial Phase 1.5 data quality rule catalogue ready to drive Phase 2 cleaning.
 
 ## Completed In Phase 1
 
@@ -55,13 +55,15 @@ Current inventory files:
 6. `Free-text_inventory.csv`
 7. `privacy_sensitive_fields.csv`
 8. `data_dictionary.csv`
-9. `Equipment_Events_numeric_profile.csv`
-10. `Delays_Downtime_numeric_profile.csv`
-11. `Operator_Activities_numeric_profile.csv`
-12. `Shift_Performance_numeric_profile.csv`
-13. `Training_Records_numeric_profile.csv`
-14. `Maintenance_Notifications_numeric_profile.csv`
-15. `Environmental_Readings_numeric_profile.csv`
+9. `data_quality_rule_catalogue.csv`
+10. `rule_domain_overrides.csv`
+11. `Equipment_Events_numeric_profile.csv`
+12. `Delays_Downtime_numeric_profile.csv`
+13. `Operator_Activities_numeric_profile.csv`
+14. `Shift_Performance_numeric_profile.csv`
+15. `Training_Records_numeric_profile.csv`
+16. `Maintenance_Notifications_numeric_profile.csv`
+17. `Environmental_Readings_numeric_profile.csv`
 
 ## High-Level Profiling Results
 
@@ -93,9 +95,57 @@ The profiling phase identified early quality signals that should become formal r
 6. Unit fields require rule-based handling before comparison, including minutes vs hours, litres vs gallons, and mixed environmental units.
 7. Privacy-sensitive fields were identified, including names, emails, mobile numbers, home zones, badge IDs, employee IDs, operator IDs, medical fitness codes, and free-text comments/descriptions.
 
-## Phase 1.5 Rule Catalogue Direction
+## Phase 1.5 Rule Catalogue
 
-The next step is to convert the profile findings and `Data_Dictionary` guidance into a formal Project Signal Data Quality Rule Catalogue.
+The profile findings and `Data_Dictionary` guidance have been converted into a programmatically generated Project Signal Data Quality Rule Catalogue:
+
+```text
+Task_1_Package/data_inventory/data_quality_rule_catalogue.csv
+Task_1_Package/data_quality_rule_catalogue.ipynb
+Task_1_Package/rule_catalogue_generator.py
+```
+
+The catalogue is generated from the existing profiling outputs rather than manually typed into the notebook. Human judgement rules can be added to:
+
+```text
+Task_1_Package/data_inventory/rule_domain_overrides.csv
+```
+
+The catalogue currently contains 200 rules and uses these columns:
+
+```text
+Rule_ID
+Dataset
+Column
+Rule_Type
+Valid_Condition
+Action
+Auto_Correct_Allowed
+Severity
+Reason
+Rule_Source
+Evidence
+```
+
+Rule coverage summary:
+
+| Rule Type | Rule Count |
+|---|---:|
+| Completeness | 28 |
+| Consistency | 5 |
+| Data dictionary guidance | 20 |
+| Plausibility | 14 |
+| Privacy | 24 |
+| Temporal integrity | 6 |
+| Uniqueness | 19 |
+| Validity | 84 |
+
+The catalogue separates rules that can be auto-corrected from rules that must be flagged. Current status:
+
+| Auto Correct Allowed | Rule Count |
+|---|---:|
+| TRUE | 67 |
+| FALSE | 133 |
 
 Rules should define:
 
@@ -152,4 +202,4 @@ The exception workflow should support these review outcomes:
 
 ## Next Work
 
-The immediate next task is to build the Phase 1.5 Data Quality Rule Catalogue from the data dictionary and profiling outputs. After that, the cleaning engine can be implemented using explicit rules rather than assumptions.
+The immediate next task is Phase 2: build the cleaning and standardisation engine using the rule catalogue. That phase should produce cleaned datasets plus a transformation log that answers what changed, why it changed, which rule caused it, and whether the change was automatic or reviewed.
