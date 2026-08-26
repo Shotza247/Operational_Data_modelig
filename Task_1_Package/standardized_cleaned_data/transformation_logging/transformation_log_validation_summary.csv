@@ -1,0 +1,7 @@
+Check,Passed,Issue_Count,Details
+Required transformation log columns are present,True,0,OK
+Required evidence fields are populated,True,0,OK
+Rule_ID values link back to the rule catalogue,True,0,OK
+Action_Type values are valid,True,0,OK
+Review_Status values are valid,True,0,OK
+Logged changes have different original and new values,True,0,OK

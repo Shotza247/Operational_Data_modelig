@@ -1,0 +1,49 @@
+Rule_ID,Rule_Type,Reason,Action_Type,Review_Status,Transformation_Count,Dataset_Count,Affected_Column_Count
+DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT,42,1,1
+DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT,41,1,1
+DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT,41,1,1
+DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT,39,1,1
+DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT,38,1,1
+DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT,37,1,1
+DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,35,1,1
+DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,35,1,1
+DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,35,1,1
+DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,35,1,1
+DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,35,1,1
+DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,35,1,1
+DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,35,1,1
+DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,35,1,1
+DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,35,1,1
+DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,35,1,1
+DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,35,1,1
+DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,35,1,1
+DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,34,1,1
+DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,34,1,1
+DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,34,1,1
+DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,33,1,1
+DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT,28,1,1
+DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT,24,1,1
+DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT,22,1,2
+DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT,18,1,1
+DQ-0097,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT,15,1,1
+DQ-0082,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT,11,1,1
+DQ-0032,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT,10,1,1
+DQ-0078,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT,10,1,1
+DQ-0077,Data dictionary guidance,Equipment meter value and unit,AUTO_CORRECT,AUTO_CORRECT,10,1,1
+DQ-0139,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT,10,1,1
+DQ-0137,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT,9,1,1
+DQ-0155,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT,9,1,1
+DQ-0074,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT,9,1,1
+DQ-0112,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT,9,1,1
+DQ-0066,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT,1,1,1
+DQ-0050,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT,1,1,1
+DQ-0017,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT,1,1,1
+DQ-0042,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT,1,1,1
+DQ-0117,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT,1,1,1
+DQ-0091,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT,1,1,1
+DQ-0162,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT,1,1,1
+DQ-0142,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT,1,1,1
+DQ-0165,Data dictionary guidance,Shift fuel usage,AUTO_CORRECT,AUTO_CORRECT,1,1,1
+DQ-0164,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT,1,1,1
+DQ-0180,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT,1,1,1
+DQ-0183,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT,1,1,1
