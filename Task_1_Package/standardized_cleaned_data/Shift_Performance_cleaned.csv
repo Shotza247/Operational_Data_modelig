@@ -1,0 +1,46 @@
+Shift_Record_ID,Shift_Date,Shift_Code,Crew,Equipment_Name,Operator_ID,Scheduled_Hours,Actual_Hours,Loads,Tonnes,Fuel_Used,Fuel_Unit,Availability_Pct,Utilisation_Pct,Supervisor_Comment
+SHF0001,2026-07-01,Day,Charlie,TRK-002,OP1002,12,9,31,2945,486.0,litres,0.77,0.7,Road wet
+SHF0002,2026-01-07,Night,Alpha,TRK-003,OP1003,12,9,26,2470,438.0,litres,0.88,0.67,Older equipment allocated
+SHF0003,2026-07-02,Day,Bravo,EXC-001,OP1004,12,9,39,3315,774.0,litres,0.74,0.67,Road wet
+SHF0004,2026-07-02,Night,Bravo,EXC-002,OP1005,12,10,21,1995,828.0,litres,0.97,0.83,
+SHF0005,2026-07-03,Day,Bravo,DRL-001,OP1006,12,26,37,3330,632.0,litres,0.78,0.64,Older equipment allocated
+SHF0006,2026-03-07,Night,Alpha,TRK-001,OP1007,12,8,38,3420,616.0,litres,0.93,0.91,Short staffed
+SHF0007,2026-07-04,Day,Charlie,TRK-002,OP1008,12,11,26,2470,731.0,litres,0.74,0.64,Older equipment allocated
+SHF0008,2026-07-04,Night,Bravo,TRK-003,OP1001,12,10,32,2720,516.0,litres,0.98,0.85,
+SHF0009,2026-07-05,Day,Alpha,EXC-001,OP1002,12,11,29,2465,443.0,litres,0.74,0.62,Older equipment allocated
+SHF0010,2026-05-07,Night,Charlie,EXC-002,OP1003,12,9,19,1615,804.0,litres,0.7,0.93,Normal conditions
+SHF0011,2026-07-06,Day,Alpha,DRL-001,OP1004,12,9,28,2380,445.0,litres,0.97,0.62,
+SHF0012,2026-07-06,Night,Alpha,TRK-001,OP1005,12,9,26,2470,527.0,litres,0.95,0.91,Road wet
+SHF0013,2026-07-07,Day,Charlie,TRK-002,OP1006,12,10,18,1620,441.0,litres,0.9,0.9,Older equipment allocated
+SHF0014,2026-07-07,Night,Charlie,TRK-003,OP1007,12,10,-3,3705,475.0,litres,0.98,0.78,Short staffed
+SHF0015,2026-07-08,Day,Alpha,EXC-001,OP1008,12,11,36,3240,487.0,litres,0.99,0.89,
+SHF0016,2026-07-08,Night,Bravo,EXC-002,OP1001,12,10,33,2805,685.0,litres,0.78,0.86,Older equipment allocated
+SHF0017,2026-07-09,Day,Alpha,DRL-001,OP1002,12,11,37,3515,696.0,litres,0.72,0.77,Short staffed
+SHF0018,2026-09-07,Night,Bravo,TRK-001,OP1003,12,8,38,3610,791.0,litres,0.86,0.68,Road wet
+SHF0019,2026-07-10,Day,Alpha,TRK-002,OP1004,12,9,20,1700,0.0,litres,0.98,0.89,Older equipment allocated
+SHF0020,2026-07-10,Night,Charlie,TRK-003,OP1005,12,11,38,3610,446.0,litres,0.9,0.87,Older equipment allocated
+SHF0021,2026-07-11,Day,Bravo,EXC-001,OP1006,12,11,33,2970,537.0,litres,0.89,0.82,Short staffed
+SHF0022,2026-11-07,Night,Bravo,EXC-002,OP1007,12,8,37,3330,589.0,litres,0.73,0.64,Older equipment allocated
+SHF0023,2026-07-12,Day,Bravo,DRL-001,OP1008,12,9,28,2520,821.0,litres,0.73,0.63,Normal conditions
+SHF0024,2026-07-12,Night,Alpha,TRK-001,OP1001,12,9,23,1955,621.0,litres,0.8,0.65,Short staffed
+SHF0025,2026-07-13,Day,Bravo,TRK-002,OP1002,12,10,33,3135,2630.86,litres,0.75,0.71,Road wet
+SHF0026,2026-07-13,Night,Alpha,TRK-003,OP1003,12,11,35,3325,596.0,litres,0.72,0.85,Older equipment allocated
+SHF0027,2026-07-14,Day,Bravo,EXC-001,OP1004,12,12,32,3040,681.0,litres,0.76,0.77,Older equipment allocated
+SHF0028,2026-07-14,Night,Bravo,EXC-002,OP1005,12,8,29,2465,693.0,litres,0.99,0.74,Road wet
+SHF0029,2026-07-15,Day,Bravo,DRL-001,OP1006,12,12,23,2070,505.0,litres,0.74,0.73,Road wet
+SHF0030,2026-07-15,Night,Charlie,TRK-001,OP1007,12,12,29,2755,842.0,litres,0.91,0.84,Road wet
+SHF0031,2026-07-16,Day,Charlie,TRK-002,OP1008,12,12,39,3510,668.0,litres,0.89,0.76,
+SHF0032,2026-07-16,Night,Bravo,TRK-003,OP1001,12,10,32,3040,447.0,litres,0.72,0.82,Normal conditions
+SHF0033,2026-07-17,Day,Charlie,EXC-001,OP1002,12,12,37,3145,685.0,litres,1.35,0.71,
+SHF0034,2026-07-17,Night,Bravo,EXC-002,OP1003,12,8,40,3800,786.0,litres,0.77,0.73,Normal conditions
+SHF0035,2026-07-18,Day,Charlie,DRL-001,OP1004,12,8,29,2755,659.0,litres,0.81,0.79,Short staffed
+SHF0036,2026-07-18,Night,Bravo,TRK-001,OP1005,12,11,21,1785,658.0,litres,0.7,0.63,Short staffed
+SHF0037,2026-07-19,Day,Bravo,TRK-002,OP1006,12,10,20,1900,625.0,litres,0.77,0.65,Short staffed
+SHF0038,2026-07-19,Night,Charlie,TRK-003,OP1007,12,11,29,2465,589.0,litres,0.8,0.86,Road wet
+SHF0039,2026-07-20,Day,Alpha,EXC-001,OP1008,12,8,27,2565,686.0,litres,0.75,0.78,Short staffed
+SHF0040,2026-07-20,Night,Alpha,EXC-002,OP1001,12,10,26,2210,706.0,litres,0.91,0.62,
+SHF0041,2026-07-21,Day,Alpha,DRL-001,OP1002,12,12,24,2040,737.0,litres,0.73,0.81,Normal conditions
+SHF0042,2026-07-21,Night,Charlie,TRK-001,OP1003,12,10,29,2465,476.0,litres,0.89,0.64,Short staffed
+SHF0043,2026-07-22,Day,Charlie,TRK-002,OP1004,12,9,25,2250,849.0,litres,0.99,0.75,Road wet
+SHF0044,2026-07-22,Night,Alpha,TRK-003,OP1005,12,9,31,2635,553.0,litres,0.84,0.71,Road wet
+SHF0045,2026-07-23,Day,Charlie,EXC-001,OP1006,12,9,40,3400,810.0,litres,0.74,0.63,Normal conditions

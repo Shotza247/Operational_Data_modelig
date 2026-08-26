@@ -1,0 +1,280 @@
+Exception_ID,Dataset,Source_Row_Index,Source_Row_Number,Record_ID,Column,Issue_Type,Value,Rule_ID,Severity,Recommended_Action,Status
+EXC-00001,Equipment_Events,6,8,EVT0007,Equipment_Name,Missing value,,DQ-0067,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00002,Equipment_Events,0,2,EVT0001,Comment,Missing value,,DQ-0065,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00003,Equipment_Events,4,6,EVT0005,Comment,Missing value,,DQ-0065,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00004,Equipment_Events,6,8,EVT0007,Comment,Missing value,,DQ-0065,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00005,Equipment_Events,9,11,EVT0010,Comment,Missing value,,DQ-0065,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00006,Equipment_Events,13,15,EVT0014,Comment,Missing value,,DQ-0065,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00007,Equipment_Events,15,17,EVT0016,Comment,Missing value,,DQ-0065,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00008,Equipment_Events,17,19,EVT0018,Comment,Missing value,,DQ-0065,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00009,Equipment_Events,18,20,EVT0019,Comment,Missing value,,DQ-0065,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00010,Equipment_Events,21,23,EVT0022,Comment,Missing value,,DQ-0065,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00011,Equipment_Events,25,27,EVT0026,Comment,Missing value,,DQ-0065,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00012,Equipment_Events,26,28,EVT0027,Comment,Missing value,,DQ-0065,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00013,Equipment_Events,27,29,EVT0028,Comment,Missing value,,DQ-0065,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00014,Equipment_Events,41,43,EVT0042,Comment,Missing value,,DQ-0065,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00015,Equipment_Events,43,45,EVT0044,Comment,Missing value,,DQ-0065,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00016,Equipment_Events,45,47,EVT0010,Comment,Missing value,,DQ-0065,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00017,Delays_Downtime,20,22,DLY0021,Duration,Missing value,,DQ-0036,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00018,Delays_Downtime,0,2,DLY0001,Approved_By,Missing value,,DQ-0027,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00019,Delays_Downtime,3,5,DLY0004,Approved_By,Missing value,,DQ-0027,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00020,Delays_Downtime,4,6,DLY0005,Approved_By,Missing value,,DQ-0027,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00021,Delays_Downtime,9,11,DLY0010,Approved_By,Missing value,,DQ-0027,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00022,Delays_Downtime,13,15,DLY0014,Approved_By,Missing value,,DQ-0027,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00023,Delays_Downtime,15,17,DLY0016,Approved_By,Missing value,,DQ-0027,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00024,Delays_Downtime,17,19,DLY0018,Approved_By,Missing value,,DQ-0027,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00025,Delays_Downtime,22,24,DLY0023,Approved_By,Missing value,,DQ-0027,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00026,Delays_Downtime,26,28,DLY0027,Approved_By,Missing value,,DQ-0027,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00027,Delays_Downtime,28,30,DLY0029,Approved_By,Missing value,,DQ-0027,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00028,Delays_Downtime,31,33,DLY0032,Approved_By,Missing value,,DQ-0027,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00029,Delays_Downtime,33,35,DLY0034,Approved_By,Missing value,,DQ-0027,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00030,Delays_Downtime,34,36,DLY0035,Approved_By,Missing value,,DQ-0027,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00031,Delays_Downtime,36,38,DLY0037,Approved_By,Missing value,,DQ-0027,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00032,Delays_Downtime,45,47,DLY0005,Approved_By,Missing value,,DQ-0027,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00033,Delays_Downtime,9,11,DLY0010,Comment,Missing value,,DQ-0030,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00034,Delays_Downtime,16,18,DLY0017,Comment,Missing value,,DQ-0030,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00035,Delays_Downtime,18,20,DLY0019,Comment,Missing value,,DQ-0030,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00036,Delays_Downtime,19,21,DLY0020,Comment,Missing value,,DQ-0030,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00037,Delays_Downtime,27,29,DLY0028,Comment,Missing value,,DQ-0030,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00038,Delays_Downtime,30,32,DLY0031,Comment,Missing value,,DQ-0030,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00039,Delays_Downtime,33,35,DLY0034,Comment,Missing value,,DQ-0030,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00040,Delays_Downtime,35,37,DLY0036,Comment,Missing value,,DQ-0030,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00041,Delays_Downtime,39,41,DLY0040,Comment,Missing value,,DQ-0030,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00042,Delays_Downtime,42,44,DLY0043,Comment,Missing value,,DQ-0030,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00043,Delays_Downtime,5,7,DLY0006,Duration,Negative numeric value,-45.0,DQ-0037,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00044,Delays_Downtime,8,10,DLY0009,Start_Time|End_Time,Temporal contradiction,2026-07-03 12:00:00 -> 2026-07-03 11:30:00,DQ-0047,Critical,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00045,Operator_Activities,7,9,ACT0008,Operator_ID,Missing value,,DQ-0124,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00046,Operator_Activities,0,2,ACT0001,Comment,Missing value,,DQ-0113,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00047,Operator_Activities,8,10,ACT0009,Comment,Missing value,,DQ-0113,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00048,Operator_Activities,13,15,ACT0014,Comment,Missing value,,DQ-0113,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00049,Operator_Activities,21,23,ACT0022,Comment,Missing value,,DQ-0113,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00050,Operator_Activities,24,26,ACT0025,Comment,Missing value,,DQ-0113,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00051,Operator_Activities,25,27,ACT0026,Comment,Missing value,,DQ-0113,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00052,Operator_Activities,12,14,ACT0013,Activity_Start|Activity_End,Temporal contradiction,2026-07-03 23:00:00 -> 2026-07-03 21:00:00,DQ-0111,Critical,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00053,Shift_Performance,0,2,SHF0001,Actual_Hours,Unparseable date/time,9,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00054,Shift_Performance,1,3,SHF0002,Actual_Hours,Unparseable date/time,9,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00055,Shift_Performance,2,4,SHF0003,Actual_Hours,Unparseable date/time,9,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00056,Shift_Performance,3,5,SHF0004,Actual_Hours,Unparseable date/time,10,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00057,Shift_Performance,4,6,SHF0005,Actual_Hours,Unparseable date/time,26,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00058,Shift_Performance,5,7,SHF0006,Actual_Hours,Unparseable date/time,8,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00059,Shift_Performance,6,8,SHF0007,Actual_Hours,Unparseable date/time,11,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00060,Shift_Performance,7,9,SHF0008,Actual_Hours,Unparseable date/time,10,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00061,Shift_Performance,8,10,SHF0009,Actual_Hours,Unparseable date/time,11,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00062,Shift_Performance,9,11,SHF0010,Actual_Hours,Unparseable date/time,9,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00063,Shift_Performance,10,12,SHF0011,Actual_Hours,Unparseable date/time,9,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00064,Shift_Performance,11,13,SHF0012,Actual_Hours,Unparseable date/time,9,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00065,Shift_Performance,12,14,SHF0013,Actual_Hours,Unparseable date/time,10,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00066,Shift_Performance,13,15,SHF0014,Actual_Hours,Unparseable date/time,10,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00067,Shift_Performance,14,16,SHF0015,Actual_Hours,Unparseable date/time,11,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00068,Shift_Performance,15,17,SHF0016,Actual_Hours,Unparseable date/time,10,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00069,Shift_Performance,16,18,SHF0017,Actual_Hours,Unparseable date/time,11,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00070,Shift_Performance,17,19,SHF0018,Actual_Hours,Unparseable date/time,8,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00071,Shift_Performance,18,20,SHF0019,Actual_Hours,Unparseable date/time,9,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00072,Shift_Performance,19,21,SHF0020,Actual_Hours,Unparseable date/time,11,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00073,Shift_Performance,20,22,SHF0021,Actual_Hours,Unparseable date/time,11,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00074,Shift_Performance,21,23,SHF0022,Actual_Hours,Unparseable date/time,8,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00075,Shift_Performance,22,24,SHF0023,Actual_Hours,Unparseable date/time,9,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00076,Shift_Performance,23,25,SHF0024,Actual_Hours,Unparseable date/time,9,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00077,Shift_Performance,24,26,SHF0025,Actual_Hours,Unparseable date/time,10,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00078,Shift_Performance,25,27,SHF0026,Actual_Hours,Unparseable date/time,11,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00079,Shift_Performance,26,28,SHF0027,Actual_Hours,Unparseable date/time,12,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00080,Shift_Performance,27,29,SHF0028,Actual_Hours,Unparseable date/time,8,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00081,Shift_Performance,28,30,SHF0029,Actual_Hours,Unparseable date/time,12,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00082,Shift_Performance,29,31,SHF0030,Actual_Hours,Unparseable date/time,12,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00083,Shift_Performance,30,32,SHF0031,Actual_Hours,Unparseable date/time,12,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00084,Shift_Performance,31,33,SHF0032,Actual_Hours,Unparseable date/time,10,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00085,Shift_Performance,32,34,SHF0033,Actual_Hours,Unparseable date/time,12,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00086,Shift_Performance,33,35,SHF0034,Actual_Hours,Unparseable date/time,8,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00087,Shift_Performance,34,36,SHF0035,Actual_Hours,Unparseable date/time,8,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00088,Shift_Performance,35,37,SHF0036,Actual_Hours,Unparseable date/time,11,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00089,Shift_Performance,36,38,SHF0037,Actual_Hours,Unparseable date/time,10,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00090,Shift_Performance,37,39,SHF0038,Actual_Hours,Unparseable date/time,11,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00091,Shift_Performance,38,40,SHF0039,Actual_Hours,Unparseable date/time,8,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00092,Shift_Performance,39,41,SHF0040,Actual_Hours,Unparseable date/time,10,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00093,Shift_Performance,40,42,SHF0041,Actual_Hours,Unparseable date/time,12,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00094,Shift_Performance,41,43,SHF0042,Actual_Hours,Unparseable date/time,10,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00095,Shift_Performance,42,44,SHF0043,Actual_Hours,Unparseable date/time,9,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00096,Shift_Performance,43,45,SHF0044,Actual_Hours,Unparseable date/time,9,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00097,Shift_Performance,44,46,SHF0045,Actual_Hours,Unparseable date/time,9,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00098,Shift_Performance,45,47,SHF0008,Actual_Hours,Unparseable date/time,10,DQ-0158,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00099,Shift_Performance,3,5,SHF0004,Supervisor_Comment,Missing value,,DQ-0175,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00100,Shift_Performance,7,9,SHF0008,Supervisor_Comment,Missing value,,DQ-0175,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00101,Shift_Performance,10,12,SHF0011,Supervisor_Comment,Missing value,,DQ-0175,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00102,Shift_Performance,14,16,SHF0015,Supervisor_Comment,Missing value,,DQ-0175,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00103,Shift_Performance,30,32,SHF0031,Supervisor_Comment,Missing value,,DQ-0175,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00104,Shift_Performance,32,34,SHF0033,Supervisor_Comment,Missing value,,DQ-0175,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00105,Shift_Performance,39,41,SHF0040,Supervisor_Comment,Missing value,,DQ-0175,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00106,Shift_Performance,45,47,SHF0008,Supervisor_Comment,Missing value,,DQ-0175,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00107,Shift_Performance,13,15,SHF0014,Loads,Negative numeric value,-3,DQ-0166,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00108,Shift_Performance,32,34,SHF0033,Availability_Pct,Percentage outside expected 0 to 1 range,1.35,DQ-0159,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00109,Safety_Observations,3,5,SAF0004,Description,Missing value,,DQ-0140,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00110,Safety_Observations,6,8,SAF0007,Description,Missing value,,DQ-0140,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00111,Safety_Observations,9,11,SAF0010,Description,Missing value,,DQ-0140,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00112,Safety_Observations,10,12,SAF0011,Description,Missing value,,DQ-0140,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00113,Safety_Observations,17,19,SAF0018,Description,Missing value,,DQ-0140,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00114,Safety_Observations,23,25,SAF0024,Description,Missing value,,DQ-0140,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00115,Safety_Observations,25,27,SAF0026,Description,Missing value,,DQ-0140,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00116,Safety_Observations,28,30,SAF0029,Description,Missing value,,DQ-0140,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00117,Safety_Observations,37,39,SAF0038,Description,Missing value,,DQ-0140,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00118,Safety_Observations,45,47,SAF0004,Description,Missing value,,DQ-0140,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00119,Safety_Observations,13,15,SAF0014,Immediate_Action,Missing value,,DQ-0144,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00120,Safety_Observations,20,22,SAF0021,Immediate_Action,Missing value,,DQ-0144,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00121,Safety_Observations,23,25,SAF0024,Immediate_Action,Missing value,,DQ-0144,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00122,Safety_Observations,25,27,SAF0026,Immediate_Action,Missing value,,DQ-0144,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00123,Safety_Observations,26,28,SAF0027,Immediate_Action,Missing value,,DQ-0144,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00124,Safety_Observations,29,31,SAF0030,Immediate_Action,Missing value,,DQ-0144,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00125,Safety_Observations,0,2,SAF0001,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00126,Safety_Observations,1,3,SAF0002,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00127,Safety_Observations,2,4,SAF0003,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00128,Safety_Observations,3,5,SAF0004,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00129,Safety_Observations,9,11,SAF0010,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00130,Safety_Observations,11,13,SAF0012,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00131,Safety_Observations,12,14,SAF0013,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00132,Safety_Observations,15,17,SAF0016,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00133,Safety_Observations,16,18,SAF0017,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00134,Safety_Observations,19,21,SAF0020,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00135,Safety_Observations,20,22,SAF0021,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00136,Safety_Observations,21,23,SAF0022,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00137,Safety_Observations,22,24,SAF0023,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00138,Safety_Observations,23,25,SAF0024,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00139,Safety_Observations,24,26,SAF0025,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00140,Safety_Observations,25,27,SAF0026,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00141,Safety_Observations,26,28,SAF0027,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00142,Safety_Observations,29,31,SAF0030,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00143,Safety_Observations,30,32,SAF0031,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00144,Safety_Observations,31,33,SAF0032,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00145,Safety_Observations,32,34,SAF0033,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00146,Safety_Observations,33,35,SAF0034,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00147,Safety_Observations,34,36,SAF0035,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00148,Safety_Observations,35,37,SAF0036,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00149,Safety_Observations,36,38,SAF0037,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00150,Safety_Observations,38,40,SAF0039,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00151,Safety_Observations,39,41,SAF0040,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00152,Safety_Observations,40,42,SAF0041,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00153,Safety_Observations,41,43,SAF0042,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00154,Safety_Observations,42,44,SAF0043,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00155,Safety_Observations,44,46,SAF0045,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00156,Safety_Observations,45,47,SAF0004,Closed_Date,Missing value,,DQ-0138,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00157,Safety_Observations,3,5,SAF0004,Attachment_Name,Missing value,,DQ-0134,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00158,Safety_Observations,5,7,SAF0006,Attachment_Name,Missing value,,DQ-0134,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00159,Safety_Observations,8,10,SAF0009,Attachment_Name,Missing value,,DQ-0134,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00160,Safety_Observations,9,11,SAF0010,Attachment_Name,Missing value,,DQ-0134,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00161,Safety_Observations,17,19,SAF0018,Attachment_Name,Missing value,,DQ-0134,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00162,Safety_Observations,19,21,SAF0020,Attachment_Name,Missing value,,DQ-0134,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00163,Safety_Observations,22,24,SAF0023,Attachment_Name,Missing value,,DQ-0134,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00164,Safety_Observations,27,29,SAF0028,Attachment_Name,Missing value,,DQ-0134,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00165,Safety_Observations,30,32,SAF0031,Attachment_Name,Missing value,,DQ-0134,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00166,Safety_Observations,34,36,SAF0035,Attachment_Name,Missing value,,DQ-0134,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00167,Safety_Observations,36,38,SAF0037,Attachment_Name,Missing value,,DQ-0134,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00168,Safety_Observations,39,41,SAF0040,Attachment_Name,Missing value,,DQ-0134,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00169,Safety_Observations,41,43,SAF0042,Attachment_Name,Missing value,,DQ-0134,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00170,Safety_Observations,43,45,SAF0044,Attachment_Name,Missing value,,DQ-0134,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00171,Safety_Observations,45,47,SAF0004,Attachment_Name,Missing value,,DQ-0134,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00172,Safety_Observations,5,7,SAF0006,Observation_Date|Closed_Date,Temporal contradiction,2026-07-03 12:00:00 -> 2026-07-01 12:00:00,DQ-0148,Critical,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00173,Training_Records,5,7,TRN0006,Comment,Missing value,,DQ-0177,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00174,Training_Records,7,9,TRN0008,Comment,Missing value,,DQ-0177,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00175,Training_Records,9,11,TRN0010,Comment,Missing value,,DQ-0177,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00176,Training_Records,14,16,TRN0015,Comment,Missing value,,DQ-0177,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00177,Training_Records,16,18,TRN0017,Comment,Missing value,,DQ-0177,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00178,Training_Records,22,24,TRN0023,Comment,Missing value,,DQ-0177,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00179,Training_Records,26,28,TRN0027,Comment,Missing value,,DQ-0177,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00180,Training_Records,28,30,TRN0029,Comment,Missing value,,DQ-0177,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00181,Training_Records,32,34,TRN0033,Comment,Missing value,,DQ-0177,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00182,Training_Records,36,38,TRN0037,Comment,Missing value,,DQ-0177,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00183,Training_Records,38,40,TRN0039,Comment,Missing value,,DQ-0177,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00184,Training_Records,40,42,TRN0041,Comment,Missing value,,DQ-0177,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00185,Training_Records,43,45,TRN0044,Comment,Missing value,,DQ-0177,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00186,Training_Records,44,46,TRN0045,Comment,Missing value,,DQ-0177,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00187,Training_Records,45,47,TRN0006,Comment,Missing value,,DQ-0177,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00188,Training_Records,22,24,TRN0023,Score,Score outside 0 to 100 range,145,DQ-0197,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00189,Training_Records,7,9,TRN0008,Completion_Date|Expiry_Date,Temporal contradiction,2025-05-01 -> 2025-04-11,DQ-0179,Critical,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00190,Maintenance_Notifications,0,2,MNT0001,Downtime_Hours,Unparseable date/time,2,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00191,Maintenance_Notifications,1,3,MNT0002,Downtime_Hours,Unparseable date/time,2,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00192,Maintenance_Notifications,2,4,MNT0003,Downtime_Hours,Unparseable date/time,1,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00193,Maintenance_Notifications,3,5,MNT0004,Downtime_Hours,Unparseable date/time,4,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00194,Maintenance_Notifications,4,6,MNT0005,Downtime_Hours,Unparseable date/time,1,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00195,Maintenance_Notifications,5,7,MNT0006,Downtime_Hours,Unparseable date/time,1,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00196,Maintenance_Notifications,6,8,MNT0007,Downtime_Hours,Unparseable date/time,-4,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00197,Maintenance_Notifications,7,9,MNT0008,Downtime_Hours,Unparseable date/time,4,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00198,Maintenance_Notifications,8,10,MNT0009,Downtime_Hours,Unparseable date/time,2,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00199,Maintenance_Notifications,9,11,MNT0010,Downtime_Hours,Unparseable date/time,1,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00200,Maintenance_Notifications,10,12,MNT0011,Downtime_Hours,Unparseable date/time,2,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00201,Maintenance_Notifications,11,13,MNT0012,Downtime_Hours,Unparseable date/time,2,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00202,Maintenance_Notifications,12,14,MNT0013,Downtime_Hours,Unparseable date/time,2,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00203,Maintenance_Notifications,13,15,MNT0014,Downtime_Hours,Unparseable date/time,4,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00204,Maintenance_Notifications,14,16,MNT0015,Downtime_Hours,Unparseable date/time,8,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00205,Maintenance_Notifications,15,17,MNT0016,Downtime_Hours,Unparseable date/time,8,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00206,Maintenance_Notifications,16,18,MNT0017,Downtime_Hours,Unparseable date/time,1,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00207,Maintenance_Notifications,17,19,MNT0018,Downtime_Hours,Unparseable date/time,2,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00208,Maintenance_Notifications,18,20,MNT0019,Downtime_Hours,Unparseable date/time,4,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00209,Maintenance_Notifications,19,21,MNT0020,Downtime_Hours,Unparseable date/time,2,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00210,Maintenance_Notifications,20,22,MNT0021,Downtime_Hours,Unparseable date/time,2,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00211,Maintenance_Notifications,21,23,MNT0022,Downtime_Hours,Unparseable date/time,2,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00212,Maintenance_Notifications,22,24,MNT0023,Downtime_Hours,Unparseable date/time,8,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00213,Maintenance_Notifications,23,25,MNT0024,Downtime_Hours,Unparseable date/time,8,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00214,Maintenance_Notifications,24,26,MNT0025,Downtime_Hours,Unparseable date/time,8,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00215,Maintenance_Notifications,25,27,MNT0026,Downtime_Hours,Unparseable date/time,4,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00216,Maintenance_Notifications,26,28,MNT0027,Downtime_Hours,Unparseable date/time,2,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00217,Maintenance_Notifications,27,29,MNT0028,Downtime_Hours,Unparseable date/time,1,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00218,Maintenance_Notifications,28,30,MNT0029,Downtime_Hours,Unparseable date/time,18,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00219,Maintenance_Notifications,29,31,MNT0030,Downtime_Hours,Unparseable date/time,1,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00220,Maintenance_Notifications,30,32,MNT0031,Downtime_Hours,Unparseable date/time,8,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00221,Maintenance_Notifications,31,33,MNT0032,Downtime_Hours,Unparseable date/time,2,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00222,Maintenance_Notifications,32,34,MNT0033,Downtime_Hours,Unparseable date/time,2,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00223,Maintenance_Notifications,33,35,MNT0034,Downtime_Hours,Unparseable date/time,4,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00224,Maintenance_Notifications,34,36,MNT0035,Downtime_Hours,Unparseable date/time,8,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00225,Maintenance_Notifications,35,37,MNT0036,Downtime_Hours,Unparseable date/time,2,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00226,Maintenance_Notifications,36,38,MNT0037,Downtime_Hours,Unparseable date/time,8,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00227,Maintenance_Notifications,37,39,MNT0038,Downtime_Hours,Unparseable date/time,1,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00228,Maintenance_Notifications,38,40,MNT0039,Downtime_Hours,Unparseable date/time,4,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00229,Maintenance_Notifications,39,41,MNT0040,Downtime_Hours,Unparseable date/time,8,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00230,Maintenance_Notifications,40,42,MNT0041,Downtime_Hours,Unparseable date/time,1,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00231,Maintenance_Notifications,41,43,MNT0042,Downtime_Hours,Unparseable date/time,8,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00232,Maintenance_Notifications,42,44,MNT0043,Downtime_Hours,Unparseable date/time,8,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00233,Maintenance_Notifications,43,45,MNT0044,Downtime_Hours,Unparseable date/time,8,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00234,Maintenance_Notifications,44,46,MNT0045,Downtime_Hours,Unparseable date/time,2,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00235,Maintenance_Notifications,45,47,MNT0009,Downtime_Hours,Unparseable date/time,2,DQ-0090,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00236,Maintenance_Notifications,28,30,MNT0029,Actual_End,Missing value,,DQ-0083,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00237,Maintenance_Notifications,6,8,MNT0007,Downtime_Hours,Negative numeric value,-4,DQ-0088,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00238,Environmental_Readings,3,5,ENV0004,Quality_Flag,Missing value,,DQ-0052,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00239,Environmental_Readings,11,13,ENV0012,Quality_Flag,Missing value,,DQ-0052,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00240,Environmental_Readings,12,14,ENV0013,Quality_Flag,Missing value,,DQ-0052,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00241,Environmental_Readings,16,18,ENV0017,Quality_Flag,Missing value,,DQ-0052,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00242,Environmental_Readings,17,19,ENV0018,Quality_Flag,Missing value,,DQ-0052,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00243,Environmental_Readings,18,20,ENV0019,Quality_Flag,Missing value,,DQ-0052,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00244,Environmental_Readings,21,23,ENV0022,Quality_Flag,Missing value,,DQ-0052,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00245,Environmental_Readings,25,27,ENV0026,Quality_Flag,Missing value,,DQ-0052,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00246,Environmental_Readings,28,30,ENV0029,Quality_Flag,Missing value,,DQ-0052,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00247,Environmental_Readings,30,32,ENV0031,Quality_Flag,Missing value,,DQ-0052,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00248,Environmental_Readings,33,35,ENV0034,Quality_Flag,Missing value,,DQ-0052,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00249,Environmental_Readings,35,37,ENV0036,Quality_Flag,Missing value,,DQ-0052,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00250,Environmental_Readings,42,44,ENV0043,Quality_Flag,Missing value,,DQ-0052,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00251,Environmental_Readings,43,45,ENV0044,Quality_Flag,Missing value,,DQ-0052,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00252,Environmental_Readings,44,46,ENV0045,Quality_Flag,Missing value,,DQ-0052,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00253,Environmental_Readings,1,3,ENV0002,Comment,Missing value,,DQ-0049,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00254,Environmental_Readings,11,13,ENV0012,Comment,Missing value,,DQ-0049,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00255,Environmental_Readings,12,14,ENV0013,Comment,Missing value,,DQ-0049,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00256,Environmental_Readings,17,19,ENV0018,Comment,Missing value,,DQ-0049,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00257,Environmental_Readings,25,27,ENV0026,Comment,Missing value,,DQ-0049,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00258,Environmental_Readings,26,28,ENV0027,Comment,Missing value,,DQ-0049,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00259,Environmental_Readings,31,33,ENV0032,Comment,Missing value,,DQ-0049,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00260,Environmental_Readings,36,38,ENV0037,Comment,Missing value,,DQ-0049,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00261,Environmental_Readings,15,17,ENV0016,Value,Negative numeric value,-25.0,DQ-0062,High,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00262,Environmental_Readings,1,3,ENV0002,Reading_Time|Calibration_Due,Temporal contradiction,2026-07-01 12:00:00 -> 2026-03-08,DQ-0058,Critical,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00263,Environmental_Readings,33,35,ENV0034,Reading_Time|Calibration_Due,Temporal contradiction,2026-07-05 12:00:00 -> 2026-04-09,DQ-0058,Critical,Review source evidence before correcting,REVIEW_REQUIRED
+EXC-00264,Access_Control,25,27,ACC0026,Badge_ID,Missing value,,DQ-0006,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00265,Access_Control,0,2,ACC0001,Reason,Missing value,,DQ-0022,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00266,Access_Control,4,6,ACC0005,Reason,Missing value,,DQ-0022,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00267,Access_Control,5,7,ACC0006,Reason,Missing value,,DQ-0022,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00268,Access_Control,12,14,ACC0013,Reason,Missing value,,DQ-0022,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00269,Access_Control,26,28,ACC0027,Reason,Missing value,,DQ-0022,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00270,Access_Control,27,29,ACC0028,Reason,Missing value,,DQ-0022,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00271,Access_Control,33,35,ACC0034,Reason,Missing value,,DQ-0022,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00272,Access_Control,34,36,ACC0035,Reason,Missing value,,DQ-0022,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00273,Access_Control,35,37,ACC0036,Reason,Missing value,,DQ-0022,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00274,Access_Control,36,38,ACC0037,Reason,Missing value,,DQ-0022,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00275,Access_Control,38,40,ACC0039,Reason,Missing value,,DQ-0022,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00276,Access_Control,39,41,ACC0040,Reason,Missing value,,DQ-0022,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00277,Access_Control,40,42,ACC0041,Reason,Missing value,,DQ-0022,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00278,Access_Control,41,43,ACC0042,Reason,Missing value,,DQ-0022,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED
+EXC-00279,Access_Control,44,46,ACC0045,Reason,Missing value,,DQ-0022,Medium,Confirm whether missingness is valid before trusted analysis,REVIEW_REQUIRED

@@ -1,117 +1,117 @@
 ,Dataset,Column,Data_Type,Row_Count,Missing_Count,Missing_Pct,Unique_Count,Duplicate_Value_Count,Sample_Values
-0,Equipment_Events,Event_ID,object,46,0,0.0,45,2,EVT0001 | EVT0002 | EVT0003
-1,Equipment_Events,Equipment_Name,object,46,1,2.17,19,40,TRK-001 | TRK002 | truck03
-2,Equipment_Events,Event_Time,object,46,0,0.0,45,2,01/07/2026 11:00 | 07/01/2026 04:00 PM | 2026/07/01 21:00
-3,Equipment_Events,Event_Type,object,46,0,0.0,7,45,Idle | start | Inspection
-4,Equipment_Events,Status,object,46,0,0.0,4,46,Complete | Open | Complete
+0,Equipment_Events,Event_ID,str,46,0,0.0,45,2,EVT0001 | EVT0002 | EVT0003
+1,Equipment_Events,Equipment_Name,str,46,1,2.17,19,40,TRK-001 | TRK002 | truck03
+2,Equipment_Events,Event_Time,str,46,0,0.0,45,2,01/07/2026 11:00 | 07/01/2026 04:00 PM | 2026/07/01 21:00
+3,Equipment_Events,Event_Type,str,46,0,0.0,7,45,Idle | start | Inspection
+4,Equipment_Events,Status,str,46,0,0.0,4,46,Complete | Open | Complete
 5,Equipment_Events,Meter_Reading,float64,46,0,0.0,45,2,1007.3 | 1014.6 | 1021.9
-6,Equipment_Events,Meter_Unit,object,46,0,0.0,2,46,hours | hours | hours
-7,Equipment_Events,Location,object,46,0,0.0,3,46,Workshop | Workshop | South Pit
-8,Equipment_Events,Operator_ID,object,46,0,0.0,8,46,OP1001 | OP1002 | OP1003
-9,Equipment_Events,Source_System,object,46,0,0.0,1,46,Telemetry-A | Telemetry-A | Telemetry-A
-10,Equipment_Events,Comment,object,46,15,32.61,3,46,check sensor | Normal event | check sensor
-11,Delays_Downtime,Delay_ID,object,46,0,0.0,45,2,DLY0001 | DLY0002 | DLY0003
-12,Delays_Downtime,Equipment_Name,object,46,0,0.0,20,41,TRK-002 | truck03 | EX 001
-13,Delays_Downtime,Start_Time,object,46,0,0.0,45,2,01/07/2026 12:00 | 07/01/2026 06:00 PM | 2026/07/02 00:00
-14,Delays_Downtime,End_Time,object,46,0,0.0,45,2,07/01/2026 12:45 PM | 2026/07/01 18:30 | 2026-07-02 00:45:00
+6,Equipment_Events,Meter_Unit,str,46,0,0.0,2,46,hours | hours | hours
+7,Equipment_Events,Location,str,46,0,0.0,3,46,Workshop | Workshop | South Pit
+8,Equipment_Events,Operator_ID,str,46,0,0.0,8,46,OP1001 | OP1002 | OP1003
+9,Equipment_Events,Source_System,str,46,0,0.0,1,46,Telemetry-A | Telemetry-A | Telemetry-A
+10,Equipment_Events,Comment,str,46,15,32.61,3,46,check sensor | Normal event | check sensor
+11,Delays_Downtime,Delay_ID,str,46,0,0.0,45,2,DLY0001 | DLY0002 | DLY0003
+12,Delays_Downtime,Equipment_Name,str,46,0,0.0,20,41,TRK-002 | truck03 | EX 001
+13,Delays_Downtime,Start_Time,str,46,0,0.0,45,2,01/07/2026 12:00 | 07/01/2026 06:00 PM | 2026/07/02 00:00
+14,Delays_Downtime,End_Time,str,46,0,0.0,45,2,07/01/2026 12:45 PM | 2026/07/01 18:30 | 2026-07-02 00:45:00
 15,Delays_Downtime,Duration,float64,46,1,2.17,13,42,45.0 | 30.0 | 45.0
-16,Delays_Downtime,Duration_Unit,object,46,0,0.0,2,46,minutes | minutes | minutes
-17,Delays_Downtime,Delay_Category,object,46,0,0.0,7,45,Weather | mechanical | Weather
-18,Delays_Downtime,Cause_Code,object,46,0,0.0,4,46,UNK | ENV | ENV
-19,Delays_Downtime,Operator_ID,object,46,0,0.0,8,46,OP1002 | OP1003 | OP1004
-20,Delays_Downtime,Approved_By,object,46,15,32.61,2,46,SUP01 | SUP01 | SUP01
-21,Delays_Downtime,Comment,object,46,10,21.74,4,46,unknown | awaiting spares | unknown
-22,Operator_Activities,Activity_ID,object,46,0,0.0,45,2,ACT0001 | ACT0002 | ACT0003
-23,Operator_Activities,Operator_ID,object,46,1,2.17,8,45,OP1002 | OP1003 | OP1004
-24,Operator_Activities,Operator_Name,object,46,0,0.0,8,46,Aisha Naidoo | Thabo Dlamini | Mia Jacobs
-25,Operator_Activities,Email,object,46,0,0.0,8,46,aisha.naidoo@example.test | thabo.dlamini@example.test | mia.jacobs@example.test
-26,Operator_Activities,Mobile_Number,object,46,0,0.0,8,46,082-555-0102 | 0835550103 | 060 555 0104
-27,Operator_Activities,Home_Zone,object,46,0,0.0,4,46,Zone-West | Zone-East | Zone-South
-28,Operator_Activities,Contractor_Group,object,46,0,0.0,3,46,Contractor-B | Contractor-A | Contractor-C
-29,Operator_Activities,Equipment_Name,object,46,0,0.0,20,43,TRK-002 | TRK003 | EXC-01
-30,Operator_Activities,Activity_Start,object,46,0,0.0,45,2,01/07/2026 11:00 | 07/01/2026 04:00 PM | 2026/07/01 21:00
-31,Operator_Activities,Activity_End,object,46,0,0.0,45,2,2026/07/01 15:00 | 2026-07-01 19:00:00 | 01/07/2026 23:00
-32,Operator_Activities,Activity_Type,object,46,0,0.0,5,46,Hauling | Break | hualing
+16,Delays_Downtime,Duration_Unit,str,46,0,0.0,2,46,minutes | minutes | minutes
+17,Delays_Downtime,Delay_Category,str,46,0,0.0,7,45,Weather | mechanical | Weather
+18,Delays_Downtime,Cause_Code,str,46,0,0.0,4,46,UNK | ENV | ENV
+19,Delays_Downtime,Operator_ID,str,46,0,0.0,8,46,OP1002 | OP1003 | OP1004
+20,Delays_Downtime,Approved_By,str,46,15,32.61,2,46,SUP01 | SUP01 | SUP01
+21,Delays_Downtime,Comment,str,46,10,21.74,4,46,unknown | awaiting spares | unknown
+22,Operator_Activities,Activity_ID,str,46,0,0.0,45,2,ACT0001 | ACT0002 | ACT0003
+23,Operator_Activities,Operator_ID,str,46,1,2.17,8,45,OP1002 | OP1003 | OP1004
+24,Operator_Activities,Operator_Name,str,46,0,0.0,8,46,Aisha Naidoo | Thabo Dlamini | Mia Jacobs
+25,Operator_Activities,Email,str,46,0,0.0,8,46,aisha.naidoo@example.test | thabo.dlamini@example.test | mia.jacobs@example.test
+26,Operator_Activities,Mobile_Number,str,46,0,0.0,8,46,082-555-0102 | 0835550103 | 060 555 0104
+27,Operator_Activities,Home_Zone,str,46,0,0.0,4,46,Zone-West | Zone-East | Zone-South
+28,Operator_Activities,Contractor_Group,str,46,0,0.0,3,46,Contractor-B | Contractor-A | Contractor-C
+29,Operator_Activities,Equipment_Name,str,46,0,0.0,20,43,TRK-002 | TRK003 | EXC-01
+30,Operator_Activities,Activity_Start,str,46,0,0.0,45,2,01/07/2026 11:00 | 07/01/2026 04:00 PM | 2026/07/01 21:00
+31,Operator_Activities,Activity_End,str,46,0,0.0,45,2,2026/07/01 15:00 | 2026-07-01 19:00:00 | 01/07/2026 23:00
+32,Operator_Activities,Activity_Type,str,46,0,0.0,5,46,Hauling | Break | hualing
 33,Operator_Activities,Quantity,int64,46,0,0.0,6,45,8 | 4 | 6
-34,Operator_Activities,Quantity_Unit,object,46,0,0.0,2,46,loads | loads | loads
-35,Operator_Activities,Supervisor_ID,object,46,0,0.0,3,46,SUP01 | SUP01 | SUP03
-36,Operator_Activities,Comment,object,46,6,13.04,3,46,productive shift | route congested | route congested
-37,Shift_Performance,Shift_Record_ID,object,46,0,0.0,45,2,SHF0001 | SHF0002 | SHF0003
-38,Shift_Performance,Shift_Date,object,46,0,0.0,44,4,01/07/2026 | 07/01/2026 | 2026/07/02
-39,Shift_Performance,Shift_Code,object,46,0,0.0,2,46,Day | Night | Day
-40,Shift_Performance,Crew,object,46,0,0.0,3,46,Charlie | Alpha | Bravo
-41,Shift_Performance,Equipment_Name,object,46,0,0.0,18,41,TRK002 | TRK-003 | EXC-01
-42,Shift_Performance,Operator_ID,object,46,0,0.0,8,46,OP1002 | OP1003 | OP1004
+34,Operator_Activities,Quantity_Unit,str,46,0,0.0,2,46,loads | loads | loads
+35,Operator_Activities,Supervisor_ID,str,46,0,0.0,3,46,SUP01 | SUP01 | SUP03
+36,Operator_Activities,Comment,str,46,6,13.04,3,46,productive shift | route congested | route congested
+37,Shift_Performance,Shift_Record_ID,str,46,0,0.0,45,2,SHF0001 | SHF0002 | SHF0003
+38,Shift_Performance,Shift_Date,str,46,0,0.0,44,4,01/07/2026 | 07/01/2026 | 2026/07/02
+39,Shift_Performance,Shift_Code,str,46,0,0.0,2,46,Day | Night | Day
+40,Shift_Performance,Crew,str,46,0,0.0,3,46,Charlie | Alpha | Bravo
+41,Shift_Performance,Equipment_Name,str,46,0,0.0,18,41,TRK002 | TRK-003 | EXC-01
+42,Shift_Performance,Operator_ID,str,46,0,0.0,8,46,OP1002 | OP1003 | OP1004
 43,Shift_Performance,Scheduled_Hours,int64,46,0,0.0,1,46,12 | 12 | 12
 44,Shift_Performance,Actual_Hours,int64,46,0,0.0,6,45,9 | 9 | 9
 45,Shift_Performance,Loads,int64,46,0,0.0,21,38,31 | 26 | 39
 46,Shift_Performance,Tonnes,int64,46,0,0.0,36,17,2945 | 2470 | 3315
 47,Shift_Performance,Fuel_Used,int64,46,0,0.0,43,6,486 | 438 | 774
-48,Shift_Performance,Fuel_Unit,object,46,0,0.0,2,45,litres | litres | litres
+48,Shift_Performance,Fuel_Unit,str,46,0,0.0,2,45,litres | litres | litres
 49,Shift_Performance,Availability_Pct,float64,46,0,0.0,22,38,0.77 | 0.88 | 0.74
 50,Shift_Performance,Utilisation_Pct,float64,46,0,0.0,26,34,0.7 | 0.67 | 0.67
-51,Shift_Performance,Supervisor_Comment,object,46,8,17.39,4,46,Road wet | Older equipment allocated | Road wet
-52,Safety_Observations,Observation_ID,object,46,0,0.0,45,2,SAF0001 | SAF0002 | SAF0003
-53,Safety_Observations,Observation_Date,object,46,0,0.0,45,2,01/07/2026 15:00 | 07/02/2026 12:00 AM | 2026/07/02 09:00
-54,Safety_Observations,Reporter_ID,object,46,0,0.0,3,46,OP1001 | SUP01 | SUP02
-55,Safety_Observations,Observed_Person_ID,object,46,0,0.0,8,46,OP1002 | OP1003 | OP1004
-56,Safety_Observations,Equipment_Name,object,46,0,0.0,21,42,truck02 | Truck 3 | EXC001
-57,Safety_Observations,Category,object,46,0,0.0,7,45,Saftey | PPE | Vehicle Interaction
-58,Safety_Observations,Severity,object,46,0,0.0,5,45,low | Low | Low
-59,Safety_Observations,Location,object,46,0,0.0,3,46,South Pit | Workshop | South Pit
-60,Safety_Observations,Description,object,46,10,21.74,5,45,Good housekeeping noted | Good housekeeping noted | Seatbelt compliance observed
-61,Safety_Observations,Immediate_Action,object,46,6,13.04,3,46,Coaching provided | Coaching provided | Logged for review
-62,Safety_Observations,Status,object,46,0,0.0,3,46,In Review | In Review | In Review
-63,Safety_Observations,Closed_Date,object,46,32,69.57,14,32,07/05/2026 03:00 AM | 07/01/2026 12:00 PM | 2026-07-05 21:00:00
-64,Safety_Observations,Attachment_Name,object,46,15,32.61,2,46,obs-note.pdf | obs-note.pdf | photo_01.jpg
-65,Training_Records,Training_Record_ID,object,46,0,0.0,45,2,TRN0001 | TRN0002 | TRN0003
-66,Training_Records,Operator_ID,object,46,0,0.0,8,46,OP1002 | OP1003 | OP1004
-67,Training_Records,Operator_Name,object,46,0,0.0,8,46,Aisha Naidoo | Thabo Dlamini | Mia Jacobs
-68,Training_Records,Course_Code,object,46,0,0.0,4,45,SAFE01 | EQP02 | EQP02
-69,Training_Records,Course_Name,object,46,0,0.0,3,46,Operational Safety | Mobile Equipment | Mobile Equipment
-70,Training_Records,Completion_Date,object,46,0,0.0,45,2,16/01/2025 | 01/31/2025 | 2025/02/15
-71,Training_Records,Expiry_Date,object,46,0,0.0,45,2,01/16/2027 | 2027/01/31 | 2027-02-15
-72,Training_Records,Result,object,46,0,0.0,2,46,Pass | Pass | Fail
+51,Shift_Performance,Supervisor_Comment,str,46,8,17.39,4,46,Road wet | Older equipment allocated | Road wet
+52,Safety_Observations,Observation_ID,str,46,0,0.0,45,2,SAF0001 | SAF0002 | SAF0003
+53,Safety_Observations,Observation_Date,str,46,0,0.0,45,2,01/07/2026 15:00 | 07/02/2026 12:00 AM | 2026/07/02 09:00
+54,Safety_Observations,Reporter_ID,str,46,0,0.0,3,46,OP1001 | SUP01 | SUP02
+55,Safety_Observations,Observed_Person_ID,str,46,0,0.0,8,46,OP1002 | OP1003 | OP1004
+56,Safety_Observations,Equipment_Name,str,46,0,0.0,21,42,truck02 | Truck 3 | EXC001
+57,Safety_Observations,Category,str,46,0,0.0,7,45,Saftey | PPE | Vehicle Interaction
+58,Safety_Observations,Severity,str,46,0,0.0,5,45,low | Low | Low
+59,Safety_Observations,Location,str,46,0,0.0,3,46,South Pit | Workshop | South Pit
+60,Safety_Observations,Description,str,46,10,21.74,5,45,Good housekeeping noted | Good housekeeping noted | Seatbelt compliance observed
+61,Safety_Observations,Immediate_Action,str,46,6,13.04,3,46,Coaching provided | Coaching provided | Logged for review
+62,Safety_Observations,Status,str,46,0,0.0,3,46,In Review | In Review | In Review
+63,Safety_Observations,Closed_Date,str,46,32,69.57,14,32,07/05/2026 03:00 AM | 07/01/2026 12:00 PM | 2026-07-05 21:00:00
+64,Safety_Observations,Attachment_Name,str,46,15,32.61,2,46,obs-note.pdf | obs-note.pdf | photo_01.jpg
+65,Training_Records,Training_Record_ID,str,46,0,0.0,45,2,TRN0001 | TRN0002 | TRN0003
+66,Training_Records,Operator_ID,str,46,0,0.0,8,46,OP1002 | OP1003 | OP1004
+67,Training_Records,Operator_Name,str,46,0,0.0,8,46,Aisha Naidoo | Thabo Dlamini | Mia Jacobs
+68,Training_Records,Course_Code,str,46,0,0.0,4,45,SAFE01 | EQP02 | EQP02
+69,Training_Records,Course_Name,str,46,0,0.0,3,46,Operational Safety | Mobile Equipment | Mobile Equipment
+70,Training_Records,Completion_Date,str,46,0,0.0,45,2,16/01/2025 | 01/31/2025 | 2025/02/15
+71,Training_Records,Expiry_Date,str,46,0,0.0,45,2,01/16/2027 | 2027/01/31 | 2027-02-15
+72,Training_Records,Result,str,46,0,0.0,2,46,Pass | Pass | Fail
 73,Training_Records,Score,int64,46,0,0.0,29,30,87 | 81 | 68
-74,Training_Records,Provider,object,46,0,0.0,3,46,Provider A | Provider B | Provider A
-75,Training_Records,Certificate_Number,object,46,0,0.0,45,2,CERT-00001 | CERT-00002 | CERT-00003
-76,Training_Records,Medical_Fitness_Code,object,46,0,0.0,3,46,MF-R | MF-B | MF-R
-77,Training_Records,Home_Zone,object,46,0,0.0,4,46,Zone-West | Zone-East | Zone-South
-78,Training_Records,Comment,object,46,15,32.61,2,46,Uploaded manually | Refresher required | Refresher required
-79,Maintenance_Notifications,Notification_ID,object,46,0,0.0,45,2,MNT0001 | MNT0002 | MNT0003
-80,Maintenance_Notifications,Equipment_Name,object,46,0,0.0,21,38,TRK-002 | TRK003 | Excavator 1
-81,Maintenance_Notifications,Raised_Date,object,46,0,0.0,45,2,01/07/2026 13:00 | 07/01/2026 08:00 PM | 2026/07/02 03:00
-82,Maintenance_Notifications,Priority,object,46,0,0.0,4,46,P1 | P2 | P3
-83,Maintenance_Notifications,Notification_Type,object,46,0,0.0,4,46,break down | Planned | break down
-84,Maintenance_Notifications,Fault_Code,object,46,0,0.0,4,46,ELC03 | ELC03 | ENG01
-85,Maintenance_Notifications,Description,object,46,0,0.0,4,46,Scheduled service | Hydraulic leak | Scheduled service
-86,Maintenance_Notifications,Reported_By,object,46,0,0.0,3,46,OP1001 | SUP01 | SYSTEM
-87,Maintenance_Notifications,Planned_Start,object,46,0,0.0,45,2,07/02/2026 01:00 PM | 2026/07/02 20:00 | 2026-07-03 03:00:00
-88,Maintenance_Notifications,Actual_Start,object,46,0,0.0,45,2,2026/07/02 13:00 | 2026-07-03 04:00:00 | 03/07/2026 01:00
-89,Maintenance_Notifications,Actual_End,object,46,1,2.17,44,2,2026-07-02 15:00:00 | 03/07/2026 06:00 | 07/03/2026 02:00 AM
+74,Training_Records,Provider,str,46,0,0.0,3,46,Provider A | Provider B | Provider A
+75,Training_Records,Certificate_Number,str,46,0,0.0,45,2,CERT-00001 | CERT-00002 | CERT-00003
+76,Training_Records,Medical_Fitness_Code,str,46,0,0.0,3,46,MF-R | MF-B | MF-R
+77,Training_Records,Home_Zone,str,46,0,0.0,4,46,Zone-West | Zone-East | Zone-South
+78,Training_Records,Comment,str,46,15,32.61,2,46,Uploaded manually | Refresher required | Refresher required
+79,Maintenance_Notifications,Notification_ID,str,46,0,0.0,45,2,MNT0001 | MNT0002 | MNT0003
+80,Maintenance_Notifications,Equipment_Name,str,46,0,0.0,21,38,TRK-002 | TRK003 | Excavator 1
+81,Maintenance_Notifications,Raised_Date,str,46,0,0.0,45,2,01/07/2026 13:00 | 07/01/2026 08:00 PM | 2026/07/02 03:00
+82,Maintenance_Notifications,Priority,str,46,0,0.0,4,46,P1 | P2 | P3
+83,Maintenance_Notifications,Notification_Type,str,46,0,0.0,4,46,break down | Planned | break down
+84,Maintenance_Notifications,Fault_Code,str,46,0,0.0,4,46,ELC03 | ELC03 | ENG01
+85,Maintenance_Notifications,Description,str,46,0,0.0,4,46,Scheduled service | Hydraulic leak | Scheduled service
+86,Maintenance_Notifications,Reported_By,str,46,0,0.0,3,46,OP1001 | SUP01 | SYSTEM
+87,Maintenance_Notifications,Planned_Start,str,46,0,0.0,45,2,07/02/2026 01:00 PM | 2026/07/02 20:00 | 2026-07-03 03:00:00
+88,Maintenance_Notifications,Actual_Start,str,46,0,0.0,45,2,2026/07/02 13:00 | 2026-07-03 04:00:00 | 03/07/2026 01:00
+89,Maintenance_Notifications,Actual_End,str,46,1,2.17,44,2,2026-07-02 15:00:00 | 03/07/2026 06:00 | 07/03/2026 02:00 AM
 90,Maintenance_Notifications,Downtime_Hours,int64,46,0,0.0,6,44,2 | 2 | 1
-91,Maintenance_Notifications,Work_Order_ID,object,46,0,0.0,45,2,WO-10001 | WO-10002 | WO-10003
-92,Maintenance_Notifications,Status,object,46,0,0.0,3,46,In Progress | Open | In Progress
-93,Environmental_Readings,Reading_ID,object,46,0,0.0,45,2,ENV0001 | ENV0002 | ENV0003
-94,Environmental_Readings,Reading_Time,object,46,0,0.0,45,2,01/07/2026 09:00 | 07/01/2026 12:00 PM | 2026/07/01 15:00
-95,Environmental_Readings,Sensor_ID,object,46,0,0.0,5,46,SNS-02 | SNS-03 | SNS-04
-96,Environmental_Readings,Location,object,46,0,0.0,3,46,North Pit | North Pit | South Pit
-97,Environmental_Readings,Reading_Type,object,46,0,0.0,4,46,Rainfall | Rainfall | Temperature
+91,Maintenance_Notifications,Work_Order_ID,str,46,0,0.0,45,2,WO-10001 | WO-10002 | WO-10003
+92,Maintenance_Notifications,Status,str,46,0,0.0,3,46,In Progress | Open | In Progress
+93,Environmental_Readings,Reading_ID,str,46,0,0.0,45,2,ENV0001 | ENV0002 | ENV0003
+94,Environmental_Readings,Reading_Time,str,46,0,0.0,45,2,01/07/2026 09:00 | 07/01/2026 12:00 PM | 2026/07/01 15:00
+95,Environmental_Readings,Sensor_ID,str,46,0,0.0,5,46,SNS-02 | SNS-03 | SNS-04
+96,Environmental_Readings,Location,str,46,0,0.0,3,46,North Pit | North Pit | South Pit
+97,Environmental_Readings,Reading_Type,str,46,0,0.0,4,46,Rainfall | Rainfall | Temperature
 98,Environmental_Readings,Value,float64,46,0,0.0,44,4,2.48 | 7.09 | 20.75
-99,Environmental_Readings,Unit,object,46,0,0.0,5,45,mm | mm | C
-100,Environmental_Readings,Quality_Flag,object,46,15,32.61,3,46,Good | Suspect | Estimated
-101,Environmental_Readings,Equipment_Nearby,object,46,0,0.0,21,40,TRK-002 | truck03 | EXC001
-102,Environmental_Readings,Calibration_Due,object,46,0,0.0,45,2,02/08/2026 | 08/03/2026 | 2026/08/04
-103,Environmental_Readings,Comment,object,46,8,17.39,3,46,manual capture | windy conditions | sensor cleaned
-104,Access_Control,Access_Event_ID,object,46,0,0.0,45,2,ACC0001 | ACC0002 | ACC0003
-105,Access_Control,Event_Time,object,46,0,0.0,45,2,01/07/2026 10:00 | 07/01/2026 02:00 PM | 2026/07/01 18:00
-106,Access_Control,Badge_ID,object,46,1,2.17,8,45,BDG-1001 | BDG-1002 | BDG-1003
-107,Access_Control,Employee_ID,object,46,0,0.0,9,45,OP1002 | OP1003 | OP1004
-108,Access_Control,Employee_Name,object,46,0,0.0,8,46,Aisha Naidoo | Thabo Dlamini | Mia Jacobs
-109,Access_Control,Access_Point,object,46,0,0.0,3,46,Main Gate | Plant Turnstile | Main Gate
-110,Access_Control,Direction,object,46,0,0.0,4,46,OUT | Entry | Exit
-111,Access_Control,Access_Result,object,46,0,0.0,3,46,granted | Granted | Denied
-112,Access_Control,Reason,object,46,15,32.61,3,46,Anti-passback | Anti-passback | Expired training
-113,Access_Control,Contractor_Group,object,46,0,0.0,3,46,Contractor-B | Contractor-A | Contractor-C
-114,Access_Control,Home_Zone,object,46,0,0.0,4,46,Zone-West | Zone-East | Zone-South
-115,Access_Control,Device_ID,object,46,0,0.0,4,46,DEV-2 | DEV-3 | DEV-4
+99,Environmental_Readings,Unit,str,46,0,0.0,5,45,mm | mm | C
+100,Environmental_Readings,Quality_Flag,str,46,15,32.61,3,46,Good | Suspect | Estimated
+101,Environmental_Readings,Equipment_Nearby,str,46,0,0.0,21,40,TRK-002 | truck03 | EXC001
+102,Environmental_Readings,Calibration_Due,str,46,0,0.0,45,2,02/08/2026 | 08/03/2026 | 2026/08/04
+103,Environmental_Readings,Comment,str,46,8,17.39,3,46,manual capture | windy conditions | sensor cleaned
+104,Access_Control,Access_Event_ID,str,46,0,0.0,45,2,ACC0001 | ACC0002 | ACC0003
+105,Access_Control,Event_Time,str,46,0,0.0,45,2,01/07/2026 10:00 | 07/01/2026 02:00 PM | 2026/07/01 18:00
+106,Access_Control,Badge_ID,str,46,1,2.17,8,45,BDG-1001 | BDG-1002 | BDG-1003
+107,Access_Control,Employee_ID,str,46,0,0.0,9,45,OP1002 | OP1003 | OP1004
+108,Access_Control,Employee_Name,str,46,0,0.0,8,46,Aisha Naidoo | Thabo Dlamini | Mia Jacobs
+109,Access_Control,Access_Point,str,46,0,0.0,3,46,Main Gate | Plant Turnstile | Main Gate
+110,Access_Control,Direction,str,46,0,0.0,4,46,OUT | Entry | Exit
+111,Access_Control,Access_Result,str,46,0,0.0,3,46,granted | Granted | Denied
+112,Access_Control,Reason,str,46,15,32.61,3,46,Anti-passback | Anti-passback | Expired training
+113,Access_Control,Contractor_Group,str,46,0,0.0,3,46,Contractor-B | Contractor-A | Contractor-C
+114,Access_Control,Home_Zone,str,46,0,0.0,4,46,Zone-West | Zone-East | Zone-South
+115,Access_Control,Device_ID,str,46,0,0.0,4,46,DEV-2 | DEV-3 | DEV-4

@@ -1,0 +1,46 @@
+Reading_ID,Reading_Time,Sensor_ID,Location,Reading_Type,Value,Unit,Quality_Flag,Equipment_Nearby,Calibration_Due,Comment
+ENV0001,2026-07-01 09:00:00,SNS-02,North Pit,Rainfall,2.48,mm,Good,TRK-002,2026-08-02,manual capture
+ENV0002,2026-07-01 12:00:00,SNS-03,North Pit,Rainfall,7.09,mm,Suspect,truck03,2026-03-08,
+ENV0003,2026-07-01 15:00:00,SNS-04,South Pit,Temperature,20.75,C,Estimated,EXC001,2026-08-04,windy conditions
+ENV0004,2026-07-01 18:00:00,SNS-05,South Pit,Noise,83.03,dB,,EXC-02,2026-08-05,sensor cleaned
+ENV0005,2026-07-01 21:00:00,SNS-01,South Pit,Rainfall,17.05,mm,Suspect,Drill 01,2026-08-06,sensor cleaned
+ENV0006,2026-07-02 00:00:00,SNS-02,South Pit,Noise,96.14,dB,Good,truck01,2026-07-08,windy conditions
+ENV0007,2026-07-02 03:00:00,SNS-03,North Pit,Temperature,12.2,C,Estimated,TRK002,2026-08-08,manual capture
+ENV0008,2026-07-02 06:00:00,SNS-04,South Pit,Temperature,35.85,C,Suspect,truck03,2026-08-09,manual capture
+ENV0009,2026-07-02 09:00:00,SNS-05,Workshop,Rainfall,6.65,ppm,Suspect,EX 001,2026-08-10,sensor cleaned
+ENV0010,2026-07-02 12:00:00,SNS-01,Workshop,Dust,2.08,mg/m3,Good,EXC002,2026-11-08,windy conditions
+ENV0011,2026-07-02 15:00:00,SNS-02,Workshop,Rainfall,10.08,mm,Suspect,DRL001,2026-08-12,sensor cleaned
+ENV0012,2026-07-02 18:00:00,SNS-03,Workshop,Temperature,38.24,C,,TRK001,2026-08-13,
+ENV0013,2026-07-02 21:00:00,SNS-04,South Pit,Rainfall,8.08,mm,,Truck 2,2026-08-14,
+ENV0014,2026-07-03 00:00:00,SNS-05,Workshop,Noise,92.95,dB,Good,TRK003,2026-08-15,sensor cleaned
+ENV0015,2026-07-03 03:00:00,SNS-01,South Pit,Temperature,13.75,C,Good,EXC-01,2026-08-16,sensor cleaned
+ENV0016,2026-07-03 06:00:00,SNS-02,South Pit,Rainfall,-25.0,mm,Estimated,Excavator 2,2026-08-17,sensor cleaned
+ENV0017,2026-07-03 09:00:00,SNS-03,Workshop,Noise,62.94,dB,,DRILL-1,2026-08-18,windy conditions
+ENV0018,2026-07-03 12:00:00,SNS-04,Workshop,Dust,0.78,mg/m3,,TRK 001,2026-08-19,
+ENV0019,2026-07-03 15:00:00,SNS-05,Workshop,Rainfall,3.42,mm,,truck02,2026-08-20,windy conditions
+ENV0020,2026-07-03 18:00:00,SNS-01,Workshop,Noise,97.39,dB,Good,Truck 3,2026-08-21,windy conditions
+ENV0021,2026-07-03 21:00:00,SNS-02,North Pit,Dust,0.92,mg/m3,Estimated,Excavator 1,2026-08-22,manual capture
+ENV0022,2026-07-04 00:00:00,SNS-03,South Pit,Dust,9999.0,mg/m3,,Excavator 2,2026-08-23,windy conditions
+ENV0023,2026-07-04 03:00:00,SNS-04,North Pit,Dust,2.96,mg/m3,Estimated,DRL001,2026-08-24,sensor cleaned
+ENV0024,2026-07-04 06:00:00,SNS-05,North Pit,Dust,0.77,mg/m3,Suspect,truck01,2026-08-25,windy conditions
+ENV0025,2026-07-04 09:00:00,SNS-01,North Pit,Rainfall,13.66,mm,Estimated,TRK002,2026-08-26,manual capture
+ENV0026,2026-07-04 12:00:00,SNS-02,Workshop,Rainfall,12.77,mm,,TRK-003,2026-08-27,
+ENV0027,2026-07-04 15:00:00,SNS-03,North Pit,Dust,2.5,mg/m3,Good,EX 001,2026-08-28,
+ENV0028,2026-07-04 18:00:00,SNS-04,South Pit,Noise,89.57,dB,Suspect,Excavator 2,2026-08-29,windy conditions
+ENV0029,2026-07-04 21:00:00,SNS-05,Workshop,Rainfall,0.12,mm,,DRILL-1,2026-08-30,sensor cleaned
+ENV0030,2026-05-12 06:00:00,SNS-01,North Pit,Noise,99.24,dB,Suspect,TRK001,2026-08-31,manual capture
+ENV0031,2026-07-05 03:00:00,SNS-02,North Pit,Rainfall,5.36,mm,,Truck 2,2026-09-01,sensor cleaned
+ENV0032,2026-07-05 06:00:00,SNS-03,Workshop,Rainfall,16.3,mm,Estimated,TRK003,2026-09-02,
+ENV0033,2026-07-05 09:00:00,SNS-04,Workshop,Rainfall,6.44,mm,Suspect,EX 001,2026-09-03,sensor cleaned
+ENV0034,2026-07-05 12:00:00,SNS-05,South Pit,Dust,1.29,mg/m3,,EXC-02,2026-04-09,windy conditions
+ENV0035,2026-07-05 15:00:00,SNS-01,Workshop,Dust,0.92,mg/m3,Estimated,DRL001,2026-09-05,windy conditions
+ENV0036,2026-07-05 18:00:00,SNS-02,Workshop,Rainfall,9.12,mm,,truck01,2026-09-06,windy conditions
+ENV0037,2026-07-05 21:00:00,SNS-03,North Pit,Rainfall,12.98,mm,Good,TRK002,2026-09-07,
+ENV0038,2026-07-06 00:00:00,SNS-04,Workshop,Temperature,19.56,C,Estimated,truck03,2026-08-09,sensor cleaned
+ENV0039,2026-07-06 03:00:00,SNS-05,South Pit,Rainfall,9.55,mm,Good,Excavator 1,2026-09-09,manual capture
+ENV0040,2026-07-06 06:00:00,SNS-01,South Pit,Noise,64.1,dB,Estimated,EXC002,2026-09-10,sensor cleaned
+ENV0041,2026-07-06 09:00:00,SNS-02,South Pit,Noise,79.54,dB,Estimated,DRL001,2026-09-11,sensor cleaned
+ENV0042,2026-07-06 12:00:00,SNS-03,Workshop,Rainfall,19.5,mm,Suspect,truck01,2026-12-09,sensor cleaned
+ENV0043,2026-07-06 15:00:00,SNS-04,North Pit,Temperature,8.34,C,,TRK002,2026-09-13,windy conditions
+ENV0044,2026-07-06 18:00:00,SNS-05,North Pit,Rainfall,5.16,mm,,Truck 3,2026-09-14,windy conditions
+ENV0045,2026-07-06 21:00:00,SNS-01,North Pit,Rainfall,4.58,mm,,EXC-01,2026-09-15,sensor cleaned

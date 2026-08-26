@@ -1,0 +1,1000 @@
+Dataset,Source_Row_Index,Source_Row_Number,Record_ID,Column,Original_Value,New_Value,Rule_ID,Rule_Type,Reason,Action_Type,Review_Status
+Equipment_Events,1,3,EVT0002,Equipment_Name,TRK002,TRK-002,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,2,4,EVT0003,Equipment_Name,truck03,TRK-003,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,3,5,EVT0004,Equipment_Name,EXC001,EXC-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,4,6,EVT0005,Equipment_Name,EXC-02,EXC-002,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,5,7,EVT0006,Equipment_Name,Drill 01,DRL-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,7,9,EVT0008,Equipment_Name,TRK002,TRK-002,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,9,11,EVT0010,Equipment_Name,Excavator 1,EXC-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,10,12,EVT0011,Equipment_Name,EXC-02,EXC-002,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,11,13,EVT0012,Equipment_Name,Drill 01,DRL-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,12,14,EVT0013,Equipment_Name,Truck 1,TRK-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,13,15,EVT0014,Equipment_Name,Truck 2,TRK-002,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,14,16,EVT0015,Equipment_Name,Truck 3,TRK-003,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,15,17,EVT0016,Equipment_Name,Excavator 1,EXC-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,16,18,EVT0017,Equipment_Name,EXC-02,EXC-002,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,17,19,EVT0018,Equipment_Name,DRL001,DRL-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,19,21,EVT0020,Equipment_Name,Truck 2,TRK-002,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,20,22,EVT0021,Equipment_Name,TRK003,TRK-003,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,21,23,EVT0022,Equipment_Name,EX 001,EXC-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,22,24,EVT0023,Equipment_Name,EXC-02,EXC-002,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,23,25,EVT0024,Equipment_Name,DRL001,DRL-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,24,26,EVT0025,Equipment_Name,truck01,TRK-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,25,27,EVT0026,Equipment_Name,Truck 2,TRK-002,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,26,28,EVT0027,Equipment_Name,TRK003,TRK-003,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,27,29,EVT0028,Equipment_Name,EXC-01,EXC-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,28,30,EVT0029,Equipment_Name,EXC002,EXC-002,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,29,31,EVT0030,Equipment_Name,Drill 01,DRL-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,30,32,EVT0031,Equipment_Name,TRK 001,TRK-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,31,33,EVT0032,Equipment_Name,truck02,TRK-002,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,32,34,EVT0033,Equipment_Name,TRK003,TRK-003,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,33,35,EVT0034,Equipment_Name,EXC001,EXC-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,34,36,EVT0035,Equipment_Name,EXC002,EXC-002,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,35,37,EVT0036,Equipment_Name,DRL001,DRL-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,37,39,EVT0038,Equipment_Name,truck02,TRK-002,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,38,40,EVT0039,Equipment_Name,truck03,TRK-003,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,39,41,EVT0040,Equipment_Name,EXC-01,EXC-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,40,42,EVT0041,Equipment_Name,EXC002,EXC-002,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,41,43,EVT0042,Equipment_Name,DRL001,DRL-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,42,44,EVT0043,Equipment_Name,Truck 1,TRK-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,43,45,EVT0044,Equipment_Name,TRK002,TRK-002,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,44,46,EVT0045,Equipment_Name,truck03,TRK-003,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,45,47,EVT0010,Equipment_Name,Excavator 1,EXC-001,DQ-0068,Data dictionary guidance,Asset identifier or alias,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,1,3,EVT0002,Event_Type,start,Start,DQ-0074,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,3,5,EVT0004,Event_Type,start,Start,DQ-0074,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,4,6,EVT0005,Event_Type,start,Start,DQ-0074,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,12,14,EVT0013,Event_Type,start,Start,DQ-0074,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,17,19,EVT0018,Event_Type,Strat,Start,DQ-0074,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,25,27,EVT0026,Event_Type,start,Start,DQ-0074,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,28,30,EVT0029,Event_Type,start,Start,DQ-0074,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,33,35,EVT0034,Event_Type,start,Start,DQ-0074,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,41,43,EVT0042,Event_Type,start,Start,DQ-0074,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,3,5,EVT0004,Status,closed,Closed,DQ-0082,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,5,7,EVT0006,Status,closed,Closed,DQ-0082,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,11,13,EVT0012,Status,closed,Closed,DQ-0082,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,17,19,EVT0018,Status,closed,Closed,DQ-0082,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,20,22,EVT0021,Status,closed,Closed,DQ-0082,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,21,23,EVT0022,Status,closed,Closed,DQ-0082,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,27,29,EVT0028,Status,closed,Closed,DQ-0082,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,32,34,EVT0033,Status,closed,Closed,DQ-0082,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,34,36,EVT0035,Status,closed,Closed,DQ-0082,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,40,42,EVT0041,Status,closed,Closed,DQ-0082,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,43,45,EVT0044,Status,closed,Closed,DQ-0082,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,0,2,EVT0001,Event_Time,01/07/2026 11:00,2026-07-01 11:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,1,3,EVT0002,Event_Time,07/01/2026 04:00 PM,2026-07-01 16:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,2,4,EVT0003,Event_Time,2026/07/01 21:00,2026-07-01 21:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,4,6,EVT0005,Event_Time,02/07/2026 07:00,2026-07-02 07:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,5,7,EVT0006,Event_Time,07/02/2026 12:00 PM,2026-07-02 12:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,6,8,EVT0007,Event_Time,2026/07/02 17:00,2026-07-02 17:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,8,10,EVT0009,Event_Time,03/07/2026 03:00,2026-07-03 03:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,9,11,EVT0010,Event_Time,07/03/2026 08:00 AM,2026-07-03 08:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,10,12,EVT0011,Event_Time,2026/07/03 13:00,2026-07-03 13:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,12,14,EVT0013,Event_Time,03/07/2026 23:00,2026-07-03 23:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,13,15,EVT0014,Event_Time,07/04/2026 04:00 AM,2026-07-04 04:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,14,16,EVT0015,Event_Time,2026/07/04 09:00,2026-07-04 09:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,16,18,EVT0017,Event_Time,04/07/2026 19:00,2026-07-04 19:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,17,19,EVT0018,Event_Time,07/05/2026 12:00 AM,2026-07-05 00:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,18,20,EVT0019,Event_Time,2026/07/05 05:00,2026-07-05 05:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,20,22,EVT0021,Event_Time,05/07/2026 15:00,2026-07-05 15:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,21,23,EVT0022,Event_Time,07/05/2026 08:00 PM,2026-07-05 20:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,22,24,EVT0023,Event_Time,2026/07/01 09:00,2026-07-01 09:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,24,26,EVT0025,Event_Time,06/07/2026 11:00,2026-07-06 11:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,25,27,EVT0026,Event_Time,07/06/2026 04:00 PM,2026-07-06 16:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,26,28,EVT0027,Event_Time,2026/07/06 21:00,2026-07-06 21:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,28,30,EVT0029,Event_Time,07/07/2026 07:00,2026-07-07 07:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,29,31,EVT0030,Event_Time,07/07/2026 12:00 PM,2026-07-07 12:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,30,32,EVT0031,Event_Time,2026/07/07 17:00,2026-07-07 17:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,32,34,EVT0033,Event_Time,08/07/2026 03:00,2026-07-08 03:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,33,35,EVT0034,Event_Time,07/08/2026 08:00 AM,2026-07-08 08:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,34,36,EVT0035,Event_Time,2026/07/08 13:00,2026-07-08 13:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,36,38,EVT0037,Event_Time,08/07/2026 23:00,2026-07-08 23:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,37,39,EVT0038,Event_Time,07/09/2026 04:00 AM,2026-07-09 04:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,38,40,EVT0039,Event_Time,2026/07/09 09:00,2026-07-09 09:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,40,42,EVT0041,Event_Time,09/07/2026 19:00,2026-07-09 19:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,41,43,EVT0042,Event_Time,07/10/2026 12:00 AM,2026-07-10 00:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,42,44,EVT0043,Event_Time,2026/07/10 05:00,2026-07-10 05:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,44,46,EVT0045,Event_Time,10/07/2026 15:00,2026-07-10 15:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,45,47,EVT0010,Event_Time,07/03/2026 08:00 AM,2026-07-03 08:00:00,DQ-0073,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,4,6,EVT0005,Meter_Reading,1036.5,17.275,DQ-0077,Data dictionary guidance,Equipment meter value and unit,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,4,6,EVT0005,Meter_Unit,mins,hours,DQ-0078,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,9,11,EVT0010,Meter_Reading,1073.0,17.8833,DQ-0077,Data dictionary guidance,Equipment meter value and unit,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,9,11,EVT0010,Meter_Unit,mins,hours,DQ-0078,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,14,16,EVT0015,Meter_Reading,1109.5,18.4917,DQ-0077,Data dictionary guidance,Equipment meter value and unit,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,14,16,EVT0015,Meter_Unit,mins,hours,DQ-0078,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,19,21,EVT0020,Meter_Reading,1146.0,19.1,DQ-0077,Data dictionary guidance,Equipment meter value and unit,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,19,21,EVT0020,Meter_Unit,mins,hours,DQ-0078,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,24,26,EVT0025,Meter_Reading,1182.5,19.7083,DQ-0077,Data dictionary guidance,Equipment meter value and unit,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,24,26,EVT0025,Meter_Unit,mins,hours,DQ-0078,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,29,31,EVT0030,Meter_Reading,1219.0,20.3167,DQ-0077,Data dictionary guidance,Equipment meter value and unit,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,29,31,EVT0030,Meter_Unit,mins,hours,DQ-0078,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,34,36,EVT0035,Meter_Reading,1255.5,20.925,DQ-0077,Data dictionary guidance,Equipment meter value and unit,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,34,36,EVT0035,Meter_Unit,mins,hours,DQ-0078,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,39,41,EVT0040,Meter_Reading,1292.0,21.5333,DQ-0077,Data dictionary guidance,Equipment meter value and unit,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,39,41,EVT0040,Meter_Unit,mins,hours,DQ-0078,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,44,46,EVT0045,Meter_Reading,1328.5,22.1417,DQ-0077,Data dictionary guidance,Equipment meter value and unit,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,44,46,EVT0045,Meter_Unit,mins,hours,DQ-0078,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,45,47,EVT0010,Meter_Reading,1073.0,17.8833,DQ-0077,Data dictionary guidance,Equipment meter value and unit,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,45,47,EVT0010,Meter_Unit,mins,hours,DQ-0078,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Equipment_Events,45,47,EVT0010,Entire row,Duplicate row retained in raw source,Excluded from cleaned dataset,DQ-0066,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT
+Delays_Downtime,1,3,DLY0002,Equipment_Name,truck03,TRK-003,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,2,4,DLY0003,Equipment_Name,EX 001,EXC-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,3,5,DLY0004,Equipment_Name,EXC-02,EXC-002,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,4,6,DLY0005,Equipment_Name,DRL001,DRL-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,5,7,DLY0006,Equipment_Name,truck01,TRK-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,6,8,DLY0007,Equipment_Name,Truck 2,TRK-002,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,7,9,DLY0008,Equipment_Name,truck03,TRK-003,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,8,10,DLY0009,Equipment_Name,EXC001,EXC-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,9,11,DLY0010,Equipment_Name,Excavator 2,EXC-002,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,10,12,DLY0011,Equipment_Name,DRILL-1,DRL-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,11,13,DLY0012,Equipment_Name,TRK 001,TRK-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,12,14,DLY0013,Equipment_Name,TRK002,TRK-002,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,14,16,DLY0015,Equipment_Name,EXC-01,EXC-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,15,17,DLY0016,Equipment_Name,EXC-02,EXC-002,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,16,18,DLY0017,Equipment_Name,DRILL-1,DRL-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,17,19,DLY0018,Equipment_Name,TRK 001,TRK-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,19,21,DLY0020,Equipment_Name,truck03,TRK-003,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,20,22,DLY0021,Equipment_Name,EXC-01,EXC-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,21,23,DLY0022,Equipment_Name,EXC-02,EXC-002,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,22,24,DLY0023,Equipment_Name,DRILL-1,DRL-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,23,25,DLY0024,Equipment_Name,Truck 1,TRK-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,24,26,DLY0025,Equipment_Name,truck02,TRK-002,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,25,27,DLY0026,Equipment_Name,Truck 3,TRK-003,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,26,28,DLY0027,Equipment_Name,EX 001,EXC-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,27,29,DLY0028,Equipment_Name,EXC002,EXC-002,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,28,30,DLY0029,Equipment_Name,DRILL-1,DRL-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,29,31,DLY0030,Equipment_Name,Truck 1,TRK-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,31,33,DLY0032,Equipment_Name,Truck 3,TRK-003,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,32,34,DLY0033,Equipment_Name,Excavator 1,EXC-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,33,35,DLY0034,Equipment_Name,EXC002,EXC-002,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,34,36,DLY0035,Equipment_Name,DRL001,DRL-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,35,37,DLY0036,Equipment_Name,truck01,TRK-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,36,38,DLY0037,Equipment_Name,TRK002,TRK-002,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,37,39,DLY0038,Equipment_Name,TRK003,TRK-003,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,38,40,DLY0039,Equipment_Name,EXC001,EXC-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,39,41,DLY0040,Equipment_Name,EXC-02,EXC-002,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,40,42,DLY0041,Equipment_Name,DRL001,DRL-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,41,43,DLY0042,Equipment_Name,truck01,TRK-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,42,44,DLY0043,Equipment_Name,truck02,TRK-002,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,43,45,DLY0044,Equipment_Name,truck03,TRK-003,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,44,46,DLY0045,Equipment_Name,EX 001,EXC-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,45,47,DLY0005,Equipment_Name,DRL001,DRL-001,DQ-0043,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,1,3,DLY0002,Delay_Category,mechanical,Mechanical,DQ-0032,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,5,7,DLY0006,Delay_Category,mechanical,Mechanical,DQ-0032,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,14,16,DLY0015,Delay_Category,Mecanical,Mechanical,DQ-0032,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,16,18,DLY0017,Delay_Category,mechanical,Mechanical,DQ-0032,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,20,22,DLY0021,Delay_Category,mechanical,Mechanical,DQ-0032,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,23,25,DLY0024,Delay_Category,mechanical,Mechanical,DQ-0032,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,31,33,DLY0032,Delay_Category,mechanical,Mechanical,DQ-0032,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,32,34,DLY0033,Delay_Category,mechanical,Mechanical,DQ-0032,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,35,37,DLY0036,Delay_Category,mechanical,Mechanical,DQ-0032,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,42,44,DLY0043,Delay_Category,mechanical,Mechanical,DQ-0032,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,0,2,DLY0001,Start_Time,01/07/2026 12:00,2026-07-01 12:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,1,3,DLY0002,Start_Time,07/01/2026 06:00 PM,2026-07-01 18:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,2,4,DLY0003,Start_Time,2026/07/02 00:00,2026-07-02 00:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,4,6,DLY0005,Start_Time,02/07/2026 12:00,2026-07-02 12:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,5,7,DLY0006,Start_Time,07/02/2026 06:00 PM,2026-07-02 18:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,6,8,DLY0007,Start_Time,2026/07/03 00:00,2026-07-03 00:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,8,10,DLY0009,Start_Time,03/07/2026 12:00,2026-07-03 12:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,9,11,DLY0010,Start_Time,07/03/2026 06:00 PM,2026-07-03 18:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,10,12,DLY0011,Start_Time,2026/07/04 00:00,2026-07-04 00:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,12,14,DLY0013,Start_Time,04/07/2026 12:00,2026-07-04 12:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,13,15,DLY0014,Start_Time,07/04/2026 06:00 PM,2026-07-04 18:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,14,16,DLY0015,Start_Time,2026/07/05 00:00,2026-07-05 00:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,16,18,DLY0017,Start_Time,05/07/2026 12:00,2026-07-05 12:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,17,19,DLY0018,Start_Time,07/05/2026 06:00 PM,2026-07-05 18:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,18,20,DLY0019,Start_Time,2026/07/06 00:00,2026-07-06 00:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,20,22,DLY0021,Start_Time,06/07/2026 12:00,2026-07-06 12:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,21,23,DLY0022,Start_Time,07/06/2026 06:00 PM,2026-07-06 18:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,22,24,DLY0023,Start_Time,2026/07/07 00:00,2026-07-07 00:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,24,26,DLY0025,Start_Time,07/07/2026 12:00,2026-07-07 12:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,25,27,DLY0026,Start_Time,07/07/2026 06:00 PM,2026-07-07 18:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,26,28,DLY0027,Start_Time,2026/07/08 00:00,2026-07-08 00:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,28,30,DLY0029,Start_Time,08/07/2026 12:00,2026-07-08 12:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,29,31,DLY0030,Start_Time,07/08/2026 06:00 PM,2026-07-08 18:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,30,32,DLY0031,Start_Time,2026/07/09 00:00,2026-07-09 00:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,32,34,DLY0033,Start_Time,09/07/2026 12:00,2026-07-09 12:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,33,35,DLY0034,Start_Time,07/09/2026 06:00 PM,2026-07-09 18:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,34,36,DLY0035,Start_Time,2026/07/10 00:00,2026-07-10 00:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,36,38,DLY0037,Start_Time,10/07/2026 12:00,2026-07-10 12:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,37,39,DLY0038,Start_Time,07/10/2026 06:00 PM,2026-07-10 18:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,38,40,DLY0039,Start_Time,2026/07/11 00:00,2026-07-11 00:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,40,42,DLY0041,Start_Time,11/07/2026 12:00,2026-07-11 12:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,41,43,DLY0042,Start_Time,07/11/2026 06:00 PM,2026-07-11 18:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,42,44,DLY0043,Start_Time,2026/07/12 00:00,2026-07-12 00:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,44,46,DLY0045,Start_Time,12/07/2026 12:00,2026-07-12 12:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,45,47,DLY0005,Start_Time,02/07/2026 12:00,2026-07-02 12:00:00,DQ-0046,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,0,2,DLY0001,End_Time,07/01/2026 12:45 PM,2026-07-01 12:45:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,1,3,DLY0002,End_Time,2026/07/01 18:30,2026-07-01 18:30:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,3,5,DLY0004,End_Time,02/07/2026 08:00,2026-07-02 08:00:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,4,6,DLY0005,End_Time,07/02/2026 01:30 PM,2026-07-02 13:30:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,5,7,DLY0006,End_Time,2026/07/02 19:00,2026-07-02 19:00:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,7,9,DLY0008,End_Time,03/07/2026 06:15,2026-07-03 06:15:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,8,10,DLY0009,End_Time,07/03/2026 11:30 AM,2026-07-03 11:30:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,9,11,DLY0010,End_Time,2026/07/03 19:00,2026-07-03 19:00:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,11,13,DLY0012,End_Time,04/07/2026 06:45,2026-07-04 06:45:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,12,14,DLY0013,End_Time,07/04/2026 02:00 PM,2026-07-04 14:00:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,13,15,DLY0014,End_Time,2026/07/04 18:45,2026-07-04 18:45:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,15,17,DLY0016,End_Time,05/07/2026 06:30,2026-07-05 06:30:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,16,18,DLY0017,End_Time,07/05/2026 12:45 PM,2026-07-05 12:45:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,17,19,DLY0018,End_Time,2026/07/05 20:00,2026-07-05 20:00:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,19,21,DLY0020,End_Time,06/07/2026 08:00,2026-07-06 08:00:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,20,22,DLY0021,End_Time,07/06/2026 12:30 PM,2026-07-06 12:30:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,21,23,DLY0022,End_Time,2026/07/06 19:30,2026-07-06 19:30:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,23,25,DLY0024,End_Time,07/07/2026 06:30,2026-07-07 06:30:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,24,26,DLY0025,End_Time,07/07/2026 02:00 PM,2026-07-07 14:00:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,25,27,DLY0026,End_Time,2026/07/07 19:30,2026-07-07 19:30:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,27,29,DLY0028,End_Time,08/07/2026 07:00,2026-07-08 07:00:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,28,30,DLY0029,End_Time,07/08/2026 01:30 PM,2026-07-08 13:30:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,29,31,DLY0030,End_Time,2026/07/08 19:00,2026-07-08 19:00:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,31,33,DLY0032,End_Time,09/07/2026 06:15,2026-07-09 06:15:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,32,34,DLY0033,End_Time,07/09/2026 12:30 PM,2026-07-09 12:30:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,33,35,DLY0034,End_Time,2026/07/09 20:00,2026-07-09 20:00:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,35,37,DLY0036,End_Time,10/07/2026 06:45,2026-07-10 06:45:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,36,38,DLY0037,End_Time,07/10/2026 12:45 PM,2026-07-10 12:45:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,37,39,DLY0038,End_Time,2026/07/10 19:30,2026-07-10 19:30:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,39,41,DLY0040,End_Time,11/07/2026 07:00,2026-07-11 07:00:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,40,42,DLY0041,End_Time,07/11/2026 01:30 PM,2026-07-11 13:30:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,41,43,DLY0042,End_Time,2026/07/11 19:00,2026-07-11 19:00:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,43,45,DLY0044,End_Time,12/07/2026 06:45,2026-07-12 06:45:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,44,46,DLY0045,End_Time,07/12/2026 12:30 PM,2026-07-12 12:30:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,45,47,DLY0005,End_Time,07/02/2026 01:30 PM,2026-07-02 13:30:00,DQ-0041,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,3,5,DLY0004,Duration,2.0,120.0,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,3,5,DLY0004,Duration_Unit,hours,minutes,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,7,9,DLY0008,Duration,0.25,15.0,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,7,9,DLY0008,Duration_Unit,hours,minutes,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,11,13,DLY0012,Duration,0.75,45.0,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,11,13,DLY0012,Duration_Unit,hours,minutes,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,15,17,DLY0016,Duration,0.5,30.0,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,15,17,DLY0016,Duration_Unit,hours,minutes,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,19,21,DLY0020,Duration,2.0,120.0,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,19,21,DLY0020,Duration_Unit,hours,minutes,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,23,25,DLY0024,Duration,0.5,30.0,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,23,25,DLY0024,Duration_Unit,hours,minutes,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,27,29,DLY0028,Duration,1.0,60.0,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,27,29,DLY0028,Duration_Unit,hours,minutes,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,31,33,DLY0032,Duration,0.25,15.0,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,31,33,DLY0032,Duration_Unit,hours,minutes,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,35,37,DLY0036,Duration,0.75,45.0,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,35,37,DLY0036,Duration_Unit,hours,minutes,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,39,41,DLY0040,Duration,1.0,60.0,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,39,41,DLY0040,Duration_Unit,hours,minutes,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,43,45,DLY0044,Duration,0.75,45.0,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,43,45,DLY0044,Duration_Unit,hours,minutes,DQ-0040,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Delays_Downtime,45,47,DLY0005,Entire row,Duplicate row retained in raw source,Excluded from cleaned dataset,DQ-0042,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT
+Operator_Activities,1,3,ACT0002,Equipment_Name,TRK003,TRK-003,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,2,4,ACT0003,Equipment_Name,EXC-01,EXC-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,3,5,ACT0004,Equipment_Name,Excavator 2,EXC-002,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,4,6,ACT0005,Equipment_Name,DRILL-1,DRL-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,5,7,ACT0006,Equipment_Name,TRK001,TRK-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,6,8,ACT0007,Equipment_Name,TRK002,TRK-002,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,8,10,ACT0009,Equipment_Name,EX 001,EXC-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,9,11,ACT0010,Equipment_Name,EXC-02,EXC-002,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,10,12,ACT0011,Equipment_Name,DRL001,DRL-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,11,13,ACT0012,Equipment_Name,truck01,TRK-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,13,15,ACT0014,Equipment_Name,truck03,TRK-003,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,14,16,ACT0015,Equipment_Name,EX 001,EXC-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,15,17,ACT0016,Equipment_Name,EXC002,EXC-002,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,16,18,ACT0017,Equipment_Name,Drill 01,DRL-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,17,19,ACT0018,Equipment_Name,truck01,TRK-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,18,20,ACT0019,Equipment_Name,truck02,TRK-002,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,20,22,ACT0021,Equipment_Name,EX 001,EXC-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,21,23,ACT0022,Equipment_Name,Excavator 2,EXC-002,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,22,24,ACT0023,Equipment_Name,DRL001,DRL-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,23,25,ACT0024,Equipment_Name,TRK 001,TRK-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,26,28,ACT0027,Equipment_Name,EXC001,EXC-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,27,29,ACT0028,Equipment_Name,EXC002,EXC-002,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,28,30,ACT0029,Equipment_Name,TRK099,TRK-099,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,29,31,ACT0030,Equipment_Name,Truck 1,TRK-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,30,32,ACT0031,Equipment_Name,truck02,TRK-002,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,31,33,ACT0032,Equipment_Name,TRK003,TRK-003,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,32,34,ACT0033,Equipment_Name,EX 001,EXC-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,33,35,ACT0034,Equipment_Name,Excavator 2,EXC-002,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,34,36,ACT0035,Equipment_Name,DRILL-1,DRL-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,35,37,ACT0036,Equipment_Name,TRK001,TRK-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,36,38,ACT0037,Equipment_Name,TRK002,TRK-002,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,37,39,ACT0038,Equipment_Name,truck03,TRK-003,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,38,40,ACT0039,Equipment_Name,EX 001,EXC-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,39,41,ACT0040,Equipment_Name,EXC-02,EXC-002,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,40,42,ACT0041,Equipment_Name,Drill 01,DRL-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,41,43,ACT0042,Equipment_Name,Truck 1,TRK-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,44,46,ACT0045,Equipment_Name,EXC001,EXC-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,45,47,ACT0012,Equipment_Name,truck01,TRK-001,DQ-0118,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,2,4,ACT0003,Activity_Type,hualing,Hauling,DQ-0112,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,7,9,ACT0008,Activity_Type,hualing,Hauling,DQ-0112,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,9,11,ACT0010,Activity_Type,hualing,Hauling,DQ-0112,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,10,12,ACT0011,Activity_Type,hualing,Hauling,DQ-0112,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,11,13,ACT0012,Activity_Type,hualing,Hauling,DQ-0112,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,21,23,ACT0022,Activity_Type,hualing,Hauling,DQ-0112,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,31,33,ACT0032,Activity_Type,hualing,Hauling,DQ-0112,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,44,46,ACT0045,Activity_Type,hualing,Hauling,DQ-0112,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,45,47,ACT0012,Activity_Type,hualing,Hauling,DQ-0112,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,0,2,ACT0001,Mobile_Number,082-555-0102,0825550102,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,2,4,ACT0003,Mobile_Number,060 555 0104,0605550104,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,4,6,ACT0005,Mobile_Number,072 555 0106,0725550106,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,6,8,ACT0007,Mobile_Number,076-555-0108,0765550108,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,7,9,ACT0008,Mobile_Number,071 555 0101,0715550101,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,8,10,ACT0009,Mobile_Number,082-555-0102,0825550102,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,10,12,ACT0011,Mobile_Number,060 555 0104,0605550104,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,12,14,ACT0013,Mobile_Number,072 555 0106,0725550106,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,14,16,ACT0015,Mobile_Number,076-555-0108,0765550108,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,15,17,ACT0016,Mobile_Number,071 555 0101,0715550101,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,16,18,ACT0017,Mobile_Number,082-555-0102,0825550102,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,18,20,ACT0019,Mobile_Number,060 555 0104,0605550104,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,20,22,ACT0021,Mobile_Number,072 555 0106,0725550106,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,22,24,ACT0023,Mobile_Number,076-555-0108,0765550108,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,23,25,ACT0024,Mobile_Number,071 555 0101,0715550101,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,24,26,ACT0025,Mobile_Number,082-555-0102,0825550102,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,26,28,ACT0027,Mobile_Number,060 555 0104,0605550104,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,28,30,ACT0029,Mobile_Number,072 555 0106,0725550106,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,30,32,ACT0031,Mobile_Number,076-555-0108,0765550108,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,31,33,ACT0032,Mobile_Number,071 555 0101,0715550101,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,32,34,ACT0033,Mobile_Number,082-555-0102,0825550102,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,34,36,ACT0035,Mobile_Number,060 555 0104,0605550104,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,36,38,ACT0037,Mobile_Number,072 555 0106,0725550106,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,38,40,ACT0039,Mobile_Number,076-555-0108,0765550108,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,39,41,ACT0040,Mobile_Number,071 555 0101,0715550101,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,40,42,ACT0041,Mobile_Number,082-555-0102,0825550102,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,42,44,ACT0043,Mobile_Number,060 555 0104,0605550104,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,44,46,ACT0045,Mobile_Number,072 555 0106,0725550106,DQ-0123,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,0,2,ACT0001,Activity_Start,01/07/2026 11:00,2026-07-01 11:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,1,3,ACT0002,Activity_Start,07/01/2026 04:00 PM,2026-07-01 16:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,2,4,ACT0003,Activity_Start,2026/07/01 21:00,2026-07-01 21:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,4,6,ACT0005,Activity_Start,02/07/2026 07:00,2026-07-02 07:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,5,7,ACT0006,Activity_Start,07/02/2026 12:00 PM,2026-07-02 12:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,6,8,ACT0007,Activity_Start,2026/07/02 17:00,2026-07-02 17:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,8,10,ACT0009,Activity_Start,03/07/2026 03:00,2026-07-03 03:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,9,11,ACT0010,Activity_Start,07/03/2026 08:00 AM,2026-07-03 08:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,10,12,ACT0011,Activity_Start,2026/07/03 13:00,2026-07-03 13:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,12,14,ACT0013,Activity_Start,03/07/2026 23:00,2026-07-03 23:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,13,15,ACT0014,Activity_Start,07/04/2026 04:00 AM,2026-07-04 04:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,14,16,ACT0015,Activity_Start,2026/07/04 09:00,2026-07-04 09:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,16,18,ACT0017,Activity_Start,04/07/2026 19:00,2026-07-04 19:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,17,19,ACT0018,Activity_Start,07/05/2026 12:00 AM,2026-07-05 00:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,18,20,ACT0019,Activity_Start,2026/07/05 05:00,2026-07-05 05:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,20,22,ACT0021,Activity_Start,05/07/2026 15:00,2026-07-05 15:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,21,23,ACT0022,Activity_Start,07/05/2026 08:00 PM,2026-07-05 20:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,22,24,ACT0023,Activity_Start,2026/07/06 01:00,2026-07-06 01:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,24,26,ACT0025,Activity_Start,06/07/2026 11:00,2026-07-06 11:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,25,27,ACT0026,Activity_Start,07/06/2026 04:00 PM,2026-07-06 16:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,26,28,ACT0027,Activity_Start,2026/07/06 21:00,2026-07-06 21:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,28,30,ACT0029,Activity_Start,07/07/2026 07:00,2026-07-07 07:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,29,31,ACT0030,Activity_Start,07/07/2026 12:00 PM,2026-07-07 12:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,30,32,ACT0031,Activity_Start,2026/07/07 17:00,2026-07-07 17:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,32,34,ACT0033,Activity_Start,08/07/2026 03:00,2026-07-08 03:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,33,35,ACT0034,Activity_Start,07/08/2026 08:00 AM,2026-07-08 08:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,34,36,ACT0035,Activity_Start,2026/07/08 13:00,2026-07-08 13:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,36,38,ACT0037,Activity_Start,08/07/2026 23:00,2026-07-08 23:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,37,39,ACT0038,Activity_Start,07/09/2026 04:00 AM,2026-07-09 04:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,38,40,ACT0039,Activity_Start,2026/07/09 09:00,2026-07-09 09:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,40,42,ACT0041,Activity_Start,09/07/2026 19:00,2026-07-09 19:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,41,43,ACT0042,Activity_Start,07/10/2026 12:00 AM,2026-07-10 00:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,42,44,ACT0043,Activity_Start,2026/07/10 05:00,2026-07-10 05:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,44,46,ACT0045,Activity_Start,10/07/2026 15:00,2026-07-10 15:00:00,DQ-0110,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,0,2,ACT0001,Activity_End,2026/07/01 15:00,2026-07-01 15:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,2,4,ACT0003,Activity_End,01/07/2026 23:00,2026-07-01 23:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,3,5,ACT0004,Activity_End,07/02/2026 05:00 AM,2026-07-02 05:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,4,6,ACT0005,Activity_End,2026/07/02 10:00,2026-07-02 10:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,6,8,ACT0007,Activity_End,02/07/2026 19:00,2026-07-02 19:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,7,9,ACT0008,Activity_End,07/03/2026 01:00 AM,2026-07-03 01:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,8,10,ACT0009,Activity_End,2026/07/03 06:00,2026-07-03 06:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,10,12,ACT0011,Activity_End,03/07/2026 16:00,2026-07-03 16:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,11,13,ACT0012,Activity_End,07/03/2026 08:00 PM,2026-07-03 20:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,12,14,ACT0013,Activity_End,2026/07/03 21:00,2026-07-03 21:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,14,16,ACT0015,Activity_End,04/07/2026 11:00,2026-07-04 11:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,15,17,ACT0016,Activity_End,07/04/2026 03:00 PM,2026-07-04 15:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,16,18,ACT0017,Activity_End,2026/07/04 21:00,2026-07-04 21:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,18,20,ACT0019,Activity_End,05/07/2026 06:00,2026-07-05 06:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,19,21,ACT0020,Activity_End,07/05/2026 11:00 AM,2026-07-05 11:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,20,22,ACT0021,Activity_End,2026/07/05 18:00,2026-07-05 18:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,22,24,ACT0023,Activity_End,06/07/2026 05:00,2026-07-06 05:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,23,25,ACT0024,Activity_End,07/06/2026 10:00 AM,2026-07-06 10:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,24,26,ACT0025,Activity_End,2026/07/06 12:00,2026-07-06 12:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,26,28,ACT0027,Activity_End,07/07/2026 00:00,2026-07-07 00:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,27,29,ACT0028,Activity_End,07/07/2026 06:00 AM,2026-07-07 06:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,28,30,ACT0029,Activity_End,2026/07/07 09:00,2026-07-07 09:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,30,32,ACT0031,Activity_End,07/07/2026 21:00,2026-07-07 21:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,31,33,ACT0032,Activity_End,07/07/2026 11:00 PM,2026-07-07 23:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,32,34,ACT0033,Activity_End,2026/07/08 06:00,2026-07-08 06:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,34,36,ACT0035,Activity_End,08/07/2026 15:00,2026-07-08 15:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,35,37,ACT0036,Activity_End,07/08/2026 07:00 PM,2026-07-08 19:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,36,38,ACT0037,Activity_End,2026/07/09 01:00,2026-07-09 01:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,38,40,ACT0039,Activity_End,09/07/2026 12:00,2026-07-09 12:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,39,41,ACT0040,Activity_End,07/09/2026 04:00 PM,2026-07-09 16:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,40,42,ACT0041,Activity_End,2026/07/09 23:00,2026-07-09 23:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,42,44,ACT0043,Activity_End,10/07/2026 09:00,2026-07-10 09:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,43,45,ACT0044,Activity_End,07/10/2026 12:00 PM,2026-07-10 12:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,44,46,ACT0045,Activity_End,2026/07/10 17:00,2026-07-10 17:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,45,47,ACT0012,Activity_End,07/03/2026 08:00 PM,2026-07-03 20:00:00,DQ-0106,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Operator_Activities,45,47,ACT0012,Entire row,Duplicate row retained in raw source,Excluded from cleaned dataset,DQ-0117,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT
+Shift_Performance,0,2,SHF0001,Equipment_Name,TRK002,TRK-002,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,2,4,SHF0003,Equipment_Name,EXC-01,EXC-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,3,5,SHF0004,Equipment_Name,Excavator 2,EXC-002,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,4,6,SHF0005,Equipment_Name,DRILL-1,DRL-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,5,7,SHF0006,Equipment_Name,Truck 1,TRK-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,6,8,SHF0007,Equipment_Name,TRK002,TRK-002,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,8,10,SHF0009,Equipment_Name,EX 001,EXC-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,9,11,SHF0010,Equipment_Name,Excavator 2,EXC-002,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,10,12,SHF0011,Equipment_Name,DRILL-1,DRL-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,11,13,SHF0012,Equipment_Name,TRK001,TRK-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,12,14,SHF0013,Equipment_Name,Truck 2,TRK-002,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,13,15,SHF0014,Equipment_Name,Truck 3,TRK-003,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,14,16,SHF0015,Equipment_Name,EX 001,EXC-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,15,17,SHF0016,Equipment_Name,EXC002,EXC-002,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,16,18,SHF0017,Equipment_Name,DRL001,DRL-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,17,19,SHF0018,Equipment_Name,Truck 1,TRK-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,19,21,SHF0020,Equipment_Name,Truck 3,TRK-003,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,20,22,SHF0021,Equipment_Name,Excavator 1,EXC-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,21,23,SHF0022,Equipment_Name,EXC-02,EXC-002,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,22,24,SHF0023,Equipment_Name,Drill 01,DRL-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,23,25,SHF0024,Equipment_Name,Truck 1,TRK-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,24,26,SHF0025,Equipment_Name,TRK002,TRK-002,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,25,27,SHF0026,Equipment_Name,TRK003,TRK-003,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,26,28,SHF0027,Equipment_Name,Excavator 1,EXC-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,27,29,SHF0028,Equipment_Name,Excavator 2,EXC-002,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,28,30,SHF0029,Equipment_Name,Drill 01,DRL-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,29,31,SHF0030,Equipment_Name,truck01,TRK-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,32,34,SHF0033,Equipment_Name,Excavator 1,EXC-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,33,35,SHF0034,Equipment_Name,Excavator 2,EXC-002,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,34,36,SHF0035,Equipment_Name,DRL001,DRL-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,35,37,SHF0036,Equipment_Name,Truck 1,TRK-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,38,40,SHF0039,Equipment_Name,Excavator 1,EXC-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,39,41,SHF0040,Equipment_Name,Excavator 2,EXC-002,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,40,42,SHF0041,Equipment_Name,DRL001,DRL-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,41,43,SHF0042,Equipment_Name,truck01,TRK-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,42,44,SHF0043,Equipment_Name,TRK002,TRK-002,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,44,46,SHF0045,Equipment_Name,EXC-01,EXC-001,DQ-0163,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,0,2,SHF0001,Shift_Date,01/07/2026,2026-07-01,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,1,3,SHF0002,Shift_Date,07/01/2026,2026-01-07,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,2,4,SHF0003,Shift_Date,2026/07/02,2026-07-02,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,4,6,SHF0005,Shift_Date,03/07/2026,2026-07-03,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,5,7,SHF0006,Shift_Date,07/03/2026,2026-03-07,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,6,8,SHF0007,Shift_Date,2026/07/04,2026-07-04,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,8,10,SHF0009,Shift_Date,05/07/2026,2026-07-05,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,9,11,SHF0010,Shift_Date,07/05/2026,2026-05-07,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,10,12,SHF0011,Shift_Date,2026/07/06,2026-07-06,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,12,14,SHF0013,Shift_Date,07/07/2026,2026-07-07,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,13,15,SHF0014,Shift_Date,07/07/2026,2026-07-07,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,14,16,SHF0015,Shift_Date,2026/07/08,2026-07-08,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,16,18,SHF0017,Shift_Date,09/07/2026,2026-07-09,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,17,19,SHF0018,Shift_Date,07/09/2026,2026-09-07,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,18,20,SHF0019,Shift_Date,2026/07/10,2026-07-10,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,20,22,SHF0021,Shift_Date,11/07/2026,2026-07-11,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,21,23,SHF0022,Shift_Date,07/11/2026,2026-11-07,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,22,24,SHF0023,Shift_Date,2026/07/12,2026-07-12,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,24,26,SHF0025,Shift_Date,13/07/2026,2026-07-13,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,25,27,SHF0026,Shift_Date,07/13/2026,2026-07-13,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,26,28,SHF0027,Shift_Date,2026/07/14,2026-07-14,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,28,30,SHF0029,Shift_Date,15/07/2026,2026-07-15,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,29,31,SHF0030,Shift_Date,07/15/2026,2026-07-15,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,30,32,SHF0031,Shift_Date,2026/07/16,2026-07-16,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,32,34,SHF0033,Shift_Date,17/07/2026,2026-07-17,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,33,35,SHF0034,Shift_Date,07/17/2026,2026-07-17,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,34,36,SHF0035,Shift_Date,2026/07/18,2026-07-18,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,36,38,SHF0037,Shift_Date,19/07/2026,2026-07-19,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,37,39,SHF0038,Shift_Date,07/19/2026,2026-07-19,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,38,40,SHF0039,Shift_Date,2026/07/20,2026-07-20,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,40,42,SHF0041,Shift_Date,21/07/2026,2026-07-21,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,41,43,SHF0042,Shift_Date,07/21/2026,2026-07-21,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,42,44,SHF0043,Shift_Date,2026/07/22,2026-07-22,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,44,46,SHF0045,Shift_Date,23/07/2026,2026-07-23,DQ-0171,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,24,26,SHF0025,Fuel_Used,695.0,2630.86,DQ-0165,Data dictionary guidance,Shift fuel usage,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,24,26,SHF0025,Fuel_Unit,gallons,litres,DQ-0164,Consistency,Unit columns control whether numeric values are comparable,AUTO_CORRECT,AUTO_CORRECT
+Shift_Performance,45,47,SHF0008,Entire row,Duplicate row retained in raw source,Excluded from cleaned dataset,DQ-0162,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT
+Safety_Observations,0,2,SAF0001,Equipment_Name,truck02,TRK-002,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,1,3,SAF0002,Equipment_Name,Truck 3,TRK-003,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,2,4,SAF0003,Equipment_Name,EXC001,EXC-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,3,5,SAF0004,Equipment_Name,EXC-02,EXC-002,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,4,6,SAF0005,Equipment_Name,Drill 01,DRL-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,5,7,SAF0006,Equipment_Name,truck01,TRK-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,6,8,SAF0007,Equipment_Name,truck02,TRK-002,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,7,9,SAF0008,Equipment_Name,TRK003,TRK-003,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,8,10,SAF0009,Equipment_Name,EX 001,EXC-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,9,11,SAF0010,Equipment_Name,EXC-02,EXC-002,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,10,12,SAF0011,Equipment_Name,DRL001,DRL-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,12,14,SAF0013,Equipment_Name,Truck 2,TRK-002,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,13,15,SAF0014,Equipment_Name,truck03,TRK-003,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,14,16,SAF0015,Equipment_Name,EX 001,EXC-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,15,17,SAF0016,Equipment_Name,EXC002,EXC-002,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,16,18,SAF0017,Equipment_Name,DRILL-1,DRL-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,18,20,SAF0019,Equipment_Name,truck02,TRK-002,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,19,21,SAF0020,Equipment_Name,truck03,TRK-003,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,20,22,SAF0021,Equipment_Name,Excavator 1,EXC-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,21,23,SAF0022,Equipment_Name,EXC-02,EXC-002,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,22,24,SAF0023,Equipment_Name,DRL001,DRL-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,23,25,SAF0024,Equipment_Name,Truck 1,TRK-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,24,26,SAF0025,Equipment_Name,TRK002,TRK-002,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,26,28,SAF0027,Equipment_Name,EXC001,EXC-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,27,29,SAF0028,Equipment_Name,Excavator 2,EXC-002,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,28,30,SAF0029,Equipment_Name,DRL001,DRL-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,29,31,SAF0030,Equipment_Name,TRK001,TRK-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,30,32,SAF0031,Equipment_Name,Truck 2,TRK-002,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,31,33,SAF0032,Equipment_Name,TRK003,TRK-003,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,32,34,SAF0033,Equipment_Name,Excavator 1,EXC-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,33,35,SAF0034,Equipment_Name,EXC002,EXC-002,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,34,36,SAF0035,Equipment_Name,DRILL-1,DRL-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,35,37,SAF0036,Equipment_Name,truck01,TRK-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,36,38,SAF0037,Equipment_Name,truck02,TRK-002,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,37,39,SAF0038,Equipment_Name,Truck 3,TRK-003,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,38,40,SAF0039,Equipment_Name,EX 001,EXC-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,39,41,SAF0040,Equipment_Name,EXC-02,EXC-002,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,40,42,SAF0041,Equipment_Name,Drill 01,DRL-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,41,43,SAF0042,Equipment_Name,TRK001,TRK-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,44,46,SAF0045,Equipment_Name,Excavator 1,EXC-001,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,45,47,SAF0004,Equipment_Name,EXC-02,EXC-002,DQ-0143,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,0,2,SAF0001,Category,Saftey,Safety,DQ-0137,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,3,5,SAF0004,Category,Saftey,Safety,DQ-0137,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,5,7,SAF0006,Category,Saftey,Safety,DQ-0137,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,12,14,SAF0013,Category,Saftey,Safety,DQ-0137,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,24,26,SAF0025,Category,Saftey,Safety,DQ-0137,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,25,27,SAF0026,Category,Saftey,Safety,DQ-0137,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,30,32,SAF0031,Category,Saftey,Safety,DQ-0137,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,36,38,SAF0037,Category,Saftey,Safety,DQ-0137,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,45,47,SAF0004,Category,Saftey,Safety,DQ-0137,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,0,2,SAF0001,Severity,low,Low,DQ-0155,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,4,6,SAF0005,Severity,low,Low,DQ-0155,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,9,11,SAF0010,Severity,low,Low,DQ-0155,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,10,12,SAF0011,Severity,low,Low,DQ-0155,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,13,15,SAF0014,Severity,low,Low,DQ-0155,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,15,17,SAF0016,Severity,low,Low,DQ-0155,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,20,22,SAF0021,Severity,low,Low,DQ-0155,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,31,33,SAF0032,Severity,low,Low,DQ-0155,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,42,44,SAF0043,Severity,low,Low,DQ-0155,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,0,2,SAF0001,Observation_Date,01/07/2026 15:00,2026-07-01 15:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,1,3,SAF0002,Observation_Date,07/02/2026 12:00 AM,2026-07-02 00:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,2,4,SAF0003,Observation_Date,2026/07/02 09:00,2026-07-02 09:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,4,6,SAF0005,Observation_Date,03/07/2026 03:00,2026-07-03 03:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,5,7,SAF0006,Observation_Date,07/03/2026 12:00 PM,2026-07-03 12:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,6,8,SAF0007,Observation_Date,2026/07/03 21:00,2026-07-03 21:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,8,10,SAF0009,Observation_Date,04/07/2026 15:00,2026-07-04 15:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,9,11,SAF0010,Observation_Date,07/05/2026 12:00 AM,2026-07-05 00:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,10,12,SAF0011,Observation_Date,2026/07/05 09:00,2026-07-05 09:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,12,14,SAF0013,Observation_Date,06/07/2026 03:00,2026-07-06 03:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,13,15,SAF0014,Observation_Date,07/06/2026 12:00 PM,2026-07-06 12:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,14,16,SAF0015,Observation_Date,2026/07/06 21:00,2026-07-06 21:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,16,18,SAF0017,Observation_Date,07/07/2026 15:00,2026-07-07 15:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,17,19,SAF0018,Observation_Date,07/08/2026 12:00 AM,2026-07-08 00:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,18,20,SAF0019,Observation_Date,2026/07/08 09:00,2026-07-08 09:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,20,22,SAF0021,Observation_Date,09/07/2026 03:00,2026-07-09 03:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,21,23,SAF0022,Observation_Date,07/09/2026 12:00 PM,2026-07-09 12:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,22,24,SAF0023,Observation_Date,2026/07/09 21:00,2026-07-09 21:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,24,26,SAF0025,Observation_Date,10/07/2026 15:00,2026-07-10 15:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,25,27,SAF0026,Observation_Date,07/11/2026 12:00 AM,2026-07-11 00:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,26,28,SAF0027,Observation_Date,2026/07/11 09:00,2026-07-11 09:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,28,30,SAF0029,Observation_Date,12/07/2026 03:00,2026-07-12 03:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,29,31,SAF0030,Observation_Date,07/12/2026 12:00 PM,2026-07-12 12:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,30,32,SAF0031,Observation_Date,2026/07/12 21:00,2026-07-12 21:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,32,34,SAF0033,Observation_Date,13/07/2026 15:00,2026-07-13 15:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,33,35,SAF0034,Observation_Date,07/14/2026 12:00 AM,2026-07-14 00:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,34,36,SAF0035,Observation_Date,2026/07/14 09:00,2026-07-14 09:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,36,38,SAF0037,Observation_Date,15/07/2026 03:00,2026-07-15 03:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,37,39,SAF0038,Observation_Date,07/15/2026 12:00 PM,2026-07-15 12:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,38,40,SAF0039,Observation_Date,2026/07/15 21:00,2026-07-15 21:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,40,42,SAF0041,Observation_Date,16/07/2026 15:00,2026-07-16 15:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,41,43,SAF0042,Observation_Date,07/17/2026 12:00 AM,2026-07-17 00:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,42,44,SAF0043,Observation_Date,2026/07/17 09:00,2026-07-17 09:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,44,46,SAF0045,Observation_Date,18/07/2026 03:00,2026-07-18 03:00:00,DQ-0147,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,4,6,SAF0005,Closed_Date,07/05/2026 03:00 AM,2026-07-05 03:00:00,DQ-0139,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,5,7,SAF0006,Closed_Date,07/01/2026 12:00 PM,2026-07-01 12:00:00,DQ-0139,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,7,9,SAF0008,Closed_Date,06/07/2026 06:00,2026-07-06 06:00:00,DQ-0139,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,8,10,SAF0009,Closed_Date,07/06/2026 03:00 PM,2026-07-06 15:00:00,DQ-0139,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,13,15,SAF0014,Closed_Date,2026/07/08 12:00,2026-07-08 12:00:00,DQ-0139,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,17,19,SAF0018,Closed_Date,2026/07/10 00:00,2026-07-10 00:00:00,DQ-0139,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,27,29,SAF0028,Closed_Date,13/07/2026 18:00,2026-07-13 18:00:00,DQ-0139,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,28,30,SAF0029,Closed_Date,07/14/2026 03:00 AM,2026-07-14 03:00:00,DQ-0139,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,37,39,SAF0038,Closed_Date,2026/07/17 12:00,2026-07-17 12:00:00,DQ-0139,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,43,45,SAF0044,Closed_Date,19/07/2026 18:00,2026-07-19 18:00:00,DQ-0139,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Safety_Observations,45,47,SAF0004,Entire row,Duplicate row retained in raw source,Excluded from cleaned dataset,DQ-0142,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT
+Training_Records,30,32,TRN0031,Course_Code,SAFE-1,SAFE01,DQ-0180,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,0,2,TRN0001,Completion_Date,16/01/2025,2025-01-16,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,1,3,TRN0002,Completion_Date,01/31/2025,2025-01-31,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,2,4,TRN0003,Completion_Date,2025/02/15,2025-02-15,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,4,6,TRN0005,Completion_Date,17/03/2025,2025-03-17,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,5,7,TRN0006,Completion_Date,04/01/2025,2025-01-04,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,6,8,TRN0007,Completion_Date,2025/04/16,2025-04-16,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,8,10,TRN0009,Completion_Date,16/05/2025,2025-05-16,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,9,11,TRN0010,Completion_Date,05/31/2025,2025-05-31,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,10,12,TRN0011,Completion_Date,2025/06/15,2025-06-15,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,12,14,TRN0013,Completion_Date,15/07/2025,2025-07-15,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,13,15,TRN0014,Completion_Date,07/30/2025,2025-07-30,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,14,16,TRN0015,Completion_Date,2025/08/14,2025-08-14,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,16,18,TRN0017,Completion_Date,13/09/2025,2025-09-13,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,17,19,TRN0018,Completion_Date,09/28/2025,2025-09-28,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,18,20,TRN0019,Completion_Date,2025/10/13,2025-10-13,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,20,22,TRN0021,Completion_Date,12/11/2025,2025-11-12,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,21,23,TRN0022,Completion_Date,11/27/2025,2025-11-27,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,22,24,TRN0023,Completion_Date,2025/12/12,2025-12-12,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,24,26,TRN0025,Completion_Date,11/01/2026,2026-01-11,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,25,27,TRN0026,Completion_Date,01/26/2026,2026-01-26,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,26,28,TRN0027,Completion_Date,2026/02/10,2026-02-10,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,28,30,TRN0029,Completion_Date,12/03/2026,2026-03-12,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,29,31,TRN0030,Completion_Date,03/27/2026,2026-03-27,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,30,32,TRN0031,Completion_Date,2026/04/11,2026-04-11,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,32,34,TRN0033,Completion_Date,11/05/2026,2026-05-11,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,33,35,TRN0034,Completion_Date,05/26/2026,2026-05-26,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,34,36,TRN0035,Completion_Date,2026/06/10,2026-06-10,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,36,38,TRN0037,Completion_Date,10/07/2026,2026-07-10,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,37,39,TRN0038,Completion_Date,07/25/2026,2026-07-25,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,38,40,TRN0039,Completion_Date,2026/08/09,2026-08-09,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,40,42,TRN0041,Completion_Date,08/09/2026,2026-09-08,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,41,43,TRN0042,Completion_Date,09/23/2026,2026-09-23,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,42,44,TRN0043,Completion_Date,2026/10/08,2026-10-08,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,44,46,TRN0045,Completion_Date,07/11/2026,2026-11-07,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,45,47,TRN0006,Completion_Date,04/01/2025,2025-01-04,DQ-0178,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,0,2,TRN0001,Expiry_Date,01/16/2027,2027-01-16,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,1,3,TRN0002,Expiry_Date,2027/01/31,2027-01-31,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,3,5,TRN0004,Expiry_Date,02/03/2027,2027-03-02,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,4,6,TRN0005,Expiry_Date,03/17/2027,2027-03-17,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,5,7,TRN0006,Expiry_Date,2027/04/01,2027-04-01,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,7,9,TRN0008,Expiry_Date,11/04/2025,2025-04-11,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,8,10,TRN0009,Expiry_Date,05/16/2027,2027-05-16,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,9,11,TRN0010,Expiry_Date,2027/05/31,2027-05-31,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,11,13,TRN0012,Expiry_Date,30/06/2027,2027-06-30,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,12,14,TRN0013,Expiry_Date,07/15/2027,2027-07-15,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,13,15,TRN0014,Expiry_Date,2027/07/30,2027-07-30,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,15,17,TRN0016,Expiry_Date,29/08/2027,2027-08-29,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,16,18,TRN0017,Expiry_Date,09/13/2027,2027-09-13,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,17,19,TRN0018,Expiry_Date,2027/09/28,2027-09-28,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,19,21,TRN0020,Expiry_Date,28/10/2027,2027-10-28,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,20,22,TRN0021,Expiry_Date,11/12/2027,2027-12-11,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,21,23,TRN0022,Expiry_Date,2027/11/27,2027-11-27,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,23,25,TRN0024,Expiry_Date,27/12/2027,2027-12-27,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,24,26,TRN0025,Expiry_Date,01/11/2028,2028-11-01,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,25,27,TRN0026,Expiry_Date,2028/01/26,2028-01-26,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,27,29,TRN0028,Expiry_Date,25/02/2028,2028-02-25,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,28,30,TRN0029,Expiry_Date,03/11/2028,2028-11-03,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,29,31,TRN0030,Expiry_Date,2028/03/26,2028-03-26,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,31,33,TRN0032,Expiry_Date,25/04/2028,2028-04-25,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,32,34,TRN0033,Expiry_Date,05/10/2028,2028-10-05,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,33,35,TRN0034,Expiry_Date,2028/05/25,2028-05-25,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,35,37,TRN0036,Expiry_Date,24/06/2028,2028-06-24,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,36,38,TRN0037,Expiry_Date,07/09/2028,2028-09-07,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,37,39,TRN0038,Expiry_Date,2028/07/24,2028-07-24,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,39,41,TRN0040,Expiry_Date,23/08/2028,2028-08-23,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,40,42,TRN0041,Expiry_Date,09/07/2028,2028-07-09,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,41,43,TRN0042,Expiry_Date,2028/09/22,2028-09-22,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,43,45,TRN0044,Expiry_Date,22/10/2028,2028-10-22,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,44,46,TRN0045,Expiry_Date,11/06/2028,2028-06-11,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,45,47,TRN0006,Expiry_Date,2027/04/01,2027-04-01,DQ-0184,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Training_Records,45,47,TRN0006,Entire row,Duplicate row retained in raw source,Excluded from cleaned dataset,DQ-0183,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT
+Maintenance_Notifications,1,3,MNT0002,Equipment_Name,TRK003,TRK-003,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,2,4,MNT0003,Equipment_Name,Excavator 1,EXC-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,3,5,MNT0004,Equipment_Name,Excavator 2,EXC-002,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,4,6,MNT0005,Equipment_Name,DRILL-1,DRL-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,5,7,MNT0006,Equipment_Name,TRK 001,TRK-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,6,8,MNT0007,Equipment_Name,TRK002,TRK-002,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,7,9,MNT0008,Equipment_Name,Truck 3,TRK-003,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,8,10,MNT0009,Equipment_Name,Excavator 1,EXC-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,9,11,MNT0010,Equipment_Name,EXC-02,EXC-002,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,10,12,MNT0011,Equipment_Name,DRL001,DRL-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,11,13,MNT0012,Equipment_Name,Truck 1,TRK-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,13,15,MNT0014,Equipment_Name,Truck 3,TRK-003,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,14,16,MNT0015,Equipment_Name,EX 001,EXC-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,15,17,MNT0016,Equipment_Name,EXC-02,EXC-002,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,16,18,MNT0017,Equipment_Name,DRL001,DRL-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,17,19,MNT0018,Equipment_Name,TRK 001,TRK-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,20,22,MNT0021,Equipment_Name,EXC001,EXC-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,21,23,MNT0022,Equipment_Name,EXC-02,EXC-002,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,22,24,MNT0023,Equipment_Name,Drill 01,DRL-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,24,26,MNT0025,Equipment_Name,Truck 2,TRK-002,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,25,27,MNT0026,Equipment_Name,Truck 3,TRK-003,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,26,28,MNT0027,Equipment_Name,EXC-01,EXC-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,27,29,MNT0028,Equipment_Name,Excavator 2,EXC-002,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,28,30,MNT0029,Equipment_Name,DRL001,DRL-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,29,31,MNT0030,Equipment_Name,TRK001,TRK-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,31,33,MNT0032,Equipment_Name,truck03,TRK-003,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,32,34,MNT0033,Equipment_Name,EXC-01,EXC-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,33,35,MNT0034,Equipment_Name,EXC002,EXC-002,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,34,36,MNT0035,Equipment_Name,DRL001,DRL-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,35,37,MNT0036,Equipment_Name,TRK001,TRK-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,36,38,MNT0037,Equipment_Name,Truck 2,TRK-002,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,37,39,MNT0038,Equipment_Name,truck03,TRK-003,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,38,40,MNT0039,Equipment_Name,EX 001,EXC-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,39,41,MNT0040,Equipment_Name,EXC-02,EXC-002,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,40,42,MNT0041,Equipment_Name,DRILL-1,DRL-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,41,43,MNT0042,Equipment_Name,TRK 001,TRK-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,43,45,MNT0044,Equipment_Name,truck03,TRK-003,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,44,46,MNT0045,Equipment_Name,Excavator 1,EXC-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,45,47,MNT0009,Equipment_Name,Excavator 1,EXC-001,DQ-0092,Privacy,"Privacy inventory detected identity, proxy, or sensitive attribute",AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,0,2,MNT0001,Notification_Type,break down,Breakdown,DQ-0097,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,2,4,MNT0003,Notification_Type,break down,Breakdown,DQ-0097,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,8,10,MNT0009,Notification_Type,break down,Breakdown,DQ-0097,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,9,11,MNT0010,Notification_Type,break down,Breakdown,DQ-0097,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,10,12,MNT0011,Notification_Type,break down,Breakdown,DQ-0097,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,12,14,MNT0013,Notification_Type,break down,Breakdown,DQ-0097,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,16,18,MNT0017,Notification_Type,break down,Breakdown,DQ-0097,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,17,19,MNT0018,Notification_Type,break down,Breakdown,DQ-0097,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,18,20,MNT0019,Notification_Type,break down,Breakdown,DQ-0097,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,25,27,MNT0026,Notification_Type,break down,Breakdown,DQ-0097,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,31,33,MNT0032,Notification_Type,break down,Breakdown,DQ-0097,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,33,35,MNT0034,Notification_Type,break down,Breakdown,DQ-0097,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,36,38,MNT0037,Notification_Type,break down,Breakdown,DQ-0097,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,37,39,MNT0038,Notification_Type,break down,Breakdown,DQ-0097,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,45,47,MNT0009,Notification_Type,break down,Breakdown,DQ-0097,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,0,2,MNT0001,Raised_Date,01/07/2026 13:00,2026-07-01 13:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,1,3,MNT0002,Raised_Date,07/01/2026 08:00 PM,2026-07-01 20:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,2,4,MNT0003,Raised_Date,2026/07/02 03:00,2026-07-02 03:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,4,6,MNT0005,Raised_Date,02/07/2026 17:00,2026-07-02 17:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,5,7,MNT0006,Raised_Date,07/03/2026 12:00 AM,2026-07-03 00:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,6,8,MNT0007,Raised_Date,2026/07/03 07:00,2026-07-03 07:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,8,10,MNT0009,Raised_Date,03/07/2026 21:00,2026-07-03 21:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,9,11,MNT0010,Raised_Date,07/04/2026 04:00 AM,2026-07-04 04:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,10,12,MNT0011,Raised_Date,2026/07/04 11:00,2026-07-04 11:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,12,14,MNT0013,Raised_Date,05/07/2026 01:00,2026-07-05 01:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,13,15,MNT0014,Raised_Date,07/05/2026 08:00 AM,2026-07-05 08:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,14,16,MNT0015,Raised_Date,2026/07/05 15:00,2026-07-05 15:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,16,18,MNT0017,Raised_Date,06/07/2026 05:00,2026-07-06 05:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,17,19,MNT0018,Raised_Date,07/06/2026 12:00 PM,2026-07-06 12:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,18,20,MNT0019,Raised_Date,2026/07/06 19:00,2026-07-06 19:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,20,22,MNT0021,Raised_Date,07/07/2026 09:00,2026-07-07 09:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,21,23,MNT0022,Raised_Date,07/07/2026 04:00 PM,2026-07-07 16:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,22,24,MNT0023,Raised_Date,2026/07/07 23:00,2026-07-07 23:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,24,26,MNT0025,Raised_Date,08/07/2026 13:00,2026-07-08 13:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,25,27,MNT0026,Raised_Date,07/08/2026 08:00 PM,2026-07-08 20:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,26,28,MNT0027,Raised_Date,2026/07/09 03:00,2026-07-09 03:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,28,30,MNT0029,Raised_Date,09/07/2026 17:00,2026-07-09 17:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,29,31,MNT0030,Raised_Date,07/10/2026 12:00 AM,2026-07-10 00:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,30,32,MNT0031,Raised_Date,2026/07/10 07:00,2026-07-10 07:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,32,34,MNT0033,Raised_Date,10/07/2026 21:00,2026-07-10 21:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,33,35,MNT0034,Raised_Date,07/11/2026 04:00 AM,2026-07-11 04:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,34,36,MNT0035,Raised_Date,2026/07/11 11:00,2026-07-11 11:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,36,38,MNT0037,Raised_Date,12/07/2026 01:00,2026-07-12 01:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,37,39,MNT0038,Raised_Date,07/12/2026 08:00 AM,2026-07-12 08:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,38,40,MNT0039,Raised_Date,2026/07/12 15:00,2026-07-12 15:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,40,42,MNT0041,Raised_Date,13/07/2026 05:00,2026-07-13 05:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,41,43,MNT0042,Raised_Date,07/13/2026 12:00 PM,2026-07-13 12:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,42,44,MNT0043,Raised_Date,2026/07/13 19:00,2026-07-13 19:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,44,46,MNT0045,Raised_Date,14/07/2026 09:00,2026-07-14 09:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,45,47,MNT0009,Raised_Date,03/07/2026 21:00,2026-07-03 21:00:00,DQ-0100,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,0,2,MNT0001,Planned_Start,07/02/2026 01:00 PM,2026-07-02 13:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,1,3,MNT0002,Planned_Start,2026/07/02 20:00,2026-07-02 20:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,3,5,MNT0004,Planned_Start,03/07/2026 10:00,2026-07-03 10:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,4,6,MNT0005,Planned_Start,07/03/2026 05:00 PM,2026-07-03 17:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,5,7,MNT0006,Planned_Start,2026/07/04 00:00,2026-07-04 00:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,7,9,MNT0008,Planned_Start,04/07/2026 14:00,2026-07-04 14:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,8,10,MNT0009,Planned_Start,07/04/2026 09:00 PM,2026-07-04 21:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,9,11,MNT0010,Planned_Start,2026/07/05 04:00,2026-07-05 04:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,11,13,MNT0012,Planned_Start,05/07/2026 18:00,2026-07-05 18:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,12,14,MNT0013,Planned_Start,07/06/2026 01:00 AM,2026-07-06 01:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,13,15,MNT0014,Planned_Start,2026/07/06 08:00,2026-07-06 08:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,15,17,MNT0016,Planned_Start,06/07/2026 22:00,2026-07-06 22:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,16,18,MNT0017,Planned_Start,07/07/2026 05:00 AM,2026-07-07 05:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,17,19,MNT0018,Planned_Start,2026/07/07 12:00,2026-07-07 12:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,19,21,MNT0020,Planned_Start,08/07/2026 02:00,2026-07-08 02:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,20,22,MNT0021,Planned_Start,07/08/2026 09:00 AM,2026-07-08 09:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,21,23,MNT0022,Planned_Start,2026/07/08 16:00,2026-07-08 16:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,23,25,MNT0024,Planned_Start,09/07/2026 06:00,2026-07-09 06:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,24,26,MNT0025,Planned_Start,07/09/2026 01:00 PM,2026-07-09 13:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,25,27,MNT0026,Planned_Start,2026/07/09 20:00,2026-07-09 20:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,27,29,MNT0028,Planned_Start,10/07/2026 10:00,2026-07-10 10:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,28,30,MNT0029,Planned_Start,07/10/2026 05:00 PM,2026-07-10 17:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,29,31,MNT0030,Planned_Start,2026/07/11 00:00,2026-07-11 00:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,31,33,MNT0032,Planned_Start,11/07/2026 14:00,2026-07-11 14:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,32,34,MNT0033,Planned_Start,07/11/2026 09:00 PM,2026-07-11 21:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,33,35,MNT0034,Planned_Start,2026/07/12 04:00,2026-07-12 04:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,35,37,MNT0036,Planned_Start,12/07/2026 18:00,2026-07-12 18:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,36,38,MNT0037,Planned_Start,07/13/2026 01:00 AM,2026-07-13 01:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,37,39,MNT0038,Planned_Start,2026/07/13 08:00,2026-07-13 08:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,39,41,MNT0040,Planned_Start,13/07/2026 22:00,2026-07-13 22:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,40,42,MNT0041,Planned_Start,07/14/2026 05:00 AM,2026-07-14 05:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,41,43,MNT0042,Planned_Start,2026/07/14 12:00,2026-07-14 12:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,43,45,MNT0044,Planned_Start,15/07/2026 02:00,2026-07-15 02:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,44,46,MNT0045,Planned_Start,07/15/2026 09:00 AM,2026-07-15 09:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,45,47,MNT0009,Planned_Start,07/04/2026 09:00 PM,2026-07-04 21:00:00,DQ-0098,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,0,2,MNT0001,Actual_Start,2026/07/02 13:00,2026-07-02 13:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,2,4,MNT0003,Actual_Start,03/07/2026 01:00,2026-07-03 01:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,3,5,MNT0004,Actual_Start,07/03/2026 10:00 AM,2026-07-03 10:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,4,6,MNT0005,Actual_Start,2026/07/03 17:00,2026-07-03 17:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,6,8,MNT0007,Actual_Start,04/07/2026 07:00,2026-07-04 07:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,7,9,MNT0008,Actual_Start,07/04/2026 05:00 PM,2026-07-04 17:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,8,10,MNT0009,Actual_Start,2026/07/05 05:00,2026-07-05 05:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,10,12,MNT0011,Actual_Start,05/07/2026 09:00,2026-07-05 09:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,11,13,MNT0012,Actual_Start,07/01/2026 06:00 PM,2026-07-01 18:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,12,14,MNT0013,Actual_Start,2026/07/06 04:00,2026-07-06 04:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,14,16,MNT0015,Actual_Start,06/07/2026 15:00,2026-07-06 15:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,15,17,MNT0016,Actual_Start,07/06/2026 08:00 PM,2026-07-06 20:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,16,18,MNT0017,Actual_Start,2026/07/07 03:00,2026-07-07 03:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,18,20,MNT0019,Actual_Start,07/07/2026 19:00,2026-07-07 19:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,19,21,MNT0020,Actual_Start,07/08/2026 05:00 AM,2026-07-08 05:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,20,22,MNT0021,Actual_Start,2026/07/08 12:00,2026-07-08 12:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,22,24,MNT0023,Actual_Start,08/07/2026 23:00,2026-07-08 23:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,23,25,MNT0024,Actual_Start,07/09/2026 06:00 AM,2026-07-09 06:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,24,26,MNT0025,Actual_Start,2026/07/09 16:00,2026-07-09 16:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,26,28,MNT0027,Actual_Start,10/07/2026 03:00,2026-07-10 03:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,27,29,MNT0028,Actual_Start,07/10/2026 06:00 PM,2026-07-10 18:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,28,30,MNT0029,Actual_Start,2026/07/10 17:00,2026-07-10 17:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,30,32,MNT0031,Actual_Start,11/07/2026 15:00,2026-07-11 15:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,31,33,MNT0032,Actual_Start,07/11/2026 10:00 PM,2026-07-11 22:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,32,34,MNT0033,Actual_Start,2026/07/11 21:00,2026-07-11 21:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,34,36,MNT0035,Actual_Start,12/07/2026 09:00,2026-07-12 09:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,35,37,MNT0036,Actual_Start,07/12/2026 04:00 PM,2026-07-12 16:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,36,38,MNT0037,Actual_Start,2026/07/12 23:00,2026-07-12 23:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,38,40,MNT0039,Actual_Start,13/07/2026 23:00,2026-07-13 23:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,39,41,MNT0040,Actual_Start,07/13/2026 08:00 PM,2026-07-13 20:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,40,42,MNT0041,Actual_Start,2026/07/14 03:00,2026-07-14 03:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,42,44,MNT0043,Actual_Start,15/07/2026 03:00,2026-07-15 03:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,43,45,MNT0044,Actual_Start,07/15/2026 05:00 AM,2026-07-15 05:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,44,46,MNT0045,Actual_Start,2026/07/15 12:00,2026-07-15 12:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,45,47,MNT0009,Actual_Start,2026/07/05 05:00,2026-07-05 05:00:00,DQ-0085,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,1,3,MNT0002,Actual_End,03/07/2026 06:00,2026-07-03 06:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,2,4,MNT0003,Actual_End,07/03/2026 02:00 AM,2026-07-03 02:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,3,5,MNT0004,Actual_End,2026/07/03 14:00,2026-07-03 14:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,5,7,MNT0006,Actual_End,04/07/2026 09:00,2026-07-04 09:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,6,8,MNT0007,Actual_End,07/04/2026 03:00 PM,2026-07-04 15:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,7,9,MNT0008,Actual_End,2026/07/04 21:00,2026-07-04 21:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,9,11,MNT0010,Actual_End,05/07/2026 13:00,2026-07-05 13:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,10,12,MNT0011,Actual_End,07/05/2026 11:00 AM,2026-07-05 11:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,11,13,MNT0012,Actual_End,2026/07/06 04:00,2026-07-06 04:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,13,15,MNT0014,Actual_End,06/07/2026 20:00,2026-07-06 20:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,14,16,MNT0015,Actual_End,07/06/2026 11:00 PM,2026-07-06 23:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,15,17,MNT0016,Actual_End,2026/07/07 04:00,2026-07-07 04:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,17,19,MNT0018,Actual_End,07/07/2026 14:00,2026-07-07 14:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,18,20,MNT0019,Actual_End,07/07/2026 11:00 PM,2026-07-07 23:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,19,21,MNT0020,Actual_End,2026/07/08 07:00,2026-07-08 07:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,21,23,MNT0022,Actual_End,09/07/2026 02:00,2026-07-09 02:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,22,24,MNT0023,Actual_End,07/09/2026 07:00 AM,2026-07-09 07:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,23,25,MNT0024,Actual_End,2026/07/09 14:00,2026-07-09 14:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,25,27,MNT0026,Actual_End,10/07/2026 00:00,2026-07-10 00:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,26,28,MNT0027,Actual_End,07/10/2026 05:00 AM,2026-07-10 05:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,27,29,MNT0028,Actual_End,2026/07/10 19:00,2026-07-10 19:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,29,31,MNT0030,Actual_End,10/07/2026 23:00,2026-07-10 23:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,30,32,MNT0031,Actual_End,07/11/2026 11:00 PM,2026-07-11 23:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,31,33,MNT0032,Actual_End,2026/07/12 00:00,2026-07-12 00:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,33,35,MNT0034,Actual_End,12/07/2026 11:00,2026-07-12 11:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,34,36,MNT0035,Actual_End,07/12/2026 05:00 PM,2026-07-12 17:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,35,37,MNT0036,Actual_End,2026/07/12 18:00,2026-07-12 18:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,37,39,MNT0038,Actual_End,13/07/2026 12:00,2026-07-13 12:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,38,40,MNT0039,Actual_End,07/14/2026 03:00 AM,2026-07-14 03:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,39,41,MNT0040,Actual_End,2026/07/14 04:00,2026-07-14 04:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,41,43,MNT0042,Actual_End,15/07/2026 04:00,2026-07-15 04:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,42,44,MNT0043,Actual_End,07/15/2026 11:00 AM,2026-07-15 11:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,43,45,MNT0044,Actual_End,2026/07/15 13:00,2026-07-15 13:00:00,DQ-0084,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Maintenance_Notifications,45,47,MNT0009,Entire row,Duplicate row retained in raw source,Excluded from cleaned dataset,DQ-0091,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT
+Environmental_Readings,0,2,ENV0001,Reading_Time,01/07/2026 09:00,2026-07-01 09:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,1,3,ENV0002,Reading_Time,07/01/2026 12:00 PM,2026-07-01 12:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,2,4,ENV0003,Reading_Time,2026/07/01 15:00,2026-07-01 15:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,4,6,ENV0005,Reading_Time,01/07/2026 21:00,2026-07-01 21:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,5,7,ENV0006,Reading_Time,07/02/2026 12:00 AM,2026-07-02 00:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,6,8,ENV0007,Reading_Time,2026/07/02 03:00,2026-07-02 03:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,8,10,ENV0009,Reading_Time,02/07/2026 09:00,2026-07-02 09:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,9,11,ENV0010,Reading_Time,07/02/2026 12:00 PM,2026-07-02 12:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,10,12,ENV0011,Reading_Time,2026/07/02 15:00,2026-07-02 15:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,12,14,ENV0013,Reading_Time,02/07/2026 21:00,2026-07-02 21:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,13,15,ENV0014,Reading_Time,07/03/2026 12:00 AM,2026-07-03 00:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,14,16,ENV0015,Reading_Time,2026/07/03 03:00,2026-07-03 03:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,16,18,ENV0017,Reading_Time,03/07/2026 09:00,2026-07-03 09:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,17,19,ENV0018,Reading_Time,07/03/2026 12:00 PM,2026-07-03 12:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,18,20,ENV0019,Reading_Time,2026/07/03 15:00,2026-07-03 15:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,20,22,ENV0021,Reading_Time,03/07/2026 21:00,2026-07-03 21:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,21,23,ENV0022,Reading_Time,07/04/2026 12:00 AM,2026-07-04 00:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,22,24,ENV0023,Reading_Time,2026/07/04 03:00,2026-07-04 03:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,24,26,ENV0025,Reading_Time,04/07/2026 09:00,2026-07-04 09:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,25,27,ENV0026,Reading_Time,07/04/2026 12:00 PM,2026-07-04 12:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,26,28,ENV0027,Reading_Time,2026/07/04 15:00,2026-07-04 15:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,28,30,ENV0029,Reading_Time,04/07/2026 21:00,2026-07-04 21:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,29,31,ENV0030,Reading_Time,05/12/2026 06:00 AM,2026-05-12 06:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,30,32,ENV0031,Reading_Time,2026/07/05 03:00,2026-07-05 03:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,32,34,ENV0033,Reading_Time,05/07/2026 09:00,2026-07-05 09:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,33,35,ENV0034,Reading_Time,07/05/2026 12:00 PM,2026-07-05 12:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,34,36,ENV0035,Reading_Time,2026/07/05 15:00,2026-07-05 15:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,36,38,ENV0037,Reading_Time,05/07/2026 21:00,2026-07-05 21:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,37,39,ENV0038,Reading_Time,07/06/2026 12:00 AM,2026-07-06 00:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,38,40,ENV0039,Reading_Time,2026/07/06 03:00,2026-07-06 03:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,40,42,ENV0041,Reading_Time,06/07/2026 09:00,2026-07-06 09:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,41,43,ENV0042,Reading_Time,07/06/2026 12:00 PM,2026-07-06 12:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,42,44,ENV0043,Reading_Time,2026/07/06 15:00,2026-07-06 15:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,44,46,ENV0045,Reading_Time,06/07/2026 21:00,2026-07-06 21:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,45,47,ENV0007,Reading_Time,2026/07/02 03:00,2026-07-02 03:00:00,DQ-0057,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,0,2,ENV0001,Calibration_Due,02/08/2026,2026-08-02,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,1,3,ENV0002,Calibration_Due,08/03/2026,2026-03-08,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,2,4,ENV0003,Calibration_Due,2026/08/04,2026-08-04,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,4,6,ENV0005,Calibration_Due,06/08/2026,2026-08-06,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,5,7,ENV0006,Calibration_Due,08/07/2026,2026-07-08,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,6,8,ENV0007,Calibration_Due,2026/08/08,2026-08-08,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,8,10,ENV0009,Calibration_Due,10/08/2026,2026-08-10,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,9,11,ENV0010,Calibration_Due,08/11/2026,2026-11-08,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,10,12,ENV0011,Calibration_Due,2026/08/12,2026-08-12,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,12,14,ENV0013,Calibration_Due,14/08/2026,2026-08-14,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,13,15,ENV0014,Calibration_Due,08/15/2026,2026-08-15,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,14,16,ENV0015,Calibration_Due,2026/08/16,2026-08-16,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,16,18,ENV0017,Calibration_Due,18/08/2026,2026-08-18,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,17,19,ENV0018,Calibration_Due,08/19/2026,2026-08-19,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,18,20,ENV0019,Calibration_Due,2026/08/20,2026-08-20,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,20,22,ENV0021,Calibration_Due,22/08/2026,2026-08-22,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,21,23,ENV0022,Calibration_Due,08/23/2026,2026-08-23,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,22,24,ENV0023,Calibration_Due,2026/08/24,2026-08-24,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,24,26,ENV0025,Calibration_Due,26/08/2026,2026-08-26,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,25,27,ENV0026,Calibration_Due,08/27/2026,2026-08-27,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,26,28,ENV0027,Calibration_Due,2026/08/28,2026-08-28,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,28,30,ENV0029,Calibration_Due,30/08/2026,2026-08-30,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,29,31,ENV0030,Calibration_Due,08/31/2026,2026-08-31,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,30,32,ENV0031,Calibration_Due,2026/09/01,2026-09-01,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,32,34,ENV0033,Calibration_Due,03/09/2026,2026-09-03,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,33,35,ENV0034,Calibration_Due,09/04/2026,2026-04-09,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,34,36,ENV0035,Calibration_Due,2026/09/05,2026-09-05,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,36,38,ENV0037,Calibration_Due,07/09/2026,2026-09-07,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,37,39,ENV0038,Calibration_Due,09/08/2026,2026-08-09,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,38,40,ENV0039,Calibration_Due,2026/09/09,2026-09-09,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,40,42,ENV0041,Calibration_Due,11/09/2026,2026-09-11,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,41,43,ENV0042,Calibration_Due,09/12/2026,2026-12-09,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,42,44,ENV0043,Calibration_Due,2026/09/13,2026-09-13,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,44,46,ENV0045,Calibration_Due,15/09/2026,2026-09-15,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,45,47,ENV0007,Calibration_Due,2026/08/08,2026-08-08,DQ-0048,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Environmental_Readings,45,47,ENV0007,Entire row,Duplicate row retained in raw source,Excluded from cleaned dataset,DQ-0050,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT
+Access_Control,0,2,ACC0001,Direction,OUT,Exit,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,5,7,ACC0006,Direction,IN,Entry,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,8,10,ACC0009,Direction,IN,Entry,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,9,11,ACC0010,Direction,IN,Entry,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,12,14,ACC0013,Direction,IN,Entry,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,13,15,ACC0014,Direction,OUT,Exit,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,15,17,ACC0016,Direction,IN,Entry,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,16,18,ACC0017,Direction,OUT,Exit,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,17,19,ACC0018,Direction,OUT,Exit,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,19,21,ACC0020,Direction,OUT,Exit,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,22,24,ACC0023,Direction,IN,Entry,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,23,25,ACC0024,Direction,IN,Entry,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,25,27,ACC0026,Direction,OUT,Exit,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,26,28,ACC0027,Direction,OUT,Exit,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,29,31,ACC0030,Direction,IN,Entry,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,30,32,ACC0031,Direction,OUT,Exit,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,31,33,ACC0032,Direction,OUT,Exit,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,32,34,ACC0033,Direction,OUT,Exit,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,33,35,ACC0034,Direction,OUT,Exit,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,36,38,ACC0037,Direction,IN,Entry,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,40,42,ACC0041,Direction,OUT,Exit,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,41,43,ACC0042,Direction,IN,Entry,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,44,46,ACC0045,Direction,IN,Entry,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,45,47,ACC0010,Direction,IN,Entry,DQ-0012,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,0,2,ACC0001,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,4,6,ACC0005,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,5,7,ACC0006,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,7,9,ACC0008,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,8,10,ACC0009,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,14,16,ACC0015,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,15,17,ACC0016,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,16,18,ACC0017,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,19,21,ACC0020,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,21,23,ACC0022,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,23,25,ACC0024,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,24,26,ACC0025,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,26,28,ACC0027,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,30,32,ACC0031,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,34,36,ACC0035,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,35,37,ACC0036,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,36,38,ACC0037,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,39,41,ACC0040,Access_Result,granted,Granted,DQ-0005,Validity,Profile shows a small set of repeated categorical values,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,0,2,ACC0001,Event_Time,01/07/2026 10:00,2026-07-01 10:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,1,3,ACC0002,Event_Time,07/01/2026 02:00 PM,2026-07-01 14:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,2,4,ACC0003,Event_Time,2026/07/01 18:00,2026-07-01 18:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,4,6,ACC0005,Event_Time,02/07/2026 02:00,2026-07-02 02:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,5,7,ACC0006,Event_Time,07/02/2026 06:00 AM,2026-07-02 06:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,6,8,ACC0007,Event_Time,2026/07/02 10:00,2026-07-02 10:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,8,10,ACC0009,Event_Time,02/07/2026 18:00,2026-07-02 18:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,9,11,ACC0010,Event_Time,07/02/2026 10:00 PM,2026-07-02 22:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,10,12,ACC0011,Event_Time,2026/07/03 02:00,2026-07-03 02:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,12,14,ACC0013,Event_Time,03/07/2026 10:00,2026-07-03 10:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,13,15,ACC0014,Event_Time,07/03/2026 02:00 PM,2026-07-03 14:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,14,16,ACC0015,Event_Time,2026/07/03 18:00,2026-07-03 18:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,16,18,ACC0017,Event_Time,04/07/2026 02:00,2026-07-04 02:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,17,19,ACC0018,Event_Time,07/04/2026 06:00 AM,2026-07-04 06:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,18,20,ACC0019,Event_Time,2026/07/04 10:00,2026-07-04 10:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,20,22,ACC0021,Event_Time,04/07/2026 18:00,2026-07-04 18:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,21,23,ACC0022,Event_Time,07/04/2026 10:00 PM,2026-07-04 22:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,22,24,ACC0023,Event_Time,2026/07/05 02:00,2026-07-05 02:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,24,26,ACC0025,Event_Time,05/07/2026 10:00,2026-07-05 10:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,25,27,ACC0026,Event_Time,07/05/2026 02:00 PM,2026-07-05 14:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,26,28,ACC0027,Event_Time,2026/07/05 18:00,2026-07-05 18:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,28,30,ACC0029,Event_Time,06/07/2026 02:00,2026-07-06 02:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,29,31,ACC0030,Event_Time,07/06/2026 06:00 AM,2026-07-06 06:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,30,32,ACC0031,Event_Time,2026/07/06 10:00,2026-07-06 10:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,32,34,ACC0033,Event_Time,06/07/2026 18:00,2026-07-06 18:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,33,35,ACC0034,Event_Time,08/05/2027 06:00 AM,2027-08-05 06:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,34,36,ACC0035,Event_Time,2026/07/07 02:00,2026-07-07 02:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,36,38,ACC0037,Event_Time,07/07/2026 10:00,2026-07-07 10:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,37,39,ACC0038,Event_Time,07/07/2026 02:00 PM,2026-07-07 14:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,38,40,ACC0039,Event_Time,2026/07/07 18:00,2026-07-07 18:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,40,42,ACC0041,Event_Time,08/07/2026 02:00,2026-07-08 02:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,41,43,ACC0042,Event_Time,07/08/2026 06:00 AM,2026-07-08 06:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,42,44,ACC0043,Event_Time,2026/07/08 10:00,2026-07-08 10:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,44,46,ACC0045,Event_Time,08/07/2026 18:00,2026-07-08 18:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,45,47,ACC0010,Event_Time,07/02/2026 10:00 PM,2026-07-02 22:00:00,DQ-0018,Validity,Profile shows date/time-like field requiring consistent parsing,AUTO_CORRECT,AUTO_CORRECT
+Access_Control,45,47,ACC0010,Entire row,Duplicate row retained in raw source,Excluded from cleaned dataset,DQ-0017,Uniqueness,Exact duplicate rows can inflate operational counts,EXCLUDE_DUPLICATE_ROW,AUTO_ACCEPT

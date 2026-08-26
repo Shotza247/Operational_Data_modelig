@@ -1,0 +1,46 @@
+Activity_ID,Operator_ID,Operator_Name,Email,Mobile_Number,Home_Zone,Contractor_Group,Equipment_Name,Activity_Start,Activity_End,Activity_Type,Quantity,Quantity_Unit,Supervisor_ID,Comment
+ACT0001,OP1002,Aisha Naidoo,aisha.naidoo@example.test,0825550102,Zone-West,Contractor-B,TRK-002,2026-07-01 11:00:00,2026-07-01 15:00:00,Hauling,8,loads,SUP01,
+ACT0002,OP1003,Thabo Dlamini,thabo.dlamini@example.test,0835550103,Zone-East,Contractor-A,TRK-003,2026-07-01 16:00:00,2026-07-01 19:00:00,Break,4,loads,SUP01,productive shift
+ACT0003,OP1004,Mia Jacobs,mia.jacobs@example.test,0605550104,Zone-South,Contractor-C,EXC-001,2026-07-01 21:00:00,2026-07-01 23:00:00,Hauling,6,loads,SUP03,route congested
+ACT0004,OP1005,Kagiso Molefe,kagiso.molefe@example.test,0795550105,Zone-North,Contractor-B,EXC-002,2026-07-02 02:00:00,2026-07-02 05:00:00,Loading,8,loads,SUP03,route congested
+ACT0005,OP1006,Zanele Ncube,zanele.ncube@example.test,0725550106,Zone-West,Contractor-C,DRL-001,2026-07-02 07:00:00,2026-07-02 10:00:00,Break,6,loads,SUP03,new operator pairing
+ACT0006,OP1007,Noah Smith,noah.smith@example.test,0845550107,Zone-East,Contractor-A,TRK-001,2026-07-02 12:00:00,2026-07-02 13:00:00,Inspection,10,tonnes,SUP01,new operator pairing
+ACT0007,OP1008,Ayanda Khumalo,ayanda.khumalo@example.test,0765550108,Zone-South,Contractor-B,TRK-002,2026-07-02 17:00:00,2026-07-02 19:00:00,Hauling,2,loads,SUP02,new operator pairing
+ACT0008,,Lebo Mokoena,lebo.mokoena@example.test,0715550101,Zone-North,Contractor-A,TRK-003,2026-07-02 22:00:00,2026-07-03 01:00:00,Hauling,4,loads,SUP02,new operator pairing
+ACT0009,OP1002,Aisha Naidoo,aisha.naidoo@example.test,0825550102,Zone-West,Contractor-B,EXC-001,2026-07-03 03:00:00,2026-07-03 06:00:00,Loading,6,loads,SUP02,
+ACT0010,OP1003,Thabo Dlamini,thabo.dlamini@example.test,0835550103,Zone-East,Contractor-A,EXC-002,2026-07-03 08:00:00,2026-07-03 11:00:00,Hauling,6,loads,SUP03,productive shift
+ACT0011,OP1004,Mia Jacobs,mia.jacobs@example.test,0605550104,Zone-South,Contractor-C,DRL-001,2026-07-03 13:00:00,2026-07-03 16:00:00,Hauling,8,loads,SUP02,new operator pairing
+ACT0012,OP1005,Kagiso Molefe,kagiso.molefe@example.test,0795550105,Zone-North,Contractor-B,TRK-001,2026-07-03 18:00:00,2026-07-03 20:00:00,Hauling,10,tonnes,SUP02,productive shift
+ACT0013,OP1006,Zanele Ncube,zanele.ncube@example.test,0725550106,Zone-West,Contractor-C,TRK-002,2026-07-03 23:00:00,2026-07-03 21:00:00,Hauling,4,loads,SUP03,productive shift
+ACT0014,OP1007,Noah Smith,noah.smith@example.test,0845550107,Zone-East,Contractor-A,TRK-003,2026-07-04 04:00:00,2026-07-04 05:00:00,Loading,8,loads,SUP03,
+ACT0015,OP1008,Ayanda Khumalo,ayanda.khumalo@example.test,0765550108,Zone-South,Contractor-B,EXC-001,2026-07-04 09:00:00,2026-07-04 11:00:00,Hauling,8,loads,SUP02,route congested
+ACT0016,OP1001,Lebo Mokoena,lebo.mokoena@example.test,0715550101,Zone-North,Contractor-A,EXC-002,2026-07-04 14:00:00,2026-07-04 15:00:00,Loading,2,loads,SUP03,route congested
+ACT0017,OP1002,Aisha Naidoo,aisha.naidoo@example.test,0825550102,Zone-West,Contractor-B,DRL-001,2026-07-04 19:00:00,2026-07-04 21:00:00,Inspection,10,loads,SUP03,route congested
+ACT0018,OP1003,Thabo Dlamini,thabo.dlamini@example.test,0835550103,Zone-East,Contractor-A,TRK-001,2026-07-05 00:00:00,2026-07-05 03:00:00,Break,6,tonnes,SUP01,route congested
+ACT0019,OP1004,Mia Jacobs,mia.jacobs@example.test,0605550104,Zone-South,Contractor-C,TRK-002,2026-07-05 05:00:00,2026-07-05 06:00:00,Break,8,loads,SUP02,productive shift
+ACT0020,OP1005,Kagiso Molefe,kagiso.molefe@example.test,0795550105,Zone-North,Contractor-B,TRK-003,2026-07-05 10:00:00,2026-07-05 11:00:00,Inspection,450,loads,SUP03,new operator pairing
+ACT0021,OP1006,Zanele Ncube,zanele.ncube@example.test,0725550106,Zone-West,Contractor-C,EXC-001,2026-07-05 15:00:00,2026-07-05 18:00:00,Hauling,4,loads,SUP01,new operator pairing
+ACT0022,OP1007,Noah Smith,noah.smith@example.test,0845550107,Zone-East,Contractor-A,EXC-002,2026-07-05 20:00:00,2026-07-05 23:00:00,Hauling,6,loads,SUP01,
+ACT0023,OP1008,Ayanda Khumalo,ayanda.khumalo@example.test,0765550108,Zone-South,Contractor-B,DRL-001,2026-07-06 01:00:00,2026-07-06 05:00:00,Loading,6,loads,SUP01,productive shift
+ACT0024,OP1001,Lebo Mokoena,lebo.mokoena@example.test,0715550101,Zone-North,Contractor-A,TRK-001,2026-07-06 06:00:00,2026-07-06 10:00:00,Hauling,2,tonnes,SUP02,route congested
+ACT0025,OP1002,Aisha Naidoo,aisha.naidoo@example.test,0825550102,Zone-West,Contractor-B,TRK-002,2026-07-06 11:00:00,2026-07-06 12:00:00,Hauling,10,loads,SUP02,
+ACT0026,OP1003,Thabo Dlamini,thabo.dlamini@example.test,0835550103,Zone-East,Contractor-A,TRK-003,2026-07-06 16:00:00,2026-07-06 20:00:00,Inspection,2,loads,SUP02,
+ACT0027,OP1004,Mia Jacobs,mia.jacobs@example.test,0605550104,Zone-South,Contractor-C,EXC-001,2026-07-06 21:00:00,2026-07-07 00:00:00,Hauling,4,loads,SUP02,new operator pairing
+ACT0028,OP1005,Kagiso Molefe,kagiso.molefe@example.test,0795550105,Zone-North,Contractor-B,EXC-002,2026-07-07 02:00:00,2026-07-07 06:00:00,Loading,10,loads,SUP02,route congested
+ACT0029,OP1006,Zanele Ncube,zanele.ncube@example.test,0725550106,Zone-West,Contractor-C,TRK-099,2026-07-07 07:00:00,2026-07-07 09:00:00,Break,10,loads,SUP01,productive shift
+ACT0030,OP1007,Noah Smith,noah.smith@example.test,0845550107,Zone-East,Contractor-A,TRK-001,2026-07-07 12:00:00,2026-07-07 15:00:00,Loading,6,tonnes,SUP02,productive shift
+ACT0031,OP1008,Ayanda Khumalo,ayanda.khumalo@example.test,0765550108,Zone-South,Contractor-B,TRK-002,2026-07-07 17:00:00,2026-07-07 21:00:00,Hauling,4,loads,SUP01,new operator pairing
+ACT0032,OP1001,Lebo Mokoena,lebo.mokoena@example.test,0715550101,Zone-North,Contractor-A,TRK-003,2026-07-07 22:00:00,2026-07-07 23:00:00,Hauling,10,loads,SUP03,productive shift
+ACT0033,OP1002,Aisha Naidoo,aisha.naidoo@example.test,0825550102,Zone-West,Contractor-B,EXC-001,2026-07-08 03:00:00,2026-07-08 06:00:00,Inspection,2,loads,SUP02,productive shift
+ACT0034,OP1003,Thabo Dlamini,thabo.dlamini@example.test,0835550103,Zone-East,Contractor-A,EXC-002,2026-07-08 08:00:00,2026-07-08 10:00:00,Loading,8,loads,SUP01,new operator pairing
+ACT0035,OP1004,Mia Jacobs,mia.jacobs@example.test,0605550104,Zone-South,Contractor-C,DRL-001,2026-07-08 13:00:00,2026-07-08 15:00:00,Inspection,2,loads,SUP01,route congested
+ACT0036,OP1005,Kagiso Molefe,kagiso.molefe@example.test,0795550105,Zone-North,Contractor-B,TRK-001,2026-07-08 18:00:00,2026-07-08 19:00:00,Break,2,tonnes,SUP03,new operator pairing
+ACT0037,OP1006,Zanele Ncube,zanele.ncube@example.test,0725550106,Zone-West,Contractor-C,TRK-002,2026-07-08 23:00:00,2026-07-09 01:00:00,Hauling,8,loads,SUP01,new operator pairing
+ACT0038,OP1007,Noah Smith,noah.smith@example.test,0845550107,Zone-East,Contractor-A,TRK-003,2026-07-09 04:00:00,2026-07-09 08:00:00,Loading,6,loads,SUP02,productive shift
+ACT0039,OP1008,Ayanda Khumalo,ayanda.khumalo@example.test,0765550108,Zone-South,Contractor-B,EXC-001,2026-07-09 09:00:00,2026-07-09 12:00:00,Hauling,2,loads,SUP01,productive shift
+ACT0040,OP1001,Lebo Mokoena,lebo.mokoena@example.test,0715550101,Zone-North,Contractor-A,EXC-002,2026-07-09 14:00:00,2026-07-09 16:00:00,Loading,6,loads,SUP01,new operator pairing
+ACT0041,OP1002,Aisha Naidoo,aisha.naidoo@example.test,0825550102,Zone-West,Contractor-B,DRL-001,2026-07-09 19:00:00,2026-07-09 23:00:00,Loading,10,loads,SUP01,route congested
+ACT0042,OP1003,Thabo Dlamini,thabo.dlamini@example.test,0835550103,Zone-East,Contractor-A,TRK-001,2026-07-10 00:00:00,2026-07-10 04:00:00,Loading,6,tonnes,SUP01,productive shift
+ACT0043,OP1004,Mia Jacobs,mia.jacobs@example.test,0605550104,Zone-South,Contractor-C,TRK-002,2026-07-10 05:00:00,2026-07-10 09:00:00,Break,10,loads,SUP02,route congested
+ACT0044,OP1005,Kagiso Molefe,kagiso.molefe@example.test,0795550105,Zone-North,Contractor-B,TRK-003,2026-07-10 10:00:00,2026-07-10 12:00:00,Loading,10,loads,SUP03,new operator pairing
+ACT0045,OP1006,Zanele Ncube,zanele.ncube@example.test,0725550106,Zone-West,Contractor-C,EXC-001,2026-07-10 15:00:00,2026-07-10 17:00:00,Hauling,6,loads,SUP03,productive shift

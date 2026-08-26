@@ -1,0 +1,46 @@
+Event_ID,Equipment_Name,Event_Time,Event_Type,Status,Meter_Reading,Meter_Unit,Location,Operator_ID,Source_System,Comment
+EVT0001,TRK-001,2026-07-01 11:00:00,Idle,Complete,1007.3,hours,Workshop,OP1001,Telemetry-A,
+EVT0002,TRK-002,2026-07-01 16:00:00,Start,Open,1014.6,hours,Workshop,OP1002,Telemetry-A,check sensor
+EVT0003,TRK-003,2026-07-01 21:00:00,Inspection,Complete,1021.9,hours,South Pit,OP1003,Telemetry-A,Normal event
+EVT0004,EXC-001,2026-07-02 02:00:00,Start,Closed,1029.2,hours,Workshop,OP1004,Telemetry-A,check sensor
+EVT0005,EXC-002,2026-07-02 07:00:00,Start,Complete,17.275,hours,South Pit,OP1005,Telemetry-A,
+EVT0006,DRL-001,2026-07-02 12:00:00,Fault,Closed,1043.8,hours,South Pit,OP1006,Telemetry-A,Normal event
+EVT0007,,2026-07-02 17:00:00,Stop,Open,1051.1,hours,South Pit,OP1007,Telemetry-A,
+EVT0008,TRK-002,2026-07-02 22:00:00,Idle,Closed,1058.4,hours,South Pit,OP1008,Telemetry-A,reset after comms loss
+EVT0009,TRK-003,2026-07-03 03:00:00,Idle,Closed,1065.7,hours,North Pit,OP1001,Telemetry-A,Normal event
+EVT0010,EXC-001,2026-07-03 08:00:00,Start,Closed,17.8833,hours,Workshop,OP1002,Telemetry-A,
+EVT0011,EXC-002,2026-07-03 13:00:00,Start,Open,1080.3,hours,North Pit,OP1003,Telemetry-A,reset after comms loss
+EVT0012,DRL-001,2026-07-03 18:00:00,Stop,Closed,999999.0,hours,South Pit,OP1004,Telemetry-A,reset after comms loss
+EVT0013,TRK-001,2026-07-03 23:00:00,Start,Complete,1094.9,hours,South Pit,OP1005,Telemetry-A,reset after comms loss
+EVT0014,TRK-002,2026-07-04 04:00:00,Stop,Open,1102.2,hours,Workshop,OP1006,Telemetry-A,
+EVT0015,TRK-003,2026-07-04 09:00:00,Inspection,Complete,18.4917,hours,North Pit,OP1007,Telemetry-A,reset after comms loss
+EVT0016,EXC-001,2026-07-04 14:00:00,Start,Complete,1116.8,hours,North Pit,OP1008,Telemetry-A,
+EVT0017,EXC-002,2026-07-04 19:00:00,Fault,Open,1124.1,hours,South Pit,OP1001,Telemetry-A,Normal event
+EVT0018,DRL-001,2026-07-05 00:00:00,Start,Closed,1131.4,hours,Workshop,OP1002,Telemetry-A,
+EVT0019,TRK-001,2026-07-05 05:00:00,Idle,Closed,1138.7,hours,South Pit,OP1003,Telemetry-A,
+EVT0020,TRK-002,2026-07-05 10:00:00,Stop,Complete,19.1,hours,South Pit,OP1004,Telemetry-A,check sensor
+EVT0021,TRK-003,2026-07-05 15:00:00,Start,Closed,1153.3,hours,Workshop,OP1005,Telemetry-A,check sensor
+EVT0022,EXC-001,2026-07-05 20:00:00,Start,Closed,1160.6,hours,Workshop,OP1006,Telemetry-A,
+EVT0023,EXC-002,2026-07-01 09:00:00,Inspection,Open,1167.9,hours,South Pit,OP1007,Telemetry-A,check sensor
+EVT0024,DRL-001,2026-07-06 06:00:00,Inspection,Complete,1175.2,hours,Workshop,OP1008,Telemetry-A,Normal event
+EVT0025,TRK-001,2026-07-06 11:00:00,Fault,Closed,19.7083,hours,South Pit,OP1001,Telemetry-A,Normal event
+EVT0026,TRK-002,2026-07-06 16:00:00,Start,Closed,1189.8,hours,South Pit,OP1002,Telemetry-A,
+EVT0027,TRK-003,2026-07-06 21:00:00,Start,Complete,1197.1,hours,North Pit,OP1003,Telemetry-A,
+EVT0028,EXC-001,2026-07-07 02:00:00,Stop,Closed,1204.4,hours,North Pit,OP1004,Telemetry-A,
+EVT0029,EXC-002,2026-07-07 07:00:00,Start,Complete,1211.7,hours,South Pit,OP1005,Telemetry-A,check sensor
+EVT0030,DRL-001,2026-07-07 12:00:00,Stop,Open,20.3167,hours,South Pit,OP1006,Telemetry-A,Normal event
+EVT0031,TRK-001,2026-07-07 17:00:00,Inspection,Closed,1226.3,hours,North Pit,OP1007,Telemetry-A,reset after comms loss
+EVT0032,TRK-002,2026-07-07 22:00:00,Inspection,Complete,1233.6,hours,Workshop,OP1008,Telemetry-A,reset after comms loss
+EVT0033,TRK-003,2026-07-08 03:00:00,Fault,Closed,1240.9,hours,South Pit,OP1001,Telemetry-A,reset after comms loss
+EVT0034,EXC-001,2026-07-08 08:00:00,Start,Open,1248.2,hours,South Pit,OP1002,Telemetry-A,Normal event
+EVT0035,EXC-002,2026-07-08 13:00:00,Stop,Closed,20.925,hours,Workshop,OP1003,Telemetry-A,reset after comms loss
+EVT0036,DRL-001,2026-07-08 18:00:00,Stop,Open,1262.8,hours,South Pit,OP1004,Telemetry-A,Normal event
+EVT0037,TRK-001,2026-07-08 23:00:00,Fault,Closed,1270.1,hours,Workshop,OP1005,Telemetry-A,Normal event
+EVT0038,TRK-002,2026-07-09 04:00:00,Inspection,Closed,1277.4,hours,North Pit,OP1006,Telemetry-A,reset after comms loss
+EVT0039,TRK-003,2026-07-09 09:00:00,Fault,Closed,1284.7,hours,North Pit,OP1007,Telemetry-A,reset after comms loss
+EVT0040,EXC-001,2026-07-09 14:00:00,Fault,Complete,21.5333,hours,North Pit,OP1008,Telemetry-A,reset after comms loss
+EVT0041,EXC-002,2026-07-09 19:00:00,Start,Closed,1299.3,hours,North Pit,OP1001,Telemetry-A,check sensor
+EVT0042,DRL-001,2026-07-10 00:00:00,Start,Complete,1306.6,hours,Workshop,OP1002,Telemetry-A,
+EVT0043,TRK-001,2026-07-10 05:00:00,Start,Closed,1313.9,hours,South Pit,OP1003,Telemetry-A,check sensor
+EVT0044,TRK-002,2026-07-10 10:00:00,Stop,Closed,1321.2,hours,Workshop,OP1004,Telemetry-A,
+EVT0045,TRK-003,2026-07-10 15:00:00,Inspection,Closed,22.1417,hours,South Pit,OP1005,Telemetry-A,Normal event

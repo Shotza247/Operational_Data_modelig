@@ -1,0 +1,46 @@
+Training_Record_ID,Operator_ID,Operator_Name,Course_Code,Course_Name,Completion_Date,Expiry_Date,Result,Score,Provider,Certificate_Number,Medical_Fitness_Code,Home_Zone,Comment
+TRN0001,OP1002,Aisha Naidoo,SAFE01,Operational Safety,2025-01-16,2027-01-16,Pass,87,Provider A,CERT-00001,MF-R,Zone-West,Uploaded manually
+TRN0002,OP1003,Thabo Dlamini,EQP02,Mobile Equipment,2025-01-31,2027-01-31,Pass,81,Provider B,CERT-00002,MF-B,Zone-East,Refresher required
+TRN0003,OP1004,Mia Jacobs,EQP02,Mobile Equipment,2025-02-15,2027-02-15,Fail,68,Provider A,CERT-00003,MF-R,Zone-South,Refresher required
+TRN0004,OP1005,Kagiso Molefe,DATA01,Data Awareness,2025-03-02,2027-03-02,Pass,89,Internal,CERT-00004,MF-A,Zone-North,Refresher required
+TRN0005,OP1006,Zanele Ncube,EQP02,Mobile Equipment,2025-03-17,2027-03-17,Fail,60,Internal,CERT-00005,MF-A,Zone-West,Uploaded manually
+TRN0006,OP1007,Noah Smith,SAFE01,Operational Safety,2025-01-04,2027-04-01,Pass,84,Internal,CERT-00006,MF-R,Zone-East,
+TRN0007,OP1008,Ayanda Khumalo,SAFE01,Operational Safety,2025-04-16,2027-04-16,Pass,72,Internal,CERT-00007,MF-R,Zone-South,Uploaded manually
+TRN0008,OP1001,Lebo Mokoena,DATA01,Data Awareness,2025-05-01,2025-04-11,Pass,91,Provider B,CERT-00008,MF-A,Zone-North,
+TRN0009,OP1002,Aisha Naidoo,EQP02,Mobile Equipment,2025-05-16,2027-05-16,Pass,93,Internal,CERT-00009,MF-B,Zone-West,Refresher required
+TRN0010,OP1003,Thabo Dlamini,DATA01,Data Awareness,2025-05-31,2027-05-31,Fail,55,Provider A,CERT-00010,MF-B,Zone-East,
+TRN0011,OP1004,Mia Jacobs,DATA01,Data Awareness,2025-06-15,2027-06-15,Pass,84,Provider B,CERT-00011,MF-A,Zone-South,Uploaded manually
+TRN0012,OP1005,Kagiso Molefe,DATA01,Data Awareness,2025-06-30,2027-06-30,Fail,62,Provider A,CERT-00012,MF-A,Zone-North,Refresher required
+TRN0013,OP1006,Zanele Ncube,DATA01,Data Awareness,2025-07-15,2027-07-15,Fail,56,Provider A,CERT-00013,MF-R,Zone-West,Uploaded manually
+TRN0014,OP1007,Noah Smith,SAFE01,Operational Safety,2025-07-30,2027-07-30,Fail,63,Provider B,CERT-00014,MF-A,Zone-East,Refresher required
+TRN0015,OP1008,Ayanda Khumalo,DATA01,Data Awareness,2025-08-14,2027-08-14,Pass,42,Provider A,CERT-00015,MF-R,Zone-South,
+TRN0016,OP1001,Lebo Mokoena,SAFE01,Operational Safety,2025-08-29,2027-08-29,Fail,55,Provider A,CERT-00016,MF-R,Zone-North,Uploaded manually
+TRN0017,OP1002,Aisha Naidoo,EQP02,Mobile Equipment,2025-09-13,2027-09-13,Pass,91,Provider B,CERT-00017,MF-R,Zone-West,
+TRN0018,OP1003,Thabo Dlamini,EQP02,Mobile Equipment,2025-09-28,2027-09-28,Pass,91,Provider B,CERT-00018,MF-B,Zone-East,Refresher required
+TRN0019,OP1004,Mia Jacobs,SAFE01,Operational Safety,2025-10-13,2027-10-13,Pass,70,Internal,CERT-00019,MF-B,Zone-South,Refresher required
+TRN0020,OP1005,Kagiso Molefe,SAFE01,Operational Safety,2025-10-28,2027-10-28,Pass,77,Internal,CERT-00020,MF-A,Zone-North,Uploaded manually
+TRN0021,OP1006,Zanele Ncube,EQP02,Mobile Equipment,2025-11-12,2027-12-11,Fail,55,Internal,CERT-00021,MF-A,Zone-West,Uploaded manually
+TRN0022,OP1007,Noah Smith,SAFE01,Operational Safety,2025-11-27,2027-11-27,Fail,65,Internal,CERT-00022,MF-A,Zone-East,Uploaded manually
+TRN0023,OP1008,Ayanda Khumalo,DATA01,Data Awareness,2025-12-12,2027-12-12,Pass,145,Provider B,CERT-00023,MF-B,Zone-South,
+TRN0024,OP1001,Lebo Mokoena,EQP02,Mobile Equipment,2025-12-27,2027-12-27,Pass,94,Provider A,CERT-00024,MF-R,Zone-North,Uploaded manually
+TRN0025,OP1002,Aisha Naidoo,SAFE01,Operational Safety,2026-01-11,2028-11-01,Fail,68,Provider A,CERT-00025,MF-B,Zone-West,Refresher required
+TRN0026,OP1003,Thabo Dlamini,DATA01,Data Awareness,2026-01-26,2028-01-26,Pass,78,Internal,CERT-00026,MF-R,Zone-East,Uploaded manually
+TRN0027,OP1004,Mia Jacobs,EQP02,Mobile Equipment,2026-02-10,2028-02-10,Fail,60,Provider B,CERT-00027,MF-R,Zone-South,
+TRN0028,OP1005,Kagiso Molefe,SAFE01,Operational Safety,2026-02-25,2028-02-25,Fail,67,Provider A,CERT-00028,MF-R,Zone-North,Refresher required
+TRN0029,OP1006,Zanele Ncube,SAFE01,Operational Safety,2026-03-12,2028-11-03,Pass,82,Provider B,CERT-00029,MF-B,Zone-West,
+TRN0030,OP1007,Noah Smith,EQP02,Mobile Equipment,2026-03-27,2028-03-26,Pass,86,Provider B,CERT-00030,MF-R,Zone-East,Uploaded manually
+TRN0031,OP1008,Ayanda Khumalo,SAFE01,Operational Safety,2026-04-11,2028-04-10,Pass,95,Provider B,CERT-00031,MF-B,Zone-South,Refresher required
+TRN0032,OP1001,Lebo Mokoena,DATA01,Data Awareness,2026-04-26,2028-04-25,Pass,76,Provider A,CERT-00032,MF-A,Zone-North,Refresher required
+TRN0033,OP1002,Aisha Naidoo,EQP02,Mobile Equipment,2026-05-11,2028-10-05,Fail,64,Provider B,CERT-00033,MF-B,Zone-West,
+TRN0034,OP1003,Thabo Dlamini,DATA01,Data Awareness,2026-05-26,2028-05-25,Pass,82,Provider B,CERT-00034,MF-A,Zone-East,Refresher required
+TRN0035,OP1004,Mia Jacobs,EQP02,Mobile Equipment,2026-06-10,2028-06-09,Fail,66,Internal,CERT-00035,MF-A,Zone-South,Uploaded manually
+TRN0036,OP1005,Kagiso Molefe,DATA01,Data Awareness,2026-06-25,2028-06-24,Fail,67,Internal,CERT-00036,MF-B,Zone-North,Refresher required
+TRN0037,OP1006,Zanele Ncube,DATA01,Data Awareness,2026-07-10,2028-09-07,Pass,97,Internal,CERT-00037,MF-B,Zone-West,
+TRN0038,OP1007,Noah Smith,EQP02,Mobile Equipment,2026-07-25,2028-07-24,Pass,97,Internal,CERT-00038,MF-R,Zone-East,Uploaded manually
+TRN0039,OP1008,Ayanda Khumalo,DATA01,Data Awareness,2026-08-09,2028-08-08,Pass,85,Internal,CERT-00039,MF-B,Zone-South,
+TRN0040,OP1001,Lebo Mokoena,DATA01,Data Awareness,2026-08-24,2028-08-23,Pass,93,Provider B,CERT-00040,MF-R,Zone-North,Uploaded manually
+TRN0041,OP1002,Aisha Naidoo,EQP02,Mobile Equipment,2026-09-08,2028-07-09,Fail,64,Provider A,CERT-00041,MF-B,Zone-West,
+TRN0042,OP1003,Thabo Dlamini,DATA01,Data Awareness,2026-09-23,2028-09-22,Pass,86,Internal,CERT-00042,MF-A,Zone-East,Uploaded manually
+TRN0043,OP1004,Mia Jacobs,EQP02,Mobile Equipment,2026-10-08,2028-10-07,Fail,68,Provider B,CERT-00043,MF-A,Zone-South,Refresher required
+TRN0044,OP1005,Kagiso Molefe,SAFE01,Operational Safety,2026-10-23,2028-10-22,Pass,78,Provider A,CERT-00044,MF-A,Zone-North,
+TRN0045,OP1006,Zanele Ncube,SAFE01,Operational Safety,2026-11-07,2028-06-11,Fail,65,Provider B,CERT-00045,MF-R,Zone-West,

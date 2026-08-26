@@ -1,0 +1,46 @@
+Access_Event_ID,Event_Time,Badge_ID,Employee_ID,Employee_Name,Access_Point,Direction,Access_Result,Reason,Contractor_Group,Home_Zone,Device_ID
+ACC0001,2026-07-01 10:00:00,BDG-1001,OP1002,Aisha Naidoo,Main Gate,Exit,Granted,,Contractor-B,Zone-West,DEV-2
+ACC0002,2026-07-01 14:00:00,BDG-1002,OP1003,Thabo Dlamini,Plant Turnstile,Entry,Granted,Anti-passback,Contractor-A,Zone-East,DEV-3
+ACC0003,2026-07-01 18:00:00,BDG-1003,OP1004,Mia Jacobs,Main Gate,Exit,Denied,Anti-passback,Contractor-C,Zone-South,DEV-4
+ACC0004,2026-07-01 22:00:00,BDG-1004,OP1005,Kagiso Molefe,Workshop Gate,Entry,Granted,Expired training,Contractor-B,Zone-North,DEV-1
+ACC0005,2026-07-02 02:00:00,BDG-1005,OP1006,Zanele Ncube,Workshop Gate,Exit,Granted,,Contractor-C,Zone-West,DEV-2
+ACC0006,2026-07-02 06:00:00,BDG-1006,OP1007,Noah Smith,Main Gate,Entry,Granted,,Contractor-A,Zone-East,DEV-3
+ACC0007,2026-07-02 10:00:00,BDG-1007,OP1008,Ayanda Khumalo,Workshop Gate,Exit,Denied,Expired training,Contractor-B,Zone-South,DEV-4
+ACC0008,2026-07-02 14:00:00,BDG-1000,OP1001,Lebo Mokoena,Main Gate,Entry,Granted,Expired training,Contractor-A,Zone-North,DEV-1
+ACC0009,2026-07-02 18:00:00,BDG-1001,OP1002,Aisha Naidoo,Main Gate,Entry,Granted,Anti-passback,Contractor-B,Zone-West,DEV-2
+ACC0010,2026-07-02 22:00:00,BDG-1002,OP1003,Thabo Dlamini,Plant Turnstile,Entry,Granted,Anti-passback,Contractor-A,Zone-East,DEV-3
+ACC0011,2026-07-03 02:00:00,BDG-1003,OP1004,Mia Jacobs,Main Gate,Entry,Granted,Expired training,Contractor-C,Zone-South,DEV-4
+ACC0012,2026-07-03 06:00:00,BDG-1004,OP1005,Kagiso Molefe,Main Gate,Entry,Denied,Anti-passback,Contractor-B,Zone-North,DEV-1
+ACC0013,2026-07-03 10:00:00,BDG-1005,OP1006,Zanele Ncube,Main Gate,Entry,Granted,,Contractor-C,Zone-West,DEV-2
+ACC0014,2026-07-03 14:00:00,BDG-1006,OP1007,Noah Smith,Plant Turnstile,Exit,Granted,Valid badge,Contractor-A,Zone-East,DEV-3
+ACC0015,2026-07-03 18:00:00,BDG-1007,OP1008,Ayanda Khumalo,Workshop Gate,Entry,Granted,Anti-passback,Contractor-B,Zone-South,DEV-4
+ACC0016,2026-07-03 22:00:00,BDG-1000,OP1001,Lebo Mokoena,Plant Turnstile,Entry,Granted,Anti-passback,Contractor-A,Zone-North,DEV-1
+ACC0017,2026-07-04 02:00:00,BDG-1001,OP1002,Aisha Naidoo,Main Gate,Exit,Granted,Expired training,Contractor-B,Zone-West,DEV-2
+ACC0018,2026-07-04 06:00:00,BDG-1002,OP9999,Thabo Dlamini,Main Gate,Exit,Denied,Anti-passback,Contractor-A,Zone-East,DEV-3
+ACC0019,2026-07-04 10:00:00,BDG-1003,OP1004,Mia Jacobs,Plant Turnstile,Exit,Granted,Valid badge,Contractor-C,Zone-South,DEV-4
+ACC0020,2026-07-04 14:00:00,BDG-1004,OP1005,Kagiso Molefe,Main Gate,Exit,Granted,Anti-passback,Contractor-B,Zone-North,DEV-1
+ACC0021,2026-07-04 18:00:00,BDG-1005,OP1006,Zanele Ncube,Workshop Gate,Entry,Granted,Valid badge,Contractor-C,Zone-West,DEV-2
+ACC0022,2026-07-04 22:00:00,BDG-1006,OP1007,Noah Smith,Plant Turnstile,Exit,Granted,Anti-passback,Contractor-A,Zone-East,DEV-3
+ACC0023,2026-07-05 02:00:00,BDG-1007,OP1008,Ayanda Khumalo,Workshop Gate,Entry,Denied,Anti-passback,Contractor-B,Zone-South,DEV-4
+ACC0024,2026-07-05 06:00:00,BDG-1000,OP1001,Lebo Mokoena,Main Gate,Entry,Granted,Valid badge,Contractor-A,Zone-North,DEV-1
+ACC0025,2026-07-05 10:00:00,BDG-1001,OP1002,Aisha Naidoo,Workshop Gate,Entry,Granted,Expired training,Contractor-B,Zone-West,DEV-2
+ACC0026,2026-07-05 14:00:00,,OP1003,Thabo Dlamini,Main Gate,Exit,Denied,Expired training,Contractor-A,Zone-East,DEV-3
+ACC0027,2026-07-05 18:00:00,BDG-1003,OP1004,Mia Jacobs,Plant Turnstile,Exit,Granted,,Contractor-C,Zone-South,DEV-4
+ACC0028,2026-07-05 22:00:00,BDG-1004,OP1005,Kagiso Molefe,Plant Turnstile,Entry,Denied,,Contractor-B,Zone-North,DEV-1
+ACC0029,2026-07-06 02:00:00,BDG-1005,OP1006,Zanele Ncube,Workshop Gate,Entry,Granted,Expired training,Contractor-C,Zone-West,DEV-2
+ACC0030,2026-07-06 06:00:00,BDG-1006,OP1007,Noah Smith,Plant Turnstile,Entry,Granted,Anti-passback,Contractor-A,Zone-East,DEV-3
+ACC0031,2026-07-06 10:00:00,BDG-1007,OP1008,Ayanda Khumalo,Main Gate,Exit,Granted,Expired training,Contractor-B,Zone-South,DEV-4
+ACC0032,2026-07-06 14:00:00,BDG-1000,OP1001,Lebo Mokoena,Main Gate,Exit,Granted,Valid badge,Contractor-A,Zone-North,DEV-1
+ACC0033,2026-07-06 18:00:00,BDG-1001,OP1002,Aisha Naidoo,Plant Turnstile,Exit,Granted,Expired training,Contractor-B,Zone-West,DEV-2
+ACC0034,2027-08-05 06:00:00,BDG-1002,OP1003,Thabo Dlamini,Workshop Gate,Exit,Granted,,Contractor-A,Zone-East,DEV-3
+ACC0035,2026-07-07 02:00:00,BDG-1003,OP1004,Mia Jacobs,Plant Turnstile,Entry,Granted,,Contractor-C,Zone-South,DEV-4
+ACC0036,2026-07-07 06:00:00,BDG-1004,OP1005,Kagiso Molefe,Main Gate,Entry,Granted,,Contractor-B,Zone-North,DEV-1
+ACC0037,2026-07-07 10:00:00,BDG-1005,OP1006,Zanele Ncube,Plant Turnstile,Entry,Granted,,Contractor-C,Zone-West,DEV-2
+ACC0038,2026-07-07 14:00:00,BDG-1006,OP1007,Noah Smith,Main Gate,Entry,Denied,Anti-passback,Contractor-A,Zone-East,DEV-3
+ACC0039,2026-07-07 18:00:00,BDG-1007,OP1008,Ayanda Khumalo,Plant Turnstile,Exit,Denied,,Contractor-B,Zone-South,DEV-4
+ACC0040,2026-07-07 22:00:00,BDG-1000,OP1001,Lebo Mokoena,Main Gate,Exit,Granted,,Contractor-A,Zone-North,DEV-1
+ACC0041,2026-07-08 02:00:00,BDG-1001,OP1002,Aisha Naidoo,Workshop Gate,Exit,Granted,,Contractor-B,Zone-West,DEV-2
+ACC0042,2026-07-08 06:00:00,BDG-1002,OP1003,Thabo Dlamini,Workshop Gate,Entry,Denied,,Contractor-A,Zone-East,DEV-3
+ACC0043,2026-07-08 10:00:00,BDG-1003,OP1004,Mia Jacobs,Main Gate,Entry,Granted,Anti-passback,Contractor-C,Zone-South,DEV-4
+ACC0044,2026-07-08 14:00:00,BDG-1004,OP1005,Kagiso Molefe,Main Gate,Entry,Granted,Anti-passback,Contractor-B,Zone-North,DEV-1
+ACC0045,2026-07-08 18:00:00,BDG-1005,OP1006,Zanele Ncube,Main Gate,Entry,Denied,,Contractor-C,Zone-West,DEV-2
