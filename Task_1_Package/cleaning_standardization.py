@@ -145,7 +145,7 @@ def get_rule(rule_catalogue_df, dataset, column, rule_type=None):
 
     if matches.empty:
         return {
-            "Rule_ID": "PHASE2-NO-CATALOGUE-MATCH",
+            "Rule_ID": "CLEANING-NO-CATALOGUE-MATCH",
             "Reason": "No exact rule catalogue match found for this cleaning operation",
             "Rule_Type": rule_type or "Standardisation",
         }

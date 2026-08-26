@@ -13,7 +13,7 @@ PHASE 4 - EXCEPTION REGISTER
 PHASE 5 - VALIDATION & TRUST ASSESSMENT
 ```
 
-The project has completed Phase 1 inventory/profiling and now has an initial Phase 1.5 data quality rule catalogue ready to drive Phase 2 cleaning. The main workflow is centralized in `Task_1_Package/data_extraction.ipynb`, so a user can run that notebook top-to-bottom to regenerate the inventory outputs and rule catalogue.
+The project has completed Phase 1 inventory/profiling, Phase 1.5 rule catalogue generation, and the first cleaning/standardisation pass. The main workflow is centralized in `Task_1_Package/data_extraction.ipynb`, so a user can run that notebook top-to-bottom to regenerate the inventory outputs, rule catalogue, cleaned data, exception candidates, and transformation-log review outputs.
 
 ## Completed In Phase 1
 
@@ -211,6 +211,38 @@ VALIDATED / TRUSTED
 
 Each transformation should be traceable through an exception or transformation log.
 
+## Transformation Logging Review
+
+The cleaning workflow now produces a transformation log that answers:
+
+1. What was the original value?
+2. What did we change it to?
+3. Why did we change it?
+4. Which rule caused the change?
+5. Was it automatically corrected, automatically accepted, or flagged for review?
+
+The transformation-log review is implemented with:
+
+```text
+Task_1_Package/transformation_logging.py
+```
+
+Current transformation-log review outputs are saved in:
+
+```text
+Task_1_Package/standardized_cleaned_data/transformation_logging/
+```
+
+Current files:
+
+1. `transformation_log_validation_summary.csv`
+2. `transformation_log_validation_issues.csv`
+3. `transformation_log_dataset_summary.csv`
+4. `transformation_log_rule_summary.csv`
+5. `transformation_review_queue.csv`
+
+The latest targeted run found 999 transformation records, 0 transformation-log validation issues, 9 dataset summary rows, 48 rule summary rows, and 0 transformation review queue rows.
+
 ## Human Review Status Categories
 
 The exception workflow should support these review outcomes:
@@ -223,4 +255,4 @@ The exception workflow should support these review outcomes:
 
 ## Next Work
 
-The immediate next task is Phase 2: build the cleaning and standardisation engine using the rule catalogue. That phase should produce cleaned datasets plus a transformation log that answers what changed, why it changed, which rule caused it, and whether the change was automatic or reviewed.
+The next task is cross-dataset reconciliation: use the cleaned datasets, exception candidates, and transformation log to identify referential integrity issues, temporal contradictions, equipment/event conflicts, operator/activity conflicts, and other cross-dataset contradictions.
