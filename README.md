@@ -13,7 +13,7 @@ PHASE 4 - EXCEPTION REGISTER
 PHASE 5 - VALIDATION & TRUST ASSESSMENT
 ```
 
-The project has completed Phase 1 inventory/profiling and now has an initial Phase 1.5 data quality rule catalogue ready to drive Phase 2 cleaning.
+The project has completed Phase 1 inventory/profiling and now has an initial Phase 1.5 data quality rule catalogue ready to drive Phase 2 cleaning. The main workflow is centralized in `Task_1_Package/data_extraction.ipynb`, so a user can run that notebook top-to-bottom to regenerate the inventory outputs and rule catalogue.
 
 ## Completed In Phase 1
 
@@ -35,7 +35,7 @@ The following 9 operational sheets were inventoried:
 8. Environmental_Readings
 9. Access_Control
 
-The notebook also inspects the `Data_Dictionary` sheet so the next phase can define data quality rules before changing source values.
+The notebook also inspects the `Data_Dictionary` sheet and then generates Phase 1.5 rules from the saved profiling outputs.
 
 ## Generated Inventory Outputs
 
@@ -101,11 +101,11 @@ The profile findings and `Data_Dictionary` guidance have been converted into a p
 
 ```text
 Task_1_Package/data_inventory/data_quality_rule_catalogue.csv
-Task_1_Package/data_quality_rule_catalogue.ipynb
+Task_1_Package/data_extraction.ipynb
 Task_1_Package/rule_catalogue_generator.py
 ```
 
-The catalogue is generated from the existing profiling outputs rather than manually typed into the notebook. Human judgement rules can be added to:
+The catalogue is generated from the existing profiling outputs by `rule_catalogue_generator.py`, which is imported by `data_extraction.ipynb`. Human judgement rules can be added to:
 
 ```text
 Task_1_Package/data_inventory/rule_domain_overrides.csv
