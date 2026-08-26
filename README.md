@@ -172,6 +172,27 @@ Current rule dimensions:
 
 Cleaning should not happen until the rule catalogue defines what clean means for each field.
 
+Phase 2 standardized/cleaned outputs should be stored in:
+
+```text
+Task_1_Package/standardized_cleaned_data/
+```
+
+Phase 2 is now implemented in the centralized `data_extraction.ipynb` workflow using:
+
+```text
+Task_1_Package/cleaning_standardization.py
+```
+
+Current cleaning outputs:
+
+1. Cleaned CSVs for all 9 operational datasets.
+2. `transformation_log.csv`
+3. `exception_candidates.csv`
+4. `cleaning_summary.csv`
+
+The latest run generated 999 transformation log records and 279 exception candidates. Each operational dataset had 1 duplicate row removed after logging, leaving 45 cleaned rows per dataset.
+
 Target cleaning actions:
 
 1. Standardise known equivalent values, such as equipment aliases and categorical labels.
