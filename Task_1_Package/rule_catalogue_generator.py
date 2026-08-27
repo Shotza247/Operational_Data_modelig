@@ -169,6 +169,11 @@ def is_unit_column(column):
     return "unit" in str(column).lower()
 
 
+def is_equipment_reference_column(column):
+    column_lower = str(column).lower()
+    return "equipment" in column_lower and not is_unit_column(column)
+
+
 def is_percent_column(column):
     return "pct" in str(column).lower() or "%" in str(column)
 
@@ -497,6 +502,32 @@ def infer_unit_rules(column_profile):
     return rules
 
 
+def infer_equipment_reference_rules(column_profile):
+    rules = []
+
+    for _, row in column_profile.iterrows():
+        column = row["Column"]
+
+        if not is_equipment_reference_column(column):
+            continue
+
+        add_rule(
+            rules,
+            row["Dataset"],
+            column,
+            "Consistency",
+            "Equipment references must use canonical equipment IDs before cross-dataset comparison",
+            "Standardise supported equipment aliases and log each value-level change",
+            True,
+            "High",
+            "Equipment aliases cause false reconciliation exceptions when left unstandardised",
+            "Generated from datasheet-column-level.csv",
+            f"Unique_Count={row['Unique_Count']}; Sample_Values={row['Sample_Values']}",
+        )
+
+    return rules
+
+
 def infer_categorical_rules(column_profile):
     rules = []
 
@@ -647,6 +678,7 @@ def build_rule_catalogue(inputs):
     rules.extend(infer_temporal_pair_rules(inputs["column_profile"]))
     rules.extend(infer_numeric_rules(inputs["numeric_profiles"]))
     rules.extend(infer_unit_rules(inputs["column_profile"]))
+    rules.extend(infer_equipment_reference_rules(inputs["column_profile"]))
     rules.extend(infer_categorical_rules(inputs["column_profile"]))
     rules.extend(infer_privacy_rules(inputs["privacy_inventory"]))
     rules.extend(infer_dictionary_guidance_rules(inputs["data_dictionary"]))

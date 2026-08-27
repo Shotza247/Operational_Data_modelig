@@ -11,3 +11,5 @@ Current files:
 5. `reconciliation_validation_summary.csv`
 
 The checks look for referential integrity issues, profile conflicts, equipment/event conflicts, and operator/activity conflicts before the findings are consolidated into the exception register.
+
+The latest targeted run produced 20 reconciliation findings after upstream equipment-reference standardisation was widened. `Related_Record_ID` is populated for matched conflict records and set to `NO_MATCH_FOUND` for true referential integrity gaps.

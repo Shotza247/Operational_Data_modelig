@@ -20,7 +20,7 @@ The project has completed Phase 1 inventory/profiling, Phase 1.5 rule catalogue 
 The current `Task_1_Package/data_extraction.ipynb` notebook extracts and profiles the operational workbook:
 
 ```text
-Task_1_Package/data/raw/Operational_Mining_Data.xlsx
+Task_1_Package/raw_Ops_data/Operational_Mining_Data.xlsx
 ```
 
 The following 9 operational sheets were inventoried:
@@ -111,7 +111,7 @@ The catalogue is generated from the existing profiling outputs by `rule_catalogu
 Task_1_Package/data_inventory/rule_domain_overrides.csv
 ```
 
-The catalogue currently contains 200 rules and uses these columns:
+The catalogue currently contains 207 rules and uses these columns:
 
 ```text
 Rule_ID
@@ -132,7 +132,7 @@ Rule coverage summary:
 | Rule Type | Rule Count |
 |---|---:|
 | Completeness | 28 |
-| Consistency | 5 |
+| Consistency | 12 |
 | Data dictionary guidance | 20 |
 | Plausibility | 14 |
 | Privacy | 24 |
@@ -144,7 +144,7 @@ The catalogue separates rules that can be auto-corrected from rules that must be
 
 | Auto Correct Allowed | Rule Count |
 |---|---:|
-| TRUE | 67 |
+| TRUE | 74 |
 | FALSE | 133 |
 
 Rules should define:
@@ -190,12 +190,13 @@ Current cleaning outputs:
 2. `transformation_log.csv`
 3. `exception_candidates.csv`
 4. `cleaning_summary.csv`
+5. `standardization_gap_report.csv`
 
-The latest run generated 999 transformation log records and 279 exception candidates. Each operational dataset had 1 duplicate row removed after logging, leaving 45 cleaned rows per dataset.
+The latest run generated 1044 transformation log records, 279 exception candidates, and 0 standardization gap rows. Each operational dataset had 1 duplicate row removed after logging, leaving 45 cleaned rows per dataset.
 
 Target cleaning actions:
 
-1. Standardise known equivalent values, such as equipment aliases and categorical labels.
+1. Standardise known equivalent values, such as equipment aliases, equipment-reference columns, and categorical labels.
 2. Correct obvious semantic errors only when supported by the rule catalogue.
 3. Derive values from source evidence where appropriate, such as duration from start and end timestamps.
 4. Flag exceptions where values look invalid but cannot be safely corrected.
@@ -241,7 +242,7 @@ Current files:
 4. `transformation_log_rule_summary.csv`
 5. `transformation_review_queue.csv`
 
-The latest targeted run found 999 transformation records, 0 transformation-log validation issues, 9 dataset summary rows, 48 rule summary rows, and 0 transformation review queue rows.
+The latest targeted run found 1044 transformation records, 0 transformation-log validation issues, 9 dataset summary rows, 49 rule summary rows, and 0 transformation review queue rows.
 
 ## Phase 3 Reconciliation
 
@@ -267,7 +268,7 @@ Current files:
 4. `reconciliation_check_summary.csv`
 5. `reconciliation_validation_summary.csv`
 
-The latest targeted run produced 63 reconciliation findings across 3 datasets: 10 critical findings and 53 high-severity findings. These include equipment reference gaps, activity and maintenance overlaps, activity and downtime overlaps, denied access during recorded activity, and an operator reference gap. All 3 reconciliation validation checks passed.
+The latest targeted run produced 20 reconciliation findings across 2 datasets: 10 critical findings and 10 high-severity findings. These include 1 true equipment reference gap, activity and maintenance overlaps, activity and downtime overlaps, denied access during recorded activity, and 1 operator reference gap. All 3 reconciliation validation checks passed.
 
 ## Human Review Status Categories
 
@@ -304,7 +305,7 @@ Current files:
 5. `exception_priority_queue.csv`
 6. `exception_register_validation_summary.csv`
 
-The latest targeted run produced 342 register rows after adding reconciliation findings, including 16 critical exceptions, 151 high-severity exceptions, 175 medium-severity exceptions, and 167 exceptions requiring source review. All 5 exception-register validation checks passed.
+The latest targeted run produced 299 register rows after adding reconciliation findings, including 16 critical exceptions, 108 high-severity exceptions, 175 medium-severity exceptions, and 124 exceptions requiring source review. All 5 exception-register validation checks passed.
 
 ## Next Work
 

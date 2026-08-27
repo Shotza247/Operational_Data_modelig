@@ -16,21 +16,22 @@ Current outputs:
 10. `transformation_log.csv`
 11. `exception_candidates.csv`
 12. `cleaning_summary.csv`
-13. `transformation_logging/`
-14. `reconciliation/`
-15. `exception_register/`
+13. `standardization_gap_report.csv`
+14. `transformation_logging/`
+15. `reconciliation/`
+16. `exception_register/`
 
-Phase 2 currently removes one duplicate row from each operational dataset, leaving 45 cleaned rows per dataset. The transformation log contains 999 automatically recorded changes. The exception candidate file contains 279 records that were flagged for review rather than silently corrected.
+Phase 2 currently removes one duplicate row from each operational dataset, leaving 45 cleaned rows per dataset. The transformation log contains 1044 automatically recorded changes. The exception candidate file contains 279 records that were flagged for review rather than silently corrected. The standardization gap report currently contains 0 rows.
 
-Transformation-log review outputs are saved in `transformation_logging/`. The latest targeted run produced 6 validation checks, 0 validation issues, 9 dataset summaries, 48 rule summaries, and 0 transformation review queue rows.
+Transformation-log review outputs are saved in `transformation_logging/`. The latest targeted run produced 6 validation checks, 0 validation issues, 9 dataset summaries, 49 rule summaries, and 0 transformation review queue rows.
 
-Reconciliation outputs are saved in `reconciliation/`. The latest targeted run produced 63 reconciliation findings, 10 critical findings, 53 high-severity findings, and 0 validation failures.
+Reconciliation outputs are saved in `reconciliation/`. The latest targeted run produced 20 reconciliation findings, 10 critical findings, 10 high-severity findings, and 0 validation failures.
 
-Exception-register outputs are saved in `exception_register/`. The latest targeted run produced 342 register rows, 167 priority queue rows, 5 validation checks, and 0 validation failures after reconciliation findings were added.
+Exception-register outputs are saved in `exception_register/`. The latest targeted run produced 299 register rows, 124 priority queue rows, 5 validation checks, and 0 validation failures after reconciliation findings were added.
 
 Cleaning actions currently include:
 
-1. Equipment-name standardisation.
+1. Equipment-name and equipment-reference standardisation.
 2. Controlled category casing and typo standardisation.
 3. Date/time standardisation into ISO-style values.
 4. Mobile-number format standardisation.

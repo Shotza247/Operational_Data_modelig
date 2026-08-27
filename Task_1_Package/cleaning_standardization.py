@@ -31,6 +31,24 @@ PRIMARY_KEYS = {
     "Access_Control": "Access_Event_ID",
 }
 
+EQUIPMENT_REFERENCE_COLUMNS = [
+    "Equipment_Name",
+    "Equipment_Nearby",
+]
+
+WORD_NUMBERS = {
+    "ONE": 1,
+    "TWO": 2,
+    "THREE": 3,
+    "FOUR": 4,
+    "FIVE": 5,
+    "SIX": 6,
+    "SEVEN": 7,
+    "EIGHT": 8,
+    "NINE": 9,
+    "TEN": 10,
+}
+
 CATEGORY_MAPPINGS = {
     "Event_Type": {
         "start": "Start",
@@ -302,28 +320,40 @@ def canonical_equipment_name(value):
         if match:
             return f"{prefix}-{int(match.group(2)):03d}"
 
+    word_patterns = [
+        (r"^(TRK|TRUCK)([A-Z]+)$", "TRK"),
+        (r"^(EXC|EX|EXCAVATOR)([A-Z]+)$", "EXC"),
+        (r"^(DRL|DRILL)([A-Z]+)$", "DRL"),
+    ]
+
+    for pattern, prefix in word_patterns:
+        match = re.match(pattern, token)
+        if match and match.group(2) in WORD_NUMBERS:
+            return f"{prefix}-{WORD_NUMBERS[match.group(2)]:03d}"
+
     return str(value)
 
 
-def standardise_equipment_names(dataset, df, rule_catalogue_df, log_rows):
-    if "Equipment_Name" not in df.columns:
-        return
+def standardise_equipment_references(dataset, df, rule_catalogue_df, log_rows):
+    for column in EQUIPMENT_REFERENCE_COLUMNS:
+        if column not in df.columns:
+            continue
 
-    rule = get_rule(rule_catalogue_df, dataset, "Equipment_Name", "Consistency")
+        rule = get_rule(rule_catalogue_df, dataset, column, "Consistency")
 
-    for row_index, value in df["Equipment_Name"].items():
-        new_value = canonical_equipment_name(value)
-        record_transformation(
-            log_rows,
-            dataset,
-            df,
-            row_index,
-            "Equipment_Name",
-            value,
-            new_value,
-            rule,
-        )
-        df.at[row_index, "Equipment_Name"] = new_value
+        for row_index, value in df[column].items():
+            new_value = canonical_equipment_name(value)
+            record_transformation(
+                log_rows,
+                dataset,
+                df,
+                row_index,
+                column,
+                value,
+                new_value,
+                rule,
+            )
+            df.at[row_index, column] = new_value
 
 
 def standardise_categorical_values(dataset, df, rule_catalogue_df, log_rows):
@@ -653,11 +683,101 @@ def flag_temporal_issues(dataset, df, rule_catalogue_df, exception_rows):
             )
 
 
+def build_standardization_gap_report(cleaned_datasets):
+    gap_rows = []
+
+    for dataset, df in cleaned_datasets.items():
+        for column in EQUIPMENT_REFERENCE_COLUMNS:
+            if column not in df.columns:
+                continue
+
+            for row_index, value in df[column].items():
+                if pd.isna(value) or str(value).strip() == "":
+                    continue
+
+                expected_value = canonical_equipment_name(value)
+                current_value = str(value)
+                canonical_pattern = r"^(TRK|EXC|DRL)-\d{3}$"
+
+                if current_value != expected_value:
+                    gap_rows.append(
+                        {
+                            "Dataset": dataset,
+                            "Source_Row_Index": int(row_index),
+                            "Source_Row_Number": int(row_index) + 2,
+                            "Record_ID": get_record_id(dataset, df, row_index),
+                            "Column": column,
+                            "Current_Value": current_value,
+                            "Expected_Value": expected_value,
+                            "Gap_Type": "Known equipment alias still present",
+                            "Severity": "High",
+                            "Recommended_Action": "Apply equipment reference standardisation before reconciliation",
+                        }
+                    )
+                elif not re.match(canonical_pattern, current_value):
+                    gap_rows.append(
+                        {
+                            "Dataset": dataset,
+                            "Source_Row_Index": int(row_index),
+                            "Source_Row_Number": int(row_index) + 2,
+                            "Record_ID": get_record_id(dataset, df, row_index),
+                            "Column": column,
+                            "Current_Value": current_value,
+                            "Expected_Value": "",
+                            "Gap_Type": "Unrecognised equipment reference format",
+                            "Severity": "Medium",
+                            "Recommended_Action": "Review whether this value needs a new domain alias rule",
+                        }
+                    )
+
+        for column, mapping in CATEGORY_MAPPINGS.items():
+            if column not in df.columns:
+                continue
+
+            for row_index, value in df[column].items():
+                if pd.isna(value):
+                    continue
+
+                current_value = str(value).strip()
+                expected_value = mapping.get(current_value.lower())
+                if expected_value and current_value != expected_value:
+                    gap_rows.append(
+                        {
+                            "Dataset": dataset,
+                            "Source_Row_Index": int(row_index),
+                            "Source_Row_Number": int(row_index) + 2,
+                            "Record_ID": get_record_id(dataset, df, row_index),
+                            "Column": column,
+                            "Current_Value": current_value,
+                            "Expected_Value": expected_value,
+                            "Gap_Type": "Known categorical alias still present",
+                            "Severity": "Medium",
+                            "Recommended_Action": "Apply categorical standardisation before trusted use",
+                        }
+                    )
+
+    return pd.DataFrame(
+        gap_rows,
+        columns=[
+            "Dataset",
+            "Source_Row_Index",
+            "Source_Row_Number",
+            "Record_ID",
+            "Column",
+            "Current_Value",
+            "Expected_Value",
+            "Gap_Type",
+            "Severity",
+            "Recommended_Action",
+        ],
+    )
+
+
 def clean_dataset(dataset, raw_df, rule_catalogue_df, log_rows, exception_rows):
     cleaned_df = raw_df.copy()
 
     clean_text_whitespace(dataset, cleaned_df, rule_catalogue_df, log_rows)
-    standardise_equipment_names(dataset, cleaned_df, rule_catalogue_df, log_rows)
+    standardise_equipment_references(dataset, cleaned_df, rule_catalogue_df, log_rows)
     standardise_categorical_values(dataset, cleaned_df, rule_catalogue_df, log_rows)
     standardise_mobile_numbers(dataset, cleaned_df, rule_catalogue_df, log_rows)
     standardise_dates(dataset, cleaned_df, rule_catalogue_df, log_rows, exception_rows)
@@ -743,13 +863,20 @@ def run_cleaning(datasets, rule_catalogue_path=RULE_CATALOGUE_PATH, output_dir=O
         "Exception_Candidate_Count"
     ].astype(int)
 
+    standardization_gap_report_df = build_standardization_gap_report(cleaned_datasets)
+
     transformation_log_df.to_csv(output_dir / "transformation_log.csv", index=False)
     exception_candidates_df.to_csv(output_dir / "exception_candidates.csv", index=False)
     cleaning_summary_df.to_csv(output_dir / "cleaning_summary.csv", index=False)
+    standardization_gap_report_df.to_csv(
+        output_dir / "standardization_gap_report.csv",
+        index=False,
+    )
 
     return {
         "cleaned_datasets": cleaned_datasets,
         "transformation_log": transformation_log_df,
         "exception_candidates": exception_candidates_df,
         "cleaning_summary": cleaning_summary_df,
+        "standardization_gap_report": standardization_gap_report_df,
     }

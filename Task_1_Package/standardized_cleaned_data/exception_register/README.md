@@ -13,4 +13,4 @@ Current files:
 
 The register preserves source evidence and adds review fields for priority, owner, trusted-data guidance, decision, resolution value, and resolution notes.
 
-The latest targeted run produced 342 register rows and 167 priority queue rows after reconciliation findings were added.
+The latest targeted run produced 299 register rows and 124 priority queue rows after reconciliation findings were added.
