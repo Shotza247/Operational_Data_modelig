@@ -1,0 +1,6 @@
+Check_Type,Issue_Type,Severity,Finding_Count,Dataset_Count
+Referential integrity,Equipment reference not found,High,44,2
+Equipment/event conflict,Activity overlaps recorded maintenance,Critical,9,1
+Equipment/event conflict,Activity overlaps recorded downtime,High,7,1
+Operator/activity conflict,Denied access during recorded activity,High,2,1
+Referential integrity,Operator reference not found,Critical,1,1

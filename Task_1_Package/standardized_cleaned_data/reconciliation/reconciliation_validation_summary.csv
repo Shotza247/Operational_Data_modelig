@@ -1,0 +1,4 @@
+Check,Passed,Issue_Count,Details
+Required reconciliation fields are populated,True,0,OK
+Reconciliation_ID values are unique,True,0,OK
+Findings are marked for review,True,0,OK

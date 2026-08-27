@@ -1,0 +1,4 @@
+Dataset,Finding_Count,Critical_Count,High_Count,Affected_Record_Count,Check_Type_Count
+Operator_Activities,17,9,8,17,2
+Access_Control,3,1,2,3,2
+Environmental_Readings,43,0,43,43,1
