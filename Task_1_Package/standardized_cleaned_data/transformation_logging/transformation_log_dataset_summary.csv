@@ -1,10 +1,10 @@
 Dataset,Transformation_Count,Affected_Record_Count,Affected_Column_Count,Rule_Count,AUTO_CORRECT,EXCLUDE_DUPLICATE_ROW
-Maintenance_Notifications,193,45,7,7,192,1
+Maintenance_Notifications,194,45,7,7,193,1
 Operator_Activities,145,45,6,6,144,1
 Delays_Downtime,145,45,7,6,144,1
 Equipment_Events,117,45,7,7,116,1
+Environmental_Readings,115,45,4,4,114,1
 Safety_Observations,104,44,6,6,103,1
 Access_Control,78,41,4,4,77,1
 Shift_Performance,74,43,5,5,73,1
 Training_Records,72,45,4,4,71,1
-Environmental_Readings,71,34,3,3,70,1

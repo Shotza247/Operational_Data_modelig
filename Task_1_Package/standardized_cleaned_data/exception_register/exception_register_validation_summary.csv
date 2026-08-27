@@ -1,0 +1,6 @@
+Check,Passed,Issue_Count,Details
+Required register fields are populated,True,0,OK
+Register_ID values are unique,True,0,OK
+Rule_ID values link back to the rule catalogue or approved system checks,True,0,OK
+All exceptions have a review owner,True,0,OK
+All exceptions have trusted-data guidance,True,0,OK

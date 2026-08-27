@@ -1,0 +1,12 @@
+Issue_Type,Severity,Exception_Count,Dataset_Count,Source_Review_Count
+Missing value,Medium,175,9,0
+Unparseable date/time,High,92,2,92
+Activity overlaps recorded maintenance,Critical,9,1,9
+Activity overlaps recorded downtime,High,7,1,7
+Temporal contradiction,Critical,6,5,6
+Negative numeric value,High,4,4,4
+Denied access during recorded activity,High,2,1,2
+Equipment reference not found,High,1,1,1
+Operator reference not found,Critical,1,1,1
+Percentage outside expected 0 to 1 range,High,1,1,1
+Score outside 0 to 100 range,High,1,1,1

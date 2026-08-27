@@ -1,0 +1,7 @@
+Metric,Value
+Total exceptions,299
+Critical exceptions,16
+High exceptions,108
+Review required,299
+Requires source review,124
+Excluded from trusted data until resolved,16
