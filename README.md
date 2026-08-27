@@ -2,7 +2,7 @@
 
 ## Task 1 Progress Summary
 
-Task 1 is focused on building a trustworthy operational data foundation before any cleaning or standardisation is applied. The current workflow follows this sequence:
+Task 1 is focused on building a trustworthy operational data foundation by profiling, rule generation, cleaning, reconciliation, exception management, and final trust assessment. The current workflow follows this sequence:
 
 ```text
 PHASE 1 - INVENTORY & PROFILING
@@ -13,7 +13,7 @@ PHASE 4 - EXCEPTION REGISTER
 PHASE 5 - VALIDATION & TRUST ASSESSMENT
 ```
 
-The project has completed Phase 1 inventory/profiling, Phase 1.5 rule catalogue generation, and the first cleaning/standardisation pass. The main workflow is centralized in `Task_1_Package/data_extraction.ipynb`, so a user can run that notebook top-to-bottom to regenerate the inventory outputs, rule catalogue, cleaned data, exception candidates, and transformation-log review outputs.
+The project has completed Phase 1 inventory/profiling, Phase 1.5 rule catalogue generation, the first cleaning/standardisation pass, transformation-log review, Phase 3 reconciliation, and the Phase 4 exception register. The main workflow is centralized in `Task_1_Package/data_extraction.ipynb`, so a user can run that notebook top-to-bottom to regenerate the inventory outputs, rule catalogue, cleaned data, exception candidates, transformation-log review outputs, reconciliation outputs, and exception register.
 
 ## Completed In Phase 1
 
@@ -221,7 +221,7 @@ The cleaning workflow now produces a transformation log that answers:
 4. Which rule caused the change?
 5. Was it automatically corrected, automatically accepted, or flagged for review?
 
-The transformation-log review is implemented with:
+The transformation-log review supports the cleaning audit trail and is implemented with:
 
 ```text
 Task_1_Package/transformation_logging.py
@@ -243,6 +243,32 @@ Current files:
 
 The latest targeted run found 999 transformation records, 0 transformation-log validation issues, 9 dataset summary rows, 48 rule summary rows, and 0 transformation review queue rows.
 
+## Phase 3 Reconciliation
+
+Reconciliation now checks the cleaned datasets for cross-dataset contradictions before they are consolidated into the exception register.
+
+The reconciliation workflow is implemented with:
+
+```text
+Task_1_Package/reconciliation.py
+```
+
+Current reconciliation outputs are saved in:
+
+```text
+Task_1_Package/standardized_cleaned_data/reconciliation/
+```
+
+Current files:
+
+1. `reconciliation_findings.csv`
+2. `reconciliation_summary.csv`
+3. `reconciliation_dataset_summary.csv`
+4. `reconciliation_check_summary.csv`
+5. `reconciliation_validation_summary.csv`
+
+The latest targeted run produced 63 reconciliation findings across 3 datasets: 10 critical findings and 53 high-severity findings. These include equipment reference gaps, activity and maintenance overlaps, activity and downtime overlaps, denied access during recorded activity, and an operator reference gap. All 3 reconciliation validation checks passed.
+
 ## Human Review Status Categories
 
 The exception workflow should support these review outcomes:
@@ -253,6 +279,33 @@ The exception workflow should support these review outcomes:
 4. `REJECT`
 5. `UNRESOLVED`
 
+## Exception Register
+
+Exception candidates are now consolidated into a reviewable register with priority, ownership, trusted-data guidance, and empty resolution fields for future manual review outcomes.
+
+The exception register is implemented with:
+
+```text
+Task_1_Package/exception_register.py
+```
+
+Current exception-register outputs are saved in:
+
+```text
+Task_1_Package/standardized_cleaned_data/exception_register/
+```
+
+Current files:
+
+1. `exception_register.csv`
+2. `exception_register_summary.csv`
+3. `exception_register_dataset_summary.csv`
+4. `exception_register_issue_type_summary.csv`
+5. `exception_priority_queue.csv`
+6. `exception_register_validation_summary.csv`
+
+The latest targeted run produced 342 register rows after adding reconciliation findings, including 16 critical exceptions, 151 high-severity exceptions, 175 medium-severity exceptions, and 167 exceptions requiring source review. All 5 exception-register validation checks passed.
+
 ## Next Work
 
-The next task is cross-dataset reconciliation: use the cleaned datasets, exception candidates, and transformation log to identify referential integrity issues, temporal contradictions, equipment/event conflicts, operator/activity conflicts, and other cross-dataset contradictions.
+The next task is Phase 5 validation and trust assessment: use the cleaned datasets, reconciliation findings, transformation log, and exception register to decide which data is trustworthy for analysis and which outputs need caveats or exclusion.

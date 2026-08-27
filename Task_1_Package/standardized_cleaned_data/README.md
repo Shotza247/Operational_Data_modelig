@@ -17,10 +17,16 @@ Current outputs:
 11. `exception_candidates.csv`
 12. `cleaning_summary.csv`
 13. `transformation_logging/`
+14. `reconciliation/`
+15. `exception_register/`
 
 Phase 2 currently removes one duplicate row from each operational dataset, leaving 45 cleaned rows per dataset. The transformation log contains 999 automatically recorded changes. The exception candidate file contains 279 records that were flagged for review rather than silently corrected.
 
 Transformation-log review outputs are saved in `transformation_logging/`. The latest targeted run produced 6 validation checks, 0 validation issues, 9 dataset summaries, 48 rule summaries, and 0 transformation review queue rows.
+
+Reconciliation outputs are saved in `reconciliation/`. The latest targeted run produced 63 reconciliation findings, 10 critical findings, 53 high-severity findings, and 0 validation failures.
+
+Exception-register outputs are saved in `exception_register/`. The latest targeted run produced 342 register rows, 167 priority queue rows, 5 validation checks, and 0 validation failures after reconciliation findings were added.
 
 Cleaning actions currently include:
 
@@ -39,6 +45,8 @@ Task_1_Package/data_inventory/data_quality_rule_catalogue.csv
 Task_1_Package/rule_catalogue_generator.py
 Task_1_Package/cleaning_standardization.py
 Task_1_Package/transformation_logging.py
+Task_1_Package/reconciliation.py
+Task_1_Package/exception_register.py
 ```
 
 Do not place raw data or profiling inventory files in this folder.
