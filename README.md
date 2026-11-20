@@ -1,4 +1,6 @@
 # Operational Data Modelling
+## DigiHealth Architecture: 
+```https://app.diagrams.net/#HShotza247%2FOperational_Data_modelig%2Fmain%2FUntitled%20Diagram.drawio#%7B%22pageId%22%3A%22Z1TlMchcK50pzvUaHnbn%22%7D``
 
 ## Task 1 Progress Summary
 
