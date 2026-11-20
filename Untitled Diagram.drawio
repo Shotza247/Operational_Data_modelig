@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Z1TlMchcK50pzvUaHnbn">
-    <mxGraphModel dx="1549" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1524" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MAwl2OnnpyVytO2v4TgS-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=top;rounded=0;fontSize=200;fontFamily=Times New Roman;" value="DigiHealth Project" vertex="1">
+          <mxGeometry height="315" width="2665" x="-32" y="-365" as="geometry" />
+        </mxCell>
         <mxCell id="xl-ZVA2hsHetAM9RAdT0-85" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="430" width="675" x="1830" y="70" as="geometry" />
         </mxCell>
@@ -779,6 +782,18 @@
         </mxCell>
         <mxCell id="xl-ZVA2hsHetAM9RAdT0-279" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="1 : M" vertex="1">
           <mxGeometry height="30" width="60" x="545" y="1555" as="geometry" />
+        </mxCell>
+        <mxCell id="MAwl2OnnpyVytO2v4TgS-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="WE managed to identify the core entities.&lt;div&gt;&lt;br&gt;&lt;div&gt;DigiHealth:&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Has these 5 Entities&lt;/div&gt;" vertex="1">
+          <mxGeometry height="152" width="220" x="425" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="MAwl2OnnpyVytO2v4TgS-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;div style=&quot;color: rgb(0, 0, 0); text-align: start; font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; line-height: 20px;&quot;&gt;&lt;li&gt;Define attributes&lt;/li&gt;&lt;li&gt;Define PKs and FKs&lt;/li&gt;&lt;li&gt;Establish relationships/cardinality&lt;/li&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="590" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="MAwl2OnnpyVytO2v4TgS-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;div style=&quot;color: rgb(0, 0, 0); text-align: start; font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; line-height: 20px;&quot;&gt;&lt;h3&gt;⚠️ A. &lt;code&gt;MedicalRecord&lt;/code&gt;&lt;/h3&gt;&lt;p&gt;Our assumption:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Patient 1:1 MedicalRecord&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;But a patient may accumulate &lt;strong&gt;multiple diagnoses, treatments and prescriptions over time&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;That could make the current &lt;code&gt;MedicalRecord&lt;/code&gt; structure problematic.&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="380.37" x="-370" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="MAwl2OnnpyVytO2v4TgS-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;div style=&quot;color: rgb(0, 0, 0); text-align: start; font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; line-height: 20px;&quot;&gt;&lt;h3&gt;⚠️ B. &lt;code&gt;Doctor.Specialization&lt;/code&gt;&lt;/h3&gt;&lt;p&gt;A doctor might potentially have one or multiple specializations. The project material also refers to specialization within the broader healthcare model. &lt;a href=&quot;https://ibm-my.sharepoint.com/personal/romeo_ndlovu_ibm_com/Documents/Microsoft%20Copilot%20Chat%20Files/Enterprise%20Data%20Architecture%20and%20DataOps.pdf&quot; style=&quot;text-decoration: none; color: rgb(70, 79, 235);&quot;&gt;[Enterprise...ataOps.pdf | PDF]&lt;/a&gt;&lt;/p&gt;&lt;p&gt;We need to determine whether this is just a Doctor attribute or deserves its own entity.&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="300" x="860" y="1210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
